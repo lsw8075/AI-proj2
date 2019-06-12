@@ -1,0 +1,608 @@
+test data 0
+['the', 'letters', 'of', 'the', 'common', 'soldiers', 'are', 'rich', 'in', 'humor', '.']
+Prob: 7.245128845106149e-27
+result: ['at', 'nns', 'in', 'at', 'jj', 'nns', 'ber', 'jj', 'in', 'nn', '.']
+accuracy 1.0
+=============================
+test data 1
+['indeed', ',', 'no', 'richer', 'humor', 'is', 'to', 'be', 'found', 'in', 'the', 'whole', 'of', 'american', 'literature', 'than', 'in', 'the', 'letters', 'of', 'the', 'semi-literate', 'men', 'who', 'wore', 'the', 'blue', 'and', 'the', 'gray', '.']
+Prob: 1.9010620866047862e-72
+result: ['rb', ',', 'at', 'jjr', 'nn', 'bez', 'to', 'be', 'vbn', 'in', 'at', 'jj', 'in', 'jj', 'nn', 'cs', 'in', 'at', 'nns', 'in', 'at', 'jj', 'nns', 'wps', 'vbd', 'at', 'jj', 'cc', 'at', 'jj', '.']
+accuracy 0.967741935483871
+=============================
+test data 2
+['some', 'of', 'their', 'figures', 'of', 'speech', 'were', 'colorful', 'and', 'expressive', '.']
+Prob: 1.0658242490367428e-30
+result: ['dti', 'in', 'pp$', 'nns', 'in', 'nn', 'bed', 'jj', 'cc', 'jj', '.']
+accuracy 1.0
+=============================
+test data 3
+['a', 'confederate', 'observed', 'that', 'the', 'yankees', 'were', ':', '``', 'thicker', 'than', 'lise', 'on', 'a', 'hen', 'and', 'a', 'dam', 'site', 'ornraier', "''", '.']
+Prob: 8.479132181239374e-66
+result: ['at', 'jj-tl', 'vbd', 'cs', 'at', 'nps', 'bed', ':', '``', 'jjr', 'cs', 'nns', 'in', 'at', 'nn', 'cc', 'at', 'jj', 'nn', 'jjr', "''", '.']
+accuracy 0.9545454545454546
+=============================
+test data 4
+['another', 'reported', 'that', 'his', 'comrades', 'were', '``', 'in', 'fine', 'spirits', 'pitching', 'around', 'like', 'a', 'blind', 'dog', 'in', 'a', 'meat', 'house', "''", '.']
+Prob: 5.71468755521736e-62
+result: ['dt', 'vbd', 'cs', 'pp$', 'nns', 'bed', '``', 'in', 'jj', 'nns', 'vbg', 'rb', 'cs', 'at', 'jj', 'nn', 'in', 'at', 'nn', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 5
+['a', 'third', 'wrote', 'that', 'it', 'was', '``', 'raining', 'like', 'poring', 'peas', 'on', 'a', 'rawhide', "''", '.']
+Prob: 3.80912082421212e-45
+result: ['at', 'od', 'vbd', 'cs', 'pps', 'bedz', '``', 'vbg', 'cs', 'vbg', 'nns', 'in', 'at', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 6
+['yanks', 'were', 'equally', 'adept', 'at', 'figurative', 'expression', '.']
+Prob: 9.301600894405308e-29
+result: ['nps', 'bed', 'ql', 'jj', 'in', 'jj', 'nn', '.']
+accuracy 1.0
+=============================
+test data 7
+['one', 'wrote', ':', '``', '(', 'i', 'am', 'so', 'hungry', ')', 'i', 'could', 'eat', 'a', 'rider', 'off', 'his', 'horse', '&', 'snap', 'at', 'the', 'stirups', "''", '.']
+Prob: 2.1780880406798146e-67
+result: ['pn', 'vbd', ':', '``', '(', 'ppss', 'bem', 'ql', 'jj', ')', 'ppss', 'md', 'vb', 'at', 'nn', 'in', 'pp$', 'nn', 'cc', 'vb', 'in', 'at', 'nns', "''", '.']
+accuracy 0.96
+=============================
+test data 8
+['a', 'second', 'reported', 'that', 'the', 'dilapidated', 'houses', 'in', 'virginia', '``', 'look', 'like', 'the', 'latter', 'end', 'of', 'original', 'sin', 'and', 'hard', 'times', "''", '.']
+Prob: 5.930298122796206e-63
+result: ['at', 'od', 'vbd', 'cs', 'at', 'vbn', 'nns', 'in', 'np', '``', 'vb', 'cs', 'at', 'ap', 'nn', 'in', 'jj', 'nn', 'cc', 'jj', 'nns', "''", '.']
+accuracy 1.0
+=============================
+test data 9
+['a', 'third', 'remarked', 'of', 'slowness', 'of', 'southerners', ':', '``', 'they', 'moved', 'about', 'from', 'corner', 'to', 'corner', ',', 'as', 'uneasy', 'as', 'a', 'litter', 'of', 'hungry', 'leaches', 'on', 'the', 'neck', 'of', 'a', 'wooden', 'god', "''", '.']
+Prob: 7.075928496886925e-90
+result: ['at', 'od', 'vbd', 'in', 'nn', 'in', 'nns-tl', ':', '``', 'ppss', 'vbd', 'rb', 'in', 'nn', 'in', 'nn', ',', 'ql', 'jj', 'cs', 'at', 'nn', 'in', 'jj', 'nns', 'in', 'at', 'nn', 'in', 'at', 'jj', 'np', "''", '.']
+accuracy 0.9705882352941176
+=============================
+test data 10
+['still', 'another', ',', 'annoyed', 'by', 'the', 'brevity', 'of', 'a', 'recently', 'received', 'missive', ',', 'wrote', ':', '``', 'yore', 'letter', 'was', 'short', 'and', 'sweet', ',', 'jist', 'like', 'a', 'roasted', 'maget', "''", '.']
+Prob: 7.308080856466116e-90
+result: ['rb', 'dt', ',', 'vbn', 'in', 'at', 'nn', 'in', 'at', 'rb', 'vbn', 'nn', ',', 'vbd', ':', '``', 'pp$', 'nn', 'bedz', 'jj', 'cc', 'jj', ',', 'rb', 'cs', 'at', 'vbn', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 11
+['a', 'yankee', 'sergeant', 'gave', 'the', 'following', 'description', 'of', 'his', 'sweetheart', ':', '``', 'my', 'girl', 'is', 'none', 'of', 'your', 'one-horse', 'girls', '.']
+Prob: 2.404164786211843e-58
+result: ['at', 'jj-tl', 'nn-tl', 'vbd', 'at', 'vbg', 'nn', 'in', 'pp$', 'nn', ':', '``', 'pp$', 'nn', 'bez', 'pn', 'in', 'pp$', 'nn', 'nns', '.']
+accuracy 0.9047619047619048
+=============================
+test data 12
+['she', 'is', 'a', 'regular', 'stub', 'and', 'twister', ',', 'double', 'geered', '.']
+Prob: 1.754744004617092e-33
+result: ['pps', 'bez', 'at', 'jj', 'nn', 'cc', 'nn', ',', 'rb', 'vbn', '.']
+accuracy 1.0
+=============================
+test data 13
+['she', 'is', 'well-educated', 'and', 'refined', ',', 'all', 'wildcat', 'and', 'fur', ',', 'and', 'union', 'from', 'the', 'muzzle', 'to', 'the', 'crupper', "''", '.']
+Prob: 4.4617911148746517e-54
+result: ['pps', 'bez', 'jj', 'cc', 'vbn', ',', 'abn', 'nn', 'cc', 'nn', ',', 'cc', 'nn', 'in', 'at', 'nn', 'in', 'at', 'nn', "''", '.']
+accuracy 0.9523809523809523
+=============================
+test data 14
+['humor', 'found', 'many', 'modes', 'of', 'expression', '.']
+Prob: 3.2680844883178134e-23
+result: ['nn', 'vbd', 'ap', 'nns', 'in', 'nn', '.']
+accuracy 1.0
+=============================
+test data 15
+['a', 'texan', 'wrote', 'to', 'a', 'male', 'companion', 'at', 'home', ':', '``', 'what', 'has', 'become', 'of', 'halda', 'and', 'laura', '?', '?']
+Prob: 1.732350763510754e-53
+result: ['at', 'np', 'vbd', 'in', 'at', 'jj', 'nn', 'in', 'nr', ':', '``', 'wdt', 'hvz', 'vbn', 'in', 'np', 'cc', 'np', '.', '.']
+accuracy 0.95
+=============================
+test data 16
+['when', 'you', 'see', 'them', 'again', 'give', 'them', 'my', 'love', '--', 'not', 'best', 'respects', 'now', ',', 'but', 'love', 'by', 'god', "''", '.']
+Prob: 7.508364310066475e-53
+result: ['wrb', 'ppss', 'vb', 'ppo', 'rb', 'vb', 'ppo', 'pp$', 'nn', '--', '*', 'jjt', 'nns', 'rb', ',', 'cc', 'nn', 'in', 'np', "''", '.']
+accuracy 1.0
+=============================
+test data 17
+['william', 'r.', 'stillwell', ',', 'an', 'admirable', 'georgian', 'whose', 'delightful', 'correspondence', 'is', 'preserved', 'in', 'the', 'georgia', 'department', 'of', 'archives', 'and', 'history', ',', 'liked', 'to', 'tease', 'his', 'wife', 'in', 'his', 'letters', '.']
+Prob: 1.9606722078337337e-86
+result: ['np', 'np', 'np', ',', 'at', 'jj', 'np', 'wp$', 'jj', 'nn', 'bez', 'vbn', 'in', 'at', 'np-tl', 'nn-tl', 'in-tl', 'nns-tl', 'cc', 'nn', ',', 'vbd', 'to', 'vb', 'pp$', 'nn', 'in', 'pp$', 'nns', '.']
+accuracy 0.9333333333333333
+=============================
+test data 18
+['after', 'he', 'had', 'been', 'away', 'from', 'home', 'about', 'a', 'year', 'he', 'wrote', ':', '``', '(', 'dear', 'wife', ')', 'if', 'i', 'did', 'not', 'write', 'and', 'receive', 'letters', 'from', 'you', 'i', 'believe', 'that', 'i', 'would', 'forgit', 'that', 'i', 'was', 'married', '.']
+Prob: 3.873666578666674e-92
+result: ['cs', 'pps', 'hvd', 'ben', 'rb', 'in', 'nr', 'in', 'at', 'nn', 'pps', 'vbd', ':', '``', '(', 'jj', 'nn', ')', 'cs', 'ppss', 'dod', '*', 'vb', 'cc', 'vb', 'nns', 'in', 'ppo', 'ppss', 'vb', 'cs', 'ppss', 'md', 'vb', 'cs', 'ppss', 'bedz', 'vbn', '.']
+accuracy 0.9230769230769231
+=============================
+test data 19
+['i', "don't", 'feel', 'much', 'like', 'a', 'maryed', 'man', 'but', 'i', 'never', 'forgit', 'it', 'sofar', 'as', 'to', 'court', 'enny', 'other', 'lady', 'but', 'if', 'i', 'should', 'you', 'must', 'forgive', 'me', 'as', 'i', 'am', 'so', 'forgitful', "''", '.']
+Prob: 2.6049357708592476e-96
+result: ['ppss', 'do*', 'vb', 'ap', 'cs', 'at', 'vbn', 'nn', 'cc', 'ppss', 'rb', 'vb', 'ppo', 'rb', 'cs', 'to', 'vb', 'dti', 'ap', 'nn', 'cc', 'cs', 'ppss', 'md', 'ppss', 'md', 'vb', 'ppo', 'cs', 'ppss', 'bem', 'ql', 'jj', "''", '.']
+accuracy 0.9714285714285714
+=============================
+test data 20
+['a', 'yank', ',', 'disturbed', 'by', 'his', 'increasing', 'corpulence', ',', 'wrote', ':', '``', 'i', 'am', 'growing', 'so', 'fat', 'i', 'am', 'a', 'burden', '2', 'myself', "''", '.']
+Prob: 7.484773712373397e-69
+result: ['at', 'np', ',', 'vbn', 'in', 'pp$', 'vbg', 'nn', ',', 'vbd', ':', '``', 'ppss', 'bem', 'vbg', 'ql', 'jj', 'ppss', 'bem', 'at', 'nn', 'in', 'ppl', "''", '.']
+accuracy 1.0
+=============================
+test data 21
+['another', 'yank', 'parodied', 'the', 'familiar', 'bedtime', 'prayer', ':', '``', 'now', 'i', 'lay', 'me', 'down', 'to', 'sleep', ',', 'the', 'gray-backs', "o'er", 'my', 'body', 'creep', ';', ';']
+Prob: 4.0349646093061654e-77
+result: ['dt', 'np', 'vbd', 'at', 'jj', 'nn', 'nn', ':', '``', 'rb', 'ppss', 'vbd', 'ppo', 'rp', 'to', 'vb', ',', 'at', 'nns', 'in', 'pp$', 'nn', 'nn', '.', '.']
+accuracy 0.92
+=============================
+test data 22
+['if', 'they', 'should', 'bite', 'before', 'i', 'wake', ',', 'i', 'pray', 'the', 'lord', 'their', 'jaws', 'to', 'break', "''", '.']
+Prob: 7.339508946382943e-47
+result: ['cs', 'ppss', 'md', 'vb', 'cs', 'ppss', 'vb', ',', 'ppss', 'vb', 'at', 'nn-tl', 'pp$', 'nns', 'to', 'vb', "''", '.']
+accuracy 1.0
+=============================
+test data 23
+['charles', 'thiot', ',', 'a', 'splendid', 'georgia', 'soldier', ',', 'differed', 'from', 'most', 'of', 'his', 'comrades', 'in', 'the', 'ranks', 'in', 'that', 'he', 'was', 'the', 'owner', 'of', 'a', 'large', 'plantation', ',', 'well-educated', ',', 'and', 'nearly', 'fifty', 'years', 'of', 'age', '.']
+Prob: 2.637891456026958e-96
+result: ['np', 'np', ',', 'at', 'jj', 'np', 'nn', ',', 'vbd', 'in', 'ap', 'in', 'pp$', 'nns', 'in', 'at', 'nns', 'in', 'wpo', 'pps', 'bedz', 'at', 'nn', 'in', 'at', 'jj', 'nn', ',', 'jj', ',', 'cc', 'rb', 'cd', 'nns', 'in', 'nn', '.']
+accuracy 0.972972972972973
+=============================
+test data 24
+['but', 'he', 'was', 'very', 'much', 'like', 'his', 'associates', 'in', 'his', 'hatred', 'of', 'camp', 'routine', '.']
+Prob: 1.1538189932296562e-37
+result: ['cc', 'pps', 'bedz', 'ql', 'ap', 'cs', 'pp$', 'nns', 'in', 'pp$', 'nn', 'in', 'nn', 'nn', '.']
+accuracy 0.9333333333333333
+=============================
+test data 25
+['near', 'the', 'end', 'of', 'his', 'service', 'he', 'wrote', 'that', 'when', 'the', 'war', 'was', 'over', 'he', 'was', 'going', 'to', 'buy', 'two', 'pups', ',', 'name', 'one', 'of', 'them', '``', 'fall-in', "''", 'and', 'the', 'other', '``', 'close-up', "''", ',', 'and', 'then', 'shoot', 'them', 'both', ',', '``', 'and', 'that', 'will', 'be', 'the', 'end', 'of', 'fall-in', 'and', 'close-up', "''", '.']
+Prob: 2.935225326383604e-131
+result: ['in', 'at', 'nn', 'in', 'pp$', 'nn', 'pps', 'vbd', 'cs', 'wrb', 'at', 'nn', 'bedz', 'rp', 'pps', 'bedz', 'vbg', 'to', 'vb', 'cd', 'nns', ',', 'nn', 'cd', 'in', 'ppo', '``', 'np', "''", 'cc', 'at', 'ap', '``', 'np', "''", ',', 'cc', 'rb', 'vb', 'ppo', 'abx', ',', '``', 'cc', 'wps', 'md', 'be', 'at', 'nn', 'in', 'np', 'cc', 'np', "''", '.']
+accuracy 0.9636363636363636
+=============================
+test data 26
+['the', 'soldiers', 'who', 'comprised', 'the', 'rank', 'and', 'file', 'of', 'the', 'civil', 'war', 'armies', 'were', 'an', 'earthy', 'people', '.']
+Prob: 5.079216356179009e-48
+result: ['at', 'nns', 'wps', 'vbd', 'at', 'nn', 'cc', 'nn', 'in', 'at', 'jj-tl', 'nn-tl', 'nns-tl', 'bed', 'at', 'jj', 'nns', '.']
+accuracy 0.9444444444444444
+=============================
+test data 27
+['they', 'talked', 'and', 'wrote', 'much', 'about', 'the', 'elemental', 'functions', 'of', 'the', 'body', '.']
+Prob: 5.968923268943153e-32
+result: ['ppss', 'vbd', 'cc', 'vbd', 'rb', 'in', 'at', 'jj', 'nns', 'in', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 28
+['one', 'of', 'the', 'most', 'common', 'of', 'camp', 'maladies', 'was', 'diarrhoea', '.']
+Prob: 1.5084778891872583e-32
+result: ['cd', 'in', 'at', 'ql', 'jj', 'in', 'nn', 'nns', 'bedz', 'nn', '.']
+accuracy 1.0
+=============================
+test data 29
+['men', 'of', 'more', 'delicate', 'sensibilities', 'referred', 'to', 'this', 'condition', 'as', '``', 'looseness', 'of', 'the', 'bowels', "''", ';', ';']
+Prob: 2.5093359644718417e-50
+result: ['nns', 'in', 'ql', 'jj', 'nns', 'vbn', 'in', 'dt', 'nn', 'cs', '``', 'nn', 'in', 'at', 'nns', "''", '.', '.']
+accuracy 0.9444444444444444
+=============================
+test data 30
+['but', 'a', 'much', 'more', 'common', 'designation', 'was', '``', 'the', 'sh-ts', "''", '.']
+Prob: 2.1924710680039956e-31
+result: ['cc', 'at', 'ql', 'ql', 'jj', 'nn', 'bedz', '``', 'at', 'nns', "''", '.']
+accuracy 1.0
+=============================
+test data 31
+['a', 'michigan', 'soldier', 'stationed', 'in', 'georgia', 'wrote', 'in', '1864', ':', ':']
+Prob: 4.252706464348882e-40
+result: ['at', 'np', 'nn', 'vbn', 'in', 'np', 'vbd', 'in', 'cd', '.', '.']
+accuracy 1.0
+=============================
+test data 32
+['``', 'i', 'expect', 'to', 'be', 'tough', 'as', 'a', 'knott', 'as', 'soon', 'as', 'i', 'get', 'over', 'the', 'georgia', 'shitts', "''", '.']
+Prob: 1.387132534409701e-47
+result: ['``', 'ppss', 'vb', 'to', 'be', 'jj', 'cs', 'at', 'nn', 'cs', 'rb', 'cs', 'ppss', 'vb', 'in', 'at', 'np-tl', 'nns-tl', "''", '.']
+accuracy 0.9
+=============================
+test data 33
+['johnny', 'rebs', 'from', 'the', 'deep', 'south', 'who', 'were', 'plagued', 'with', 'diarrhoea', 'after', 'transfer', 'to', 'the', 'virginia', 'front', 'often', 'informed', 'their', 'families', 'that', 'they', 'were', 'suffering', 'from', 'the', '``', 'the', 'virginia', 'quickstep', "''", '.']
+Prob: 4.559937768629243e-96
+result: ['np', 'nps', 'in', 'at', 'jj', 'nr-tl', 'wps', 'bed', 'vbn', 'in', 'nn', 'in', 'nn', 'in', 'at', 'np', 'nn', 'rb', 'vbd', 'pp$', 'nns', 'cs', 'ppss', 'bed', 'vbg', 'in', 'at', '``', 'at-tl', 'np-tl', 'nn', "''", '.']
+accuracy 0.9393939393939394
+=============================
+test data 34
+['a', 'georgia', 'soldier', 'gave', 'his', 'wife', 'the', 'following', 'description', 'of', 'the', 'cause', 'and', 'consequence', 'of', 'diarrhoea', ':', '``', 'i', 'have', 'bin', 'a', 'little', 'sick', 'with', 'diorah', 'two', 'or', 'three', 'days', '.']
+Prob: 9.19971763212307e-90
+result: ['at', 'np-tl', 'nn-tl', 'vbd', 'pp$', 'nn', 'at', 'vbg', 'nn', 'in', 'at', 'nn', 'cc', 'nn', 'in', 'nn', ':', '``', 'ppss', 'hv', 'nn', 'at', 'ap', 'jj', 'in', 'nn', 'cd', 'cc', 'cd', 'nns', '.']
+accuracy 0.9032258064516129
+=============================
+test data 35
+['i', 'eat', 'too', 'much', 'eggs', 'and', 'poark', '.']
+Prob: 1.4019068608726226e-23
+result: ['ppss', 'vb', 'ql', 'ap', 'nns', 'cc', 'nn', '.']
+accuracy 1.0
+=============================
+test data 36
+['it', 'sowered', '(', 'on', ')', 'my', 'stomack', 'and', 'turn', 'loose', 'on', 'me', "''", '.']
+Prob: 3.524770704353551e-42
+result: ['pps', 'vbd', '(', 'in', ')', 'pp$', 'nn', 'cc', 'vb', 'jj', 'in', 'ppo', "''", '.']
+accuracy 0.9285714285714286
+=============================
+test data 37
+['a', 'michigan', 'soldier', 'wrote', 'his', 'brother', ':', '``', 'i', 'am', 'well', 'at', 'present', 'with', 'the', 'exception', 'i', 'have', 'got', 'the', 'dyerear', 'and', 'i', 'hope', 'thease', 'few', 'lines', 'find', 'you', 'the', 'same', "''", '.']
+Prob: 5.964648923552141e-87
+result: ['at', 'np-tl', 'nn-tl', 'vbd', 'pp$', 'nn', ':', '``', 'ppss', 'bem', 'rb', 'in', 'jj', 'in', 'at', 'nn', 'ppss', 'hv', 'vbn', 'at', 'nn', 'cc', 'ppss', 'vb', 'dts', 'ap', 'nns', 'vb', 'ppo', 'at', 'ap', "''", '.']
+accuracy 0.8787878787878788
+=============================
+test data 38
+['the', 'letters', 'which', 'poured', 'forth', 'from', 'camps', 'were', 'usually', 'written', 'under', 'adverse', 'circumstances', '.']
+Prob: 2.640255950562486e-43
+result: ['at', 'nns', 'wdt', 'vbd', 'rb', 'in', 'nns', 'bed', 'rb', 'vbn', 'in', 'jj', 'nns', '.']
+accuracy 1.0
+=============================
+test data 39
+['save', 'for', 'brief', 'periods', 'in', 'garrison', 'or', 'winter', 'quarters', ',', 'soldiers', 'rarely', 'enjoyed', 'the', 'luxury', 'of', 'a', 'writing', 'desk', 'or', 'table', '.']
+Prob: 1.3482920766277513e-69
+result: ['vb', 'in', 'jj', 'nns', 'in', 'np', 'cc', 'nn', 'nns', ',', 'nns', 'rb', 'vbd', 'at', 'nn', 'in', 'at', 'vbg', 'nn', 'cc', 'nn', '.']
+accuracy 0.9090909090909091
+=============================
+test data 40
+['most', 'of', 'the', 'letters', 'were', 'written', 'in', 'the', 'hubbub', 'of', 'camp', ',', 'on', 'stumps', ',', 'pieces', 'of', 'bark', ',', 'drum', 'heads', ',', 'or', 'the', 'knee', '.']
+Prob: 1.1274514070399045e-66
+result: ['ap', 'in', 'at', 'nns', 'bed', 'vbn', 'in', 'at', 'nn', 'in', 'nn', ',', 'in', 'nns', ',', 'nns', 'in', 'nn', ',', 'nn', 'nns', ',', 'cc', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 41
+['in', 'the', 'south', ',', 'after', 'the', 'first', 'year', 'of', 'the', 'war', ',', 'paper', 'and', 'ink', 'were', 'very', 'poor', '.']
+Prob: 9.584938273600533e-42
+result: ['in', 'at', 'nr-tl', ',', 'cs', 'at', 'od', 'nn', 'in', 'at', 'nn', ',', 'nn', 'cc', 'nn', 'bed', 'ql', 'jj', '.']
+accuracy 0.9473684210526315
+=============================
+test data 42
+['scarcity', 'of', 'paper', 'caused', 'many', 'southerners', 'to', 'adopt', 'the', 'practice', 'of', 'cross-writing', ',', 'i.e.', ',', 'after', 'writing', 'from', 'left', 'to', 'right', 'of', 'the', 'page', 'in', 'the', 'usual', 'manner', ',', 'they', 'gave', 'the', 'sheet', 'a', 'half', 'turn', 'and', 'wrote', 'from', 'end', 'to', 'end', 'across', 'the', 'lines', 'previously', 'written', '.']
+Prob: 8.535850956086365e-133
+result: ['nn', 'in', 'nn', 'vbd', 'ap', 'nns-tl', 'to', 'vb', 'at', 'nn', 'in', 'nn', ',', 'rb', ',', 'cs', 'vbg', 'in', 'nr', 'in', 'nn', 'in', 'at', 'nn', 'in', 'at', 'jj', 'nn', ',', 'ppss', 'vbd', 'at', 'nn', 'at', 'nn', 'nn', 'cc', 'vbd', 'in', 'nn', 'in', 'nn', 'in', 'at', 'nns', 'rb', 'vbn', '.']
+accuracy 0.9583333333333334
+=============================
+test data 43
+['sometimes', 'soldiers', 'wrote', 'letters', 'while', 'bullets', 'were', 'whizzing', 'about', 'their', 'heads', '.']
+Prob: 2.093079049461544e-42
+result: ['rb', 'nns', 'vbd', 'nns', 'cs', 'nns', 'bed', 'vbg', 'in', 'pp$', 'nns', '.']
+accuracy 1.0
+=============================
+test data 44
+['a', 'yank', 'writing', 'from', 'vicksburg', ',', 'may', '28', ',', '1863', ',', 'stated', ':', '``', 'not', 'less', 'than', '50', 'balls', 'have', 'passed', 'over', 'me', 'since', 'i', 'commenced', 'writing', '.']
+Prob: 8.065043895035025e-84
+result: ['at', 'nn', 'nn', 'in', 'np', ',', 'np', 'cd', ',', 'cd', ',', 'vbd', ':', '``', '*', 'ap', 'cs', 'cd', 'nns', 'hv', 'vbn', 'in', 'ppo', 'cs', 'ppss', 'vbd', 'vbg', '.']
+accuracy 0.8928571428571429
+=============================
+test data 45
+['i', 'could', 'tell', 'you', 'of', 'plenty', 'narrow', 'escapes', ',', 'but', 'we', 'take', 'no', 'notice', 'of', 'them', 'now', "''", '.']
+Prob: 2.030650946694682e-46
+result: ['ppss', 'md', 'vb', 'ppo', 'in', 'nn', 'jj', 'nns', ',', 'cc', 'ppss', 'vb', 'at', 'nn', 'in', 'ppo', 'rb', "''", '.']
+accuracy 1.0
+=============================
+test data 46
+['a', 'reb', 'stationed', 'near', 'petersburg', 'informed', 'his', 'mother', ':', '``', 'i', 'need', 'not', 'tell', 'you', 'that', 'i', 'dodge', 'pretty', 'often', 'for', 'you', 'can', 'see', 'that', 'very', 'plainly', 'by', 'the', 'blots', 'in', 'this', 'letter', '.']
+Prob: 9.470505596467057e-94
+result: ['at', 'np', 'vbn', 'in', 'np', 'vbd', 'pp$', 'nn', ':', '``', 'ppss', 'md', '*', 'vb', 'ppo', 'cs', 'ppss', 'vb', 'ql', 'rb', 'cs', 'ppss', 'md', 'vb', 'cs', 'ql', 'rb', 'in', 'at', 'nns', 'in', 'dt', 'nn', '.']
+accuracy 0.9411764705882353
+=============================
+test data 47
+['just', 'count', 'each', 'blot', 'a', 'dodge', 'and', 'add', 'in', 'a', 'few', 'for', 'i', "don't", 'dodge', 'every', 'time', "''", '.']
+Prob: 1.009335740874734e-51
+result: ['rb', 'vb', 'dt', 'nn', 'at', 'nn', 'cc', 'vb', 'in', 'at', 'ap', 'cs', 'ppss', 'do*', 'vb', 'at', 'nn', "''", '.']
+accuracy 0.9473684210526315
+=============================
+test data 48
+['another', 'reb', 'writing', 'under', 'similar', 'circumstances', 'before', 'atlanta', 'reported', ':', '``', 'the', 'yankees', 'keep', 'shooting', 'so', 'i', 'am', 'afraid', 'they', 'will', 'knock', 'over', 'my', 'ink', ',', 'so', 'i', 'will', 'close', "''", '.']
+Prob: 1.072955668124174e-92
+result: ['dt', 'np', 'vbg', 'in', 'jj', 'nns', 'in', 'np', 'vbd', ':', '``', 'at', 'nps', 'vb', 'vbg', 'cs', 'ppss', 'bem', 'jj', 'ppss', 'md', 'vb', 'rp', 'pp$', 'nn', ',', 'cs', 'ppss', 'md', 'vb', "''", '.']
+accuracy 0.9375
+=============================
+test data 49
+['3', ',']
+Prob: 4.2402918161862293e-05
+result: ['cd', ',']
+accuracy 0.5
+=============================
+test data 50
+['the', 'most', 'common', 'type', 'of', 'letter', 'was', 'that', 'of', 'soldier', 'husbands', 'to', 'their', 'wives', '.']
+Prob: 7.187167564364652e-40
+result: ['at', 'ql', 'jj', 'nn', 'in', 'nn', 'bedz', 'cs', 'in', 'nn', 'nns', 'in', 'pp$', 'nns', '.']
+accuracy 0.9333333333333333
+=============================
+test data 51
+['but', 'fathers', 'often', 'addressed', 'communications', 'to', 'their', 'small', 'children', ';', ';']
+Prob: 5.799224924737357e-33
+result: ['cc', 'nns', 'rb', 'vbn', 'nns', 'in', 'pp$', 'jj', 'nns', '.', '.']
+accuracy 0.9090909090909091
+=============================
+test data 52
+['and', 'these', ',', 'full', 'of', 'homely', 'advice', ',', 'are', 'among', 'the', 'most', 'human', 'and', 'revealing', 'of', 'civil', 'war', 'letters', '.']
+Prob: 3.7359548822203286e-54
+result: ['cc', 'dts', ',', 'jj', 'in', 'jj', 'nn', ',', 'ber', 'in', 'at', 'ql', 'jj', 'cc', 'vbg', 'in', 'jj-tl', 'nn-tl', 'nns', '.']
+accuracy 0.95
+=============================
+test data 53
+['rebs', 'who', 'owned', 'slaves', 'occasionally', 'would', 'include', 'in', 'their', 'letters', 'admonitions', 'or', 'greetings', 'to', 'members', 'of', 'the', 'negro', 'community', '.']
+Prob: 1.2066893746751726e-64
+result: ['nps', 'wps', 'vbd', 'nns', 'rb', 'md', 'vb', 'in', 'pp$', 'nns', 'nns', 'cc', 'nns', 'in', 'nns', 'in', 'at', 'np', 'nn', '.']
+accuracy 1.0
+=============================
+test data 54
+['occasionally', 'they', 'would', 'write', 'to', 'the', 'slaves', '.']
+Prob: 2.691254895495761e-19
+result: ['rb', 'ppss', 'md', 'vb', 'in', 'at', 'nns', '.']
+accuracy 1.0
+=============================
+test data 55
+['early', 'in', 'the', 'war', 'it', 'was', 'not', 'uncommon', 'for', "planters'", 'sons', 'to', 'retain', 'in', 'camp', 'negro', '``', 'body', 'servants', "''", 'to', 'perform', 'the', 'menial', 'chores', 'such', 'as', 'cooking', ',', 'foraging', ',', 'cleaning', 'the', 'quarters', ',', 'shining', 'shoes', ',', 'and', 'laundering', 'clothes', '.']
+Prob: 6.757551316451287e-126
+result: ['rb', 'in', 'at', 'nn', 'pps', 'bedz', '*', 'jj', 'in', 'nns$', 'nns', 'to', 'vb', 'in', 'np', 'np', '``', 'nn', 'nns', "''", 'to', 'vb', 'at', 'jj', 'nns', 'jj', 'cs', 'vbg', ',', 'vbg', ',', 'vbg', 'at', 'nns', ',', 'vbg', 'nns', ',', 'cc', 'vbg', 'nns', '.']
+accuracy 0.9523809523809523
+=============================
+test data 56
+['sometimes', 'these', 'servants', 'wrote', 'or', 'dictated', 'for', 'enclosure', 'with', 'the', 'letters', 'of', 'their', 'soldier-masters', 'messages', 'to', 'their', 'relatives', 'and', 'to', 'members', 'of', 'their', "owners'", 'families', '.']
+Prob: 8.943243527288255e-78
+result: ['rb', 'dts', 'nns', 'vbd', 'cc', 'vbn', 'in', 'nn', 'in', 'at', 'nns', 'in', 'pp$', 'nns', 'nns', 'in', 'pp$', 'nns', 'cc', 'in', 'nns', 'in', 'pp$', 'nns$', 'nns', '.']
+accuracy 0.9615384615384616
+=============================
+test data 57
+['unmarried', 'soldiers', 'carried', 'on', 'correspondence', 'with', 'sweethearts', 'at', 'home', '.']
+Prob: 1.1015854716271603e-34
+result: ['jj', 'nns', 'vbn', 'in', 'nn', 'in', 'nns', 'in', 'nr', '.']
+accuracy 0.7
+=============================
+test data 58
+['owing', 'to', 'the', 'restrained', 'usages', 'characteristic', 'of', '19th-century', 'america', ',', 'these', 'letters', 'usually', 'were', 'stereotyped', 'and', 'revealed', 'little', 'depth', 'of', 'feeling', '.']
+Prob: 1.2125370642420715e-73
+result: ['vbg', 'in', 'at', 'vbn', 'nns', 'jj', 'in', 'nn', 'np', ',', 'dts', 'nns', 'rb', 'bed', 'vbn', 'cc', 'vbd', 'ap', 'nn', 'in', 'nn', '.']
+accuracy 0.9545454545454546
+=============================
+test data 59
+['occasionally', 'gay', 'young', 'blades', 'would', 'write', 'vividly', 'to', 'boon', 'companions', 'at', 'home', 'about', 'their', 'amorous', 'exploits', 'in', 'richmond', ',', 'petersburg', ',', 'washington', ',', 'or', 'nashville', '.']
+Prob: 6.405889721853579e-85
+result: ['rb', 'jj', 'jj', 'nns', 'md', 'vb', 'rb', 'in', 'jj', 'nns', 'in', 'nr', 'in', 'pp$', 'jj', 'nns', 'in', 'np', ',', 'np', ',', 'np', ',', 'cc', 'np', '.']
+accuracy 0.9615384615384616
+=============================
+test data 60
+['but', 'these', 'comments', 'are', 'hardly', 'printable', '.']
+Prob: 1.9541865450837615e-21
+result: ['cc', 'dts', 'nns', 'ber', 'ql', 'jj', '.']
+accuracy 0.8571428571428571
+=============================
+test data 61
+['an', 'alabama', 'soldier', 'whose', 'feminine', 'associations', 'were', 'of', 'the', 'more', 'admirable', 'type', 'wrote', 'boastfully', 'of', 'his', 'achievements', 'among', 'the', 'virginia', 'belles', ':', '``', 'they', 'thout', 'i', 'was', 'a', 'saint', '.']
+Prob: 1.3443918616768194e-90
+result: ['at', 'np-tl', 'nn-tl', 'wp$', 'jj', 'nns', 'bed', 'in', 'at', 'ql', 'jj', 'nn', 'vbd', 'rb', 'in', 'pp$', 'nns', 'in', 'at', 'np', 'nns', ':', '``', 'ppss', 'vbd', 'ppss', 'bedz', 'at', 'nn', '.']
+accuracy 0.9333333333333333
+=============================
+test data 62
+['i', 'told', 'them', 'some', 'sweet', 'lies', 'and', 'they', 'believed', 'it', 'all', '.']
+Prob: 1.2628191553336618e-30
+result: ['ppss', 'vbd', 'ppo', 'dti', 'jj', 'nns', 'cc', 'ppss', 'vbd', 'ppo', 'abn', '.']
+accuracy 1.0
+=============================
+test data 63
+['i', 'would', 'tell', 'them', 'i', 'got', 'a', 'letter', 'from', 'home', 'stating', 'that', 'five', 'of', 'my', 'negroes', 'had', 'runaway', 'and', 'ten', 'of', "pappy's", '.']
+Prob: 4.6710291969837656e-64
+result: ['ppss', 'md', 'vb', 'ppo', 'ppss', 'vbd', 'at', 'nn', 'in', 'nn', 'vbg', 'cs', 'cd', 'in', 'pp$', 'nps', 'hvd', 'vbn', 'cc', 'cd', 'in', 'np$', '.']
+accuracy 1.0
+=============================
+test data 64
+['but', 'i', 'wold', 'say', 'i', 'recond', 'he', 'did', 'not', 'mind', 'it', 'for', 'he', 'had', 'a', 'plenty', 'more', 'left', 'and', 'then', 'they', 'would', 'lean', 'to', 'me', 'like', 'a', 'sore', 'eyd', 'kitten', 'to', 'a', 'basin', 'of', 'milk', "''", '.']
+Prob: 3.215665383436919e-97
+result: ['cc', 'ppss', 'md', 'vb', 'ppss', 'vbd', 'pps', 'dod', '*', 'vb', 'ppo', 'cs', 'pps', 'hvd', 'at', 'nn', 'ql', 'jj', 'cc', 'rb', 'ppss', 'md', 'vb', 'in', 'ppo', 'cs', 'at', 'jj', 'jj', 'nn', 'in', 'at', 'nn', 'in', 'nn', "''", '.']
+accuracy 0.9459459459459459
+=============================
+test data 65
+['some', 'of', 'the', 'letters', 'were', 'pungently', 'expressive', '.']
+Prob: 6.175015285889072e-22
+result: ['dti', 'in', 'at', 'nns', 'bed', 'ql', 'jj', '.']
+accuracy 1.0
+=============================
+test data 66
+['an', 'ohio', 'soldier', 'who', ',', 'from', 'a', 'comrade', 'just', 'returned', 'from', 'leave', ',', 'received', 'an', 'unfavorable', 'comment', 'on', 'the', 'conduct', 'of', 'his', 'sister', ',', 'took', 'pen', 'in', 'hand', 'and', 'delivered', 'himself', 'thus', ':', '``', 'dear', 'sis', '.']
+Prob: 1.0160755730054122e-108
+result: ['at', 'np-tl', 'nn', 'wps', ',', 'in', 'at', 'nn', 'rb', 'vbn', 'in', 'nn', ',', 'vbd', 'at', 'jj', 'nn', 'in', 'at', 'nn', 'in', 'pp$', 'nn', ',', 'vbd', 'nn', 'in', 'nn', 'cc', 'vbd', 'ppl', 'rb', ':', '``', 'uh', 'np', '.']
+accuracy 0.9459459459459459
+=============================
+test data 67
+['alf', 'sed', 'he', 'heard', 'that', 'you', 'and', 'hardy', 'was', 'a', 'runing', 'together', 'all', 'the', 'time', 'and', 'he', 'though', 'he', 'wod', 'gust', 'quit', 'having', 'any', 'thing', 'mor', 'to', 'doo', 'with', 'you', 'for', 'he', 'thought', 'it', 'was', 'no', 'more', 'yuse', '.']
+Prob: 6.355720181434649e-118
+result: ['np', 'vbd', 'pps', 'vbd', 'cs', 'ppss', 'cc', 'np', 'bedz', 'at', 'vbg', 'rb', 'abn', 'at', 'nn', 'cc', 'pps', 'rb', 'pps', 'md', 'rb', 'vb', 'hvg', 'dti', 'nn', 'ap', 'to', 'do', 'in', 'ppo', 'cs', 'pps', 'vbd', 'pps', 'bedz', 'at', 'ap', 'nn', '.']
+accuracy 0.9743589743589743
+=============================
+test data 68
+['i', 'think', 'you', 'made', 'a', 'dam', 'good', 'chouise', 'to', 'turn', 'off', 'as', 'nise', 'a', 'feler', 'as', 'alf', 'dyer', 'and', 'let', 'that', 'orney', 'thefin', ',', 'drunkard', ',', 'damed', 'card', 'playing', 'sun', 'of', 'a', 'bich', 'com', 'to', 'sea', 'you', ',', 'the', 'god', 'damed', 'theaf', 'and', 'lop', 'yeard', 'pigen', 'tode', 'helion', ',', 'he', 'is', 'too', 'orney', 'for', 'hel', '.']
+Prob: 1.5054214404070964e-201
+result: ['ppss', 'vb', 'ppss', 'vbd', 'at', 'jj', 'jj', 'nn', 'to', 'vb', 'rp', 'ql', 'jj', 'at', 'nn', 'cs', 'np', 'np', 'cc', 'vb', 'cs', 'jj', 'vbg', ',', 'nn', ',', 'vbn', 'nn', 'vbg', 'nn', 'in', 'at', 'nn', 'vb', 'to', 'vb', 'ppo', ',', 'at', 'nn', 'vbn', 'nn', 'cc', 'jj', 'vbn', 'nn', 'jj', 'np', ',', 'pps', 'bez', 'ql', 'jj', 'in', 'nn', '.']
+accuracy 0.9464285714285714
+=============================
+test data 69
+['i', 'will', 'shute', 'him', 'as', 'shore', 'as', 'i', 'sea', 'him', "''", '.']
+Prob: 4.5288291834139065e-29
+result: ['ppss', 'md', 'vb', 'ppo', 'cs', 'nn', 'cs', 'ppss', 'vb', 'ppo', "''", '.']
+accuracy 0.8333333333333334
+=============================
+test data 70
+['initiation', 'into', 'combat', 'sometimes', 'elicited', 'from', 'soldier', 'correspondents', 'choice', 'comments', 'about', 'their', 'experiences', 'and', 'reactions', '.']
+Prob: 3.340351970997835e-59
+result: ['nn', 'in', 'nn', 'rb', 'vbn', 'in', 'nn', 'nns', 'nn', 'nns', 'in', 'pp$', 'nns', 'cc', 'nns', '.']
+accuracy 0.875
+=============================
+test data 71
+['a', 'federal', 'infantryman', 'wrote', 'to', 'his', 'father', 'shortly', 'after', 'his', 'first', 'skirmish', 'in', 'virginia', ':', '``', 'dear', 'pa', '.']
+Prob: 4.896868433483874e-56
+result: ['at', 'jj', 'nn', 'vbd', 'in', 'pp$', 'nn', 'rb', 'in', 'pp$', 'od', 'nn', 'in', 'np', ':', '``', 'jj', 'nn', '.']
+accuracy 0.8947368421052632
+=============================
+test data 72
+['went', 'out', 'a', 'skouting', 'yesterday', '.']
+Prob: 9.611785942045282e-20
+result: ['vbd', 'rp', 'at', 'vbg', 'nr', '.']
+accuracy 1.0
+=============================
+test data 73
+['we', 'got', 'to', 'one', 'house', 'where', 'there', 'were', 'five', 'secessionists', '.']
+Prob: 1.9262207345435151e-28
+result: ['ppss', 'vbd', 'in', 'cd', 'nn', 'wrb', 'ex', 'bed', 'cd', 'nns', '.']
+accuracy 1.0
+=============================
+test data 74
+['they', 'brok', '&', 'run', 'and', 'arch', 'holored', 'out', 'to', 'shoot', 'the', 'ornery', 'suns', 'of', 'biches', 'and', 'we', 'all', 'let', 'go', 'at', 'them', '.']
+Prob: 5.136373347571849e-73
+result: ['ppss', 'vbd', 'cc', 'vb', 'cc', 'np', 'vbd', 'rp', 'to', 'vb', 'at', 'jj', 'nns', 'in', 'nns', 'cc', 'ppss', 'abn', 'vb', 'vb', 'in', 'ppo', '.']
+accuracy 0.9565217391304348
+=============================
+test data 75
+['thay', 'may', 'say', 'what', 'they', 'please', 'but', 'godamit', 'pa', 'it', 'is', 'fun', "''", '.']
+Prob: 2.2570048367503404e-44
+result: ['ppss', 'md', 'vb', 'wdt', 'ppss', 'vb', 'cc', 'uh', 'nn-tl', 'pps', 'bez', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 76
+['some', 'of', 'the', 'choicest', 'remarks', 'made', 'by', 'soldiers', 'in', 'their', 'letters', 'were', 'in', 'disparagement', 'of', 'unpopular', 'officers', '.']
+Prob: 1.8102993888430115e-50
+result: ['dti', 'in', 'at', 'jjt', 'nns', 'vbn', 'in', 'nns', 'in', 'pp$', 'nns', 'bed', 'in', 'nn', 'in', 'jj', 'nns', '.']
+accuracy 1.0
+=============================
+test data 77
+['a', 'mississippi', 'soldier', 'wrote', ':', '``', 'our', 'general', 'reub', 'davis', 'is', 'a', 'vain', ',', 'stuck-up', ',', 'illiterate', 'ass', "''", '.']
+Prob: 7.7908357645587e-62
+result: ['at', 'np-tl', 'nn-tl', 'vbd', ':', '``', 'pp$-tl', 'nn-tl', 'np', 'np', 'bez', 'at', 'jj', ',', 'jj', ',', 'jj', 'nn', "''", '.']
+accuracy 0.85
+=============================
+test data 78
+['an', 'alabamian', 'wrote', ':', '``', 'col.', 'henry', 'is', '(', 'an', 'ignoramus', ')', 'fit', 'for', 'nothing', 'higher', 'than', 'the', 'cultivation', 'of', 'corn', "''", '.']
+Prob: 1.0213020405776914e-68
+result: ['at', 'np', 'vbd', ':', '``', 'nn-tl', 'np', 'bez', '(', 'at', 'nn', ')', 'vbn', 'in', 'pn', 'jjr', 'cs', 'at', 'nn', 'in', 'nn', "''", '.']
+accuracy 0.9130434782608695
+=============================
+test data 79
+['a', 'floridian', 'stated', 'that', 'his', 'officers', 'were', '``', 'not', 'fit', 'to', 'tote', 'guts', 'to', 'a', 'bear', "''", '.']
+Prob: 9.503622263413077e-50
+result: ['at', 'np', 'vbd', 'cs', 'pp$', 'nns', 'bed', '``', '*', 'vb', 'to', 'vb', 'nns', 'in', 'at', 'nn', "''", '.']
+accuracy 0.9444444444444444
+=============================
+test data 80
+['on', 'december', '9', ',', '1862', ',', 'sergeant', 'edwin', 'h.', 'fay', ',', 'an', 'unusual', 'louisianan', 'who', 'held', 'a.b.', 'and', 'm.a.', 'degrees', 'from', 'harvard', 'university', 'and', 'who', 'before', 'the', 'war', 'was', 'headmaster', 'of', 'a', 'private', 'school', 'for', 'boys', 'in', 'louisiana', ',', 'wrote', 'his', 'wife', ':', '``', 'i', 'saw', 'pemberton', 'and', 'he', 'is', 'the', 'most', 'insignificant', 'puke', 'i', 'ever', 'saw', '.']
+Prob: 7.5822846614171635e-174
+result: ['in', 'np', 'cd', ',', 'cd', ',', 'nn-tl', 'np', 'np', 'np', ',', 'at', 'jj', 'np', 'wps', 'vbd', 'np', 'cc', 'np', 'nns', 'in', 'np-tl', 'nn-tl', 'cc', 'wps', 'in', 'at', 'nn', 'bedz', 'nn', 'in', 'at', 'jj', 'nn', 'in', 'nns', 'in', 'np', ',', 'vbd', 'pp$', 'nn', ':', '``', 'ppss', 'vbd', 'np', 'cc', 'pps', 'bez', 'at', 'ql', 'jj', 'nn', 'ppss', 'rb', 'vbd', '.']
+accuracy 1.0
+=============================
+test data 81
+['his', 'head', 'cannot', 'contain', 'enough', 'sense', 'to', 'command', 'a', 'regiment', ',', 'much', 'less', 'a', 'corps', '.']
+Prob: 6.192397352865969e-45
+result: ['pp$', 'nn', 'md*', 'vb', 'ap', 'nn', 'to', 'vb', 'at', 'nn', ',', 'ql', 'ap', 'at', 'nn-tl', '.']
+accuracy 0.9375
+=============================
+test data 82
+['jackson', 'runs', 'first', 'and', 'his', 'cavalry', 'are', 'well', 'drilled', 'to', 'follow', 'their', 'leader', '.']
+Prob: 4.1970862428424383e-41
+result: ['np', 'vbz', 'rb', 'cc', 'pp$', 'nn', 'ber', 'rb', 'vbn', 'to', 'vb', 'pp$', 'nn', '.']
+accuracy 0.8571428571428571
+=============================
+test data 83
+['he', 'is', 'not', 'worth', 'shucks', '.']
+Prob: 8.30765209457162e-15
+result: ['pps', 'bez', '*', 'jj', 'nns', '.']
+accuracy 1.0
+=============================
+test data 84
+['but', 'he', 'is', 'a', 'west', 'point', 'graduate', 'and', 'therefore', 'must', 'be', 'born', 'to', 'command', "''", '.']
+Prob: 6.055969412052784e-37
+result: ['cc', 'pps', 'bez', 'at', 'jj-tl', 'nn-tl', 'nn-tl', 'cc', 'rb', 'md', 'be', 'vbn', 'to', 'vb', "''", '.']
+accuracy 0.9375
+=============================
+test data 85
+['similar', 'comments', 'about', 'officers', 'are', 'to', 'be', 'found', 'in', 'the', 'letters', 'of', 'northern', 'soldiers', '.']
+Prob: 1.907048198028097e-38
+result: ['jj', 'nns', 'in', 'nns', 'ber', 'to', 'be', 'vbn', 'in', 'at', 'nns', 'in', 'jj', 'nns', '.']
+accuracy 0.9333333333333333
+=============================
+test data 86
+['a', 'massachusetts', 'soldier', ',', 'who', 'seems', 'to', 'have', 'been', 'a', 'civil', 'war', 'version', 'of', 'bill', 'mauldin', ',', 'wrote', ':', '``', 'the', 'officers', 'consider', 'themselves', 'as', 'made', 'of', 'a', 'different', 'material', 'from', 'the', 'low', 'fellows', 'in', 'the', 'ranks', '.']
+Prob: 7.792703327881098e-93
+result: ['at', 'np-tl', 'nn-tl', ',', 'wps', 'vbz', 'to', 'hv', 'ben', 'at', 'jj-tl', 'nn-tl', 'nn-tl', 'in-tl', 'nn-tl', 'np', ',', 'vbd', ':', '``', 'at', 'nns', 'vb', 'ppls', 'cs', 'vbn', 'in', 'at', 'jj', 'nn', 'in', 'at', 'jj', 'nns', 'in', 'at', 'nns', '.']
+accuracy 0.868421052631579
+=============================
+test data 87
+['they', 'get', 'all', 'the', 'glory', 'and', 'most', 'of', 'the', 'pay', 'and', "don't", 'earn', 'ten', 'cents', 'apiece', 'on', 'the', 'average', ',', 'the', 'drunken', 'rascals', "''", '.']
+Prob: 2.2657344719239465e-65
+result: ['ppss', 'vb', 'abn', 'at', 'nn', 'cc', 'ap', 'in', 'at', 'nn', 'cc', 'do*', 'vb', 'cd', 'nns', 'rb', 'in', 'at', 'nn', ',', 'at', 'jj', 'nns', "''", '.']
+accuracy 1.0
+=============================
+test data 88
+['private', 'george', 'gray', 'hunter', 'of', 'pennsylvania', 'wrote', ':', '``', 'i', 'am', 'well', 'convinced', 'in', 'my', 'own', 'mind', 'that', 'had', 'it', 'not', 'been', 'for', 'officers', 'this', 'war', 'would', 'have', 'ended', 'long', 'ago', "''", '.']
+Prob: 9.459551512167915e-88
+result: ['jj-tl', 'np-tl', 'jj-tl', 'nn-tl', 'in-tl', 'np-tl', 'vbd', ':', '``', 'ppss', 'bem', 'rb', 'vbn', 'in', 'pp$', 'jj', 'nn', 'wps', 'hvd', 'pps', '*', 'ben', 'in', 'nns', 'dt', 'nn', 'md', 'hv', 'vbn', 'rb', 'rb', "''", '.']
+accuracy 0.7272727272727273
+=============================
+test data 89
+['another', 'yankee', 'became', 'so', 'disgusted', 'as', 'to', 'state', ':', '``', 'i', 'wish', 'to', 'god', 'one', 'half', 'of', 'our', 'officers', 'were', 'knocked', 'in', 'the', 'head', 'by', 'slinging', 'them', 'against', '(', 'the', 'other', 'half', ')', "''", '.']
+Prob: 2.2394327011454356e-93
+result: ['dt', 'np', 'vbd', 'rb', 'vbn', 'cs', 'in', 'nn', ':', '``', 'ppss', 'vb', 'in', 'np', 'cd', 'abn', 'in', 'pp$', 'nns', 'bed', 'vbn', 'in', 'at', 'nn', 'in', 'vbg', 'ppo', 'in', '(', 'at', 'ap', 'abn', ')', "''", '.']
+accuracy 0.9142857142857143
+=============================
+test data 90
+['no', 'group', 'of', 'officers', 'came', 'in', 'for', 'more', 'spirited', 'denunciation', 'than', 'the', 'doctors', '.']
+Prob: 2.3600881505944573e-40
+result: ['at', 'nn', 'in', 'nns', 'vbd', 'rp', 'in', 'ql', 'jj', 'nn', 'in', 'at', 'nns', '.']
+accuracy 0.8571428571428571
+=============================
+test data 91
+['one', 'federal', 'soldier', 'wrote', ':', '``', 'the', 'docters', 'is', 'no', 'aconte', '--', 'hell', 'will', 'be', 'filde', 'with', 'do(c)ters', 'and', 'offersey', 'when', 'this', 'war', 'is', 'over', "''", '.']
+Prob: 8.414984569801317e-80
+result: ['cd', 'jj', 'nn', 'vbd', ':', '``', 'at', 'nns', 'bez', 'at', 'nn', '--', 'nn', 'md', 'be', 'vbn', 'in', 'nns', 'cc', 'nns', 'wrb', 'dt', 'nn', 'bez', 'rp', "''", '.']
+accuracy 0.9629629629629629
+=============================
+test data 92
+['shortly', 'after', 'the', 'beginning', 'of', "sherman's", 'georgia', 'campaign', ',', 'an', 'ailing', 'yank', 'wrote', 'his', 'homefolk', ':', '``', 'the', 'surgeon', 'insisted', 'on', 'sending', 'me', 'to', 'the', 'hospital', 'for', 'treatment', '.']
+Prob: 4.655313398039273e-86
+result: ['rb', 'in', 'at', 'nn', 'in', 'np$', 'np-tl', 'nn-tl', ',', 'at', 'vbg', 'np', 'vbd', 'pp$', 'nns', ':', '``', 'at', 'nn', 'vbd', 'in', 'vbg', 'ppo', 'in', 'at', 'nn', 'in', 'nn', '.']
+accuracy 0.9310344827586207
+=============================
+test data 93
+['i', 'insisted', 'on', 'takeing', 'the', 'field', 'and', 'prevailed', '--', 'thinking', 'that', 'i', 'had', 'better', 'die', 'by', 'rebel', 'bullets', 'than', '(', 'by', ')', 'union', 'quackery', "''", '.']
+Prob: 5.229467862233739e-81
+result: ['ppss', 'vbd', 'in', 'nn', 'at', 'nn', 'cc', 'vbd', '--', 'vbg', 'cs', 'ppss', 'hvd', 'rbr', 'vb', 'in', 'nn', 'nns', 'cs', '(', 'in', ')', 'nn-tl', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 94
+['the', 'attitudes', 'which', 'the', 'rebs', 'and', 'yanks', 'took', 'toward', 'each', 'other', 'were', 'very', 'much', 'the', 'same', 'and', 'ranged', 'over', 'the', 'same', 'gamut', 'of', 'feeling', ',', 'from', 'friendliness', 'to', 'extreme', 'hatred', '.']
+Prob: 5.66771291026383e-86
+result: ['at', 'nns', 'wdt', 'at', 'nps', 'cc', 'nps', 'vbd', 'in', 'dt', 'ap', 'bed', 'ql', 'rb', 'at', 'ap', 'cc', 'vbd', 'in', 'at', 'ap', 'nn', 'in', 'nn', ',', 'in', 'nn', 'in', 'jj', 'nn', '.']
+accuracy 0.9354838709677419
+=============================
+test data 95
+['the', 'rebs', 'were', ',', 'to', 'a', 'massachusetts', 'corporal', ',', '``', 'fighting', 'madmen', 'or', 'not', 'men', 'at', 'all', 'but', 'whiskey', '&', 'gunpowder', 'put', 'into', 'a', 'human', 'frame', "''", '.']
+Prob: 3.1465952932330115e-80
+result: ['at', 'nps', 'bed', ',', 'in', 'at', 'np-tl', 'nn-tl', ',', '``', 'vbg', 'nns', 'cc', '*', 'nns', 'in', 'abn', 'cc', 'nn', 'cc', 'nn', 'vbd', 'in', 'at', 'jj', 'nn', "''", '.']
+accuracy 0.8928571428571429
+=============================
+test data 96
+['a', 'pennsylvania', 'soldier', 'wrote', 'that', '``', 'they', 'were', 'the', 'hardest', 'looking', 'set', 'of', 'men', 'that', 'ever', 'i', 'saw', '.']
+Prob: 4.011829516593959e-51
+result: ['at', 'np-tl', 'nn-tl', 'vbd', 'cs', '``', 'ppss', 'bed', 'at', 'jjt', 'vbg', 'nn', 'in', 'nns', 'wps', 'rb', 'ppss', 'vbd', '.']
+accuracy 0.7368421052631579
+=============================
+test data 97
+['they', 'looked', 'as', 'if', 'they', 'had', 'been', 'fed', 'on', 'vinegar', 'and', 'shavings', '.']
+Prob: 8.844399867257288e-32
+result: ['ppss', 'vbd', 'cs', 'cs', 'ppss', 'hvd', 'ben', 'vbn', 'in', 'nn', 'cc', 'nns', '.']
+accuracy 1.0
+=============================
+test data 98
+["''", 'private', 'jenkins', 'lloyd', 'jones', 'of', 'the', 'wisconsin', 'light', 'artillery', 'wrote', 'in', 'his', 'diary', ':', '``', 'i', 'strolled', 'among', 'the', 'alabamans', 'on', 'the', 'right', ',', 'found', 'some', 'of', 'the', 'greenest', 'specimens', 'of', 'humanity', 'i', 'think', 'in', 'the', 'universe', ',', 'their', 'ignorance', 'being', 'little', 'less', 'than', 'the', 'slave', 'they', 'despise', 'with', 'as', 'imperfect', 'a', 'dialect', '.']
+Prob: 2.4868350720996654e-158
+result: ["''", 'jj', 'np', 'np', 'np', 'in', 'at', 'np-tl', 'nn-tl', 'nn-tl', 'vbd', 'in', 'pp$', 'nn', ':', '``', 'ppss', 'vbd', 'in', 'at', 'nps', 'in', 'at', 'nn', ',', 'vbd', 'dti', 'in', 'at', 'jjt', 'nns', 'in', 'nn', 'ppss', 'vb', 'in', 'at', 'nn', ',', 'pp$', 'nn', 'beg', 'ql', 'ap', 'cs', 'at', 'nn', 'ppss', 'vb', 'in', 'ql', 'jj', 'at', 'nn', '.']
+accuracy 0.9090909090909091
+=============================
+test data 99
+['they', 'recooned', 'as', 'how', "you'uns", 'all', 'would', 'be', 'a', 'heap', 'wus', 'to', "we'uns", 'all', "'", "''", '.']
+Prob: 1.963625032098617e-51
+result: ['ppss', 'vbd', 'cs', 'wrb', 'ppss', 'abn', 'md', 'be', 'at', 'nn', 'jjr', 'in', 'ppo', 'abn', "'", "''", '.']
+accuracy 1.0
+=============================
+test data 100
+['in', 'a', 'similar', 'vein', ',', 'but', 'writing', 'from', 'the', 'opposite', 'side', ',', 'thomas', 'taylor', ',', 'a', 'private', 'in', 'the', '6th', 'alabama', 'volunteers', ',', 'in', 'a', 'letter', 'to', 'his', 'wife', ',', 'stated', ':', '``', 'you', 'know', 'that', 'my', 'heart', 'is', 'with', 'you', 'but', 'i', 'never', 'could', 'have', 'been', 'satisfied', 'to', 'have', 'staid', 'at', 'home', 'when', 'my', 'country', 'is', 'invaded', 'by', 'a', 'thievin', 'foe', ',', 'by', 'a', 'set', 'of', 'cowardly', 'skunks', 'whose', 'motto', 'is', 'booty', '.']
+Prob: 1.3498600421860841e-191
+result: ['in', 'at', 'jj', 'nn', ',', 'cc', 'vbg', 'in', 'at', 'jj', 'nn', ',', 'np', 'np', ',', 'at', 'jj', 'in', 'at', 'od-tl', 'np-tl', 'nns-tl', ',', 'in', 'at', 'nn', 'in', 'pp$', 'nn', ',', 'vbd', ':', '``', 'ppss', 'vb', 'cs', 'pp$', 'nn', 'bez', 'in', 'ppo', 'cc', 'ppss', 'rb', 'md', 'hv', 'ben', 'vbn', 'to', 'hv', 'vbn', 'in', 'nr', 'wrb', 'pp$', 'nn', 'bez', 'vbn', 'in', 'at', 'vbg', 'nn', ',', 'in', 'at', 'nn', 'in', 'jj', 'nns', 'wp$', 'nn', 'bez', 'nn', '.']
+accuracy 0.972972972972973
+=============================
+Total test time: 173.45948386192322 s
+Total accuracy 0.945446735395189

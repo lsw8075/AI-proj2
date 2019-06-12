@@ -1,0 +1,551 @@
+Test data count: 104
+test data 0
+['there', 'are', 'more', 'stems', 'per', 'item', 'in', 'athabascan', ',', 'which', 'expresses', 'the', 'fact', 'that', 'the', 'athabascan', 'languages', 'have', 'undergone', 'somewhat', 'more', 'change', 'in', 'diverging', 'from', 'proto-athabascan', 'than', 'the', 'yokuts', 'languages', 'from', 'proto-yokuts', '.']
+Prob: 0.0
+result: []
+=============================
+test data 1
+['this', 'may', 'be', 'because', 'the', 'athabascan', 'divergence', 'began', 'earlier', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 2
+['or', 'again', 'because', 'the', 'athabascan', 'languages', 'spread', 'over', 'a', 'very', 'much', 'larger', 'territory', '(', 'including', 'three', 'wholly', 'separated', 'areas', ')', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 3
+['or', 'both', '.']
+Prob: 3.5297188695562415e-08
+result: ['cc', 'abx', '.']
+accuracy 1.0
+=============================
+test data 4
+['the', 'differentiation', ',', 'however', ',', 'is', 'not', 'very', 'much', 'greater', ',', 'as', 'shown', 'by', 'the', 'fact', 'that', 'athabascan', 'shows', '3.46', 'stems', 'per', 'meaning', 'slot', 'as', 'against', '2.75','for', 'yokuts', ',', 'with', 'a', 'slightly', 'greater', 'number', 'of', 'languages', 'represented', 'in', 'our', 'sample', ':', '24', 'as', 'against', '21', '.']
+Prob: 0.0
+result: []
+=============================
+test data 5
+['(', 'on', 'deduction', 'of', 'one-eighth', 'from', '3.46', ',', 'the', 'stem', '', 'item', 'rate', 'becomes', '3.03', 'against', '2.75', 'in', 'equivalent', 'number', 'of', 'languages', '.']
+Prob: 0.0
+result: []
+=============================
+test data 6
+[')', 'these', 'general', 'facts', 'are', 'mentioned', 'to', 'make', 'clear', 'that', 'the', 'total', 'situation', 'in', 'the', 'two', 'families', 'is', 'similar', 'enough', 'to', 'warrant', 'comparison', '.']
+Prob: 0.0
+result: []
+=============================
+test data 7
+['the', 'greatest', 'difference', 'in', 'the', 'two', 'sets', 'of', 'figures', 'is', 'due', 'to', 'differences', 'in', 'the', 'two', 'sets', 'of', 'lists', 'used', '.']
+Prob: 6.712846717156813e-53
+result: ['at', 'jjt', 'nn', 'in', 'at', 'cd', 'nns', 'in', 'nns', 'bez', 'jj', 'in', 'nns', 'in', 'at', 'cd', 'nns', 'in', 'nns', 'vbn', '.']
+accuracy 1.0
+=============================
+test data 8
+['these', 'differences', 'in', 'turn', 'result', 'from', 'the', 'fact', 'that', 'my', 'yokuts', 'vocabularies', 'were', 'built', 'up', 'of', 'terms', 'selected', 'mainly', 'to', 'insure', 'unambiguity', 'of', 'english', 'meaning', 'between', 'illiterate', 'informants', 'and', 'myself', ',', 'within', 'a', 'compact', 'and', 'uniform', 'territorial', 'area', ',', 'but', 'that', "hoijer's", 'vocabulary', 'is', 'based', 'on', "swadesh's", 'second', 'glottochronological', 'list', 'which', 'aims', 'at', 'eliminating', 'all', 'items', 'which', 'might', 'be', 'culturally', 'or', 'geographically', 'determined', '.']
+Prob: 0.0
+result: []
+=============================
+test data 9
+['swadesh', 'in', 'short', 'was', 'trying', 'to', 'develop', 'a', 'basic', 'list', 'that', 'was', 'universal', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 10
+['i', ',', 'one', 'that', 'was', 'specifically', 'adapted', 'to', 'the', 'san', 'joaquin', 'valley', '.']
+Prob: 0.0
+result: []
+=============================
+test data 11
+['the', 'result', 'is', 'that', 'i', 'included', '70', 'animal', 'names', ',', 'but', 'swadesh', 'only', '4', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 12
+['and', 'somewhat', 'similarly', 'for', 'plants', ',', '16', 'as', 'against', '4', '.']
+Prob: 3.264458633714753e-32
+result: ['cc', 'ql', 'rb', 'in', 'nns', ',', 'cd', 'cs', 'in', 'cd', '.']
+accuracy 0.9090909090909091
+=============================
+test data 13
+['swadesh', ',', 'and', 'therefore', 'hoijer', ',', 'felt', 'compelled', 'to', 'omit', 'all', 'terms', 'denoting', 'species', 'or', 'even', 'genera', '(', 'ox', ',', 'vulture', ',', 'salmon', ',', 'yellow', 'pine', ',', 'manzanita', ')', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 14
+['their', 'classes', 'of', 'animal', 'and', 'plant', 'terms', 'are', 'restricted', 'to', 'generalizations', 'or', 'recurrent', 'parts', '(', 'fish', ',', 'bird', ',', 'tree', ',', 'grass', ',', 'horn', ',', 'tail', ',', 'bark',',', 'root', ')', '.']
+Prob: 0.0
+result: []
+=============================
+test data 15
+['the', 'groups', 'are', 'therefore', 'really', 'non-comparable', 'in', 'content', 'as', 'well', 'as', 'in', 'size', '.']
+Prob: 0.0
+result: []
+=============================
+test data 16
+['other', 'classes', 'are', 'included', 'only', 'by', 'myself', '(', 'interrogatives', ',', 'adverbs', ')', 'or', 'only', 'by', 'swadesh', 'and', 'hoijer', '(', 'pronouns', ',', 'demonstratives', ')', '.']
+Prob: 0.0
+result: []
+=============================
+test data 17
+['what', 'we', 'have', 'left', 'as', 'reasonably', 'comparable', 'are', 'four', 'classes', ':', '(', '1', ')', 'body', 'parts', 'and', 'products', ',','which', 'with', 'a', 'proportionally', 'nearly', 'even', 'representation','(', '51', 'terms', 'out', 'of', '253', ',', '25', 'out', 'of', '100', ')','come', 'out', 'with', 'nearly', 'even', 'ratios', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 18
+['2.6', 'and', '2.7', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 19
+['(', '2', ')', 'nature', '(', '29', 'terms', 'against', '17', ')', ',', 'ratios', '3.3', 'versus', '4.1', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 20
+['(', '3', ')', 'adjectives', '(', '16', ',', '15', 'terms', ')', ',', 'ratios', '3.9', 'versus', '4.7', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 21
+['(', '4', ')', 'verbs', '(', '9', ',', '22', 'terms', ')', ',', 'ratios', '4.0', 'versus', '3.4', '.']
+Prob: 0.0
+result: []
+=============================
+test data 22
+['it', 'will', 'be', 'seen', 'that', 'where', 'the', 'scope', 'is', 'similar', ',', 'the', 'athabascan', 'ratios', 'come', 'out', 'somewhat', 'higher','(', 'as', 'indeed', 'they', 'ought', 'to', 'with', 'a', 'total', 'ratio', 'of', '2.8', 'as', 'against', '3.5', 'or', '4', ':', '5', ')', 'except', 'for', 'verbs', ',', 'where', 'alone', 'the', 'athabascan', 'ratio', 'is', 'lower', '.']
+Prob: 0.0
+result: []
+=============================
+test data 23
+['this', 'exception', 'may', 'be', 'connected', 'with', "hoijer's", 'use', 'of', 'a', 'much', 'higher', 'percentage', 'of', 'verbs', ':', '22%', 'of', 'his', 'total', 'list', 'as', 'against', '3.5%', 'in', 'mine', '.']
+Prob: 0.0
+result: []
+=============================
+test data 24
+['or', 'the', 'exception', 'may', 'be', 'due', 'to', 'a', 'particular', 'durability', 'peculiar', 'to', 'the', 'athabascan', 'verb', '.']
+Prob: 0.0
+result: []
+=============================
+test data 25
+['more', 'word', 'class', 'ratios', 'determined', 'in', 'more', 'languages', 'will', 'no', 'doubt', 'ultimately', 'answer', 'the', 'question', '.']
+Prob: 1.7891537525731268e-52
+result: ['ap', 'nn', 'nn', 'nns', 'vbn', 'in', 'ap', 'nns', 'md', 'at', 'nn', 'rb', 'vb', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 26
+['5', '.']
+Prob: 6.599223661353146e-05
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 27
+['if', 'word', 'classes', 'differ', 'in', 'their', 'resistance', 'or', 'liability', 'to', 'stem', 'replacement', 'within', 'meaning', 'slot', ',', 'it', 'is', 'conceivable', 'that', 'individual', 'meanings', 'also', 'differ', 'with', 'fair', 'consistence', 'trans-lingually', '.']
+Prob: 0.0
+result: []
+=============================
+test data 28
+["hoijer's", 'athabascan', 'and', 'my', 'yokuts', 'share', '71', 'identical', 'meanings', '(', 'with', 'allowance', 'for', 'several', 'near-synonyms', 'like', 'stomach-belly', ',', 'big-large', ',', 'long-far', ',', 'many-much', ',', 'die-dead', ',', 'say-speak', ')', '.']
+Prob: 0.0
+result: []
+=============================
+test data 29
+['for', 'yokuts', ',', 'i', 'tabulated', 'these', '71', 'items', 'in', 'five', 'columns', ',', 'according', 'as', 'they', 'were', 'expressed', 'by', '1', ',', '2', ',', '3', ',', '4', ',', 'and', 'more', 'than', '4', 'stems', '.']
+Prob: 0.0
+result: []
+=============================
+test data 30
+['the', 'totals', 'for', 'these', 'five', 'categories', 'are', 'not', 'too', 'uneven', ',', 'namely', '20', ',', '15', ',', '11', ',', '16', ',', '9', 'respectively', '.']
+Prob: 0.0
+result: []
+=============================
+test data 31
+['for', 'athabascan', ',', 'with', 'a', 'greater', 'range', 'of', 'stems', ',', 'the', 'first', 'two', 'of', 'five', 'corresponding', 'columns', 'were', 'identical', ',', '1', 'and', '2', 'stems', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 32
+['the', 'three', 'others', 'had', 'to', 'be', 'spread', 'somewhat', ',', 'and', 'are', 'headed', 'respectively', 'af', ';', ';']
+Prob: 2.4896654062816264e-41
+result: ['at', 'cd', 'nns', 'hvd', 'to', 'be', 'vbn', 'rb', ',', 'cc', 'ber', 'vbn', 'rb', 'nn', '.', '.']
+accuracy 1.0
+=============================
+test data 33
+['af', ';', ';']
+Prob: 4.8556409436385024e-08
+result: ['nn', '.', '.']
+accuracy 1.0
+=============================
+test data 34
+['and', 'af', 'stems', '.']
+Prob: 4.901173332986939e-12
+result: ['cc', 'nn', 'nns', '.']
+accuracy 1.0
+=============================
+test data 35
+['while', 'the', 'particular', 'limits', 'of', 'these', 'groupings', 'may','seem', 'artificially', 'arbitrary', ',', 'they', 'do', 'fairly', 'express', 'a', 'corresponding', 'grouping', 'of', 'more', 'variable', 'material', ',', 'and', 'they', 'eventuate', 'also', 'in', 'five', 'classes', ',', 'along', 'a', 'similar', 'scale', ',', 'containing', 'approximately', 'equal', 'numbers', 'of', 'cases', ',', 'namely', '19', ',', '14', ',', '15', ',', '11', ',', '12', 'in', 'athabascan', '.']
+Prob: 0.0
+result: []
+=============================
+test data 36
+['when', 'now', 'we', 'count', 'the', 'frequency', 'of', 'the', '71', 'items', 'in', 'the', 'two', 'language', 'families', 'appearing', 'in', 'the', 'same', 'column', 'or', 'grade', ',', 'or', 'one', 'column', 'or', 'grade', 'apart', ',', 'or', 'two', 'or', 'three', 'or', 'four', ',', 'we', 'find', 'these', 'differences', ':', 'af']
+Prob: 3.2786765421563205e-119
+result: ['wrb', 'rb', 'ppss', 'vb', 'at', 'nn', 'in', 'at', 'cd', 'nns', 'in', 'at', 'cd', 'nn', 'nns', 'vbg', 'in', 'at', 'ap', 'nn', 'cc', 'nn', ',','cc', 'cd', 'nn', 'cc', 'nn', 'rb', ',', 'cc', 'cd', 'cc', 'cd', 'cc', 'cd', ',', 'ppss', 'vb', 'dts', 'nns', ':', 'nn']
+accuracy 1.0
+=============================
+test data 37
+['.']
+Prob: 0.0016474908109978352
+result: ['.']
+accuracy 1.0
+=============================
+test data 38
+['this', 'distribution', 'can', 'be', 'summarized', 'by', 'averaging', 'the', 'distance', 'in', 'grades', 'apart', ':', 'af', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 39
+['which', ',', 'divided', 'by', 'af', 'gives', 'a', 'mean', 'of', '1.07', 'grades', 'apart', '.']
+Prob: 0.0
+result: []
+=============================
+test data 40
+['if', 'the', 'distribution', 'of', 'the', '71', 'items', 'were', 'wholly','concordant', 'in', 'the', 'two', 'families', ',', 'the', 'distance', 'would', 'of', 'course', 'be', '0', '.']
+Prob: 0.0
+result: []
+=============================
+test data 41
+['if', 'it', 'were', 'wholly', 'random', 'and', 'unrelated', ',', 'it', 'would', 'be', '2.0', ',', 'assuming', 'the', 'five', 'classes', 'were', 'equal', 'in', 'n', ',', 'which', 'approximately', 'they', 'are', '.']
+Prob: 0.0
+result: []
+=============================
+test data 42
+['the', 'actual', 'mean', 'of', '1.07', 'being', 'about', 'halfway', 'between', '0', 'of', 'complete', 'correlation', 'and', '2.0', 'of', 'no', 'correlation', ',', 'it', 'is', 'evident', 'that', 'there', 'is', 'a', 'pretty', 'fair', 'degree', 'of', 'similarity', 'in', 'the', 'behavior', 'even', 'of', 'particular', 'individual', 'items', 'of', 'meaning', 'as', 'regards', 'long-term', 'stem', 'displacement', '.']
+Prob: 0.0
+result: []
+=============================
+test data 43
+['6', '.']
+Prob: 4.084766706484727e-05
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 44
+['in', '1960', ',', 'david', 'd.', 'thomas', 'published', 'basic', 'vocabulary', 'in', 'some', 'mon-khmer', 'languages', '(', 'al', '2', ',', 'no.', '3', ',', 'pp.', '7', '-', '11', ')', ',', 'which', 'compares', '8', 'mon-khmer', 'languages', 'with', 'the', 'i-e', 'language', 'data', 'on', 'which', 'swadesh', 'based', 'the', 'revised', 'retention', 'rate', '(', 'af', ')', 'in', 'place', 'of', 'original', '(', 'af', ')', ',', 'and', 'his', 'revised', '100', 'word', 'basic', 'glottochronological', 'list', 'in', 'towards', 'greater', 'accuracy', '(', 'ijal', '21', ':', ':']
+Prob: 0.0
+result: []
+=============================
+test data 45
+['121', '-', '137', ')', '.']
+Prob: 0.0
+result: []
+=============================
+test data 46
+["thomas'", 'findings', 'are', ',', 'first', ',', '``', 'that', 'the', 'individual', 'items', 'vary', 'greatly', 'and', 'unpredictably', 'in', 'their','persistence', "''", ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 47
+['but', ',', 'second', ',', '``', 'that', 'the', 'semantic', 'groups', 'are', 'surprisingly', 'unvarying', 'in', 'their', 'average', 'persistence', "''", '(', 'as', 'between', 'm-k', 'and', 'i-e', ')', '.']
+Prob: 0.0
+result: []
+=============================
+test data 48
+['his', 'first', 'conclusion', ',', 'on', 'behavior', 'of', 'individual', 'items', ',', 'is', 'negative', ',', 'whereas', 'mine', '(', 'on', 'ath.', 'and', 'yok.', ')', 'was', 'partially', 'positive', '.']
+Prob: 0.0
+result: []
+=============================
+test data 49
+['his', 'second', 'conclusion', ',', 'on', 'semantic', 'word', 'classes', ',', 'agrees', 'with', 'mine', '.']
+Prob: 0.0
+result: []
+=============================
+test data 50
+['this', 'second', 'conclusion', ',', 'independently', 'arrived', 'at', 'by', 'independent', 'study', 'of', 'material', 'from', 'two', 'pairs', 'of', 'language', 'families', 'as', 'different', 'and', 'remote', 'from', 'one', 'another', 'as', 'these', 'four', 'are', ',', 'cannot', 'be', 'ignored', '.']
+Prob: 4.1606727233278793e-97
+result: ['dt', 'od', 'nn', ',', 'rb', 'vbd', 'in', 'in', 'jj', 'nn', 'in', 'nn', 'in', 'cd', 'nns', 'in', 'nn', 'nns', 'ql', 'jj', 'cc', 'jj', 'in', 'cd', 'dt', 'cs', 'dts', 'cd', 'ber', ',', 'md*', 'be', 'vbn', '.']
+accuracy 0.9705882352941176
+=============================
+test data 51
+['thomas', 'also', 'presents', 'a', 'simple', 'equation', 'for', 'deriving', 'an', 'index', 'of', 'persistence', ',', 'which', 'weights', 'not', 'only', 'the', 'number', 'of', 'stems', '(', "'", 'roots', "'", ')', 'per', 'meaning', ',', 'but', 'their', 'relative', 'frequency', '.']
+Prob: 0.0
+result: []
+=============================
+test data 52
+['thus', 'his', 'persistence', 'values', 'for', 'some', 'stem', 'frequencies', 'per', 'meaning', 'are', ':', 'stem', 'identical', 'in', '8', 'languages', ',', '100%', ';', ';']
+Prob: 1.0899018601781776e-72
+result: ['rb', 'pp$', 'nn', 'nns', 'in', 'dti', 'vb', 'nns', 'in', 'nn', 'ber', ':', 'vb', 'jj', 'in', 'cd', 'nns', ',', 'nn', '.', '.']
+accuracy 0.9047619047619048
+=============================
+test data 53
+['stem', 'frequencies', '7', 'and', '1', ',', '86%', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 54
+['stem', 'frequencies', '4', 'and', '4', ',', '64%', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 55
+['stem', 'frequencies', '4', ',', '3', ',', 'and', '1', ',', '57%', '.']
+Prob: 0.0
+result: []
+=============================
+test data 56
+['his', 'formula', 'will', 'have', 'to', 'be', 'weighed', ',', 'may', 'be','altered', 'or', 'improved', ',', 'and', 'it', 'should', 'be', 'tested', 'on', 'additional', 'bodies', 'of', 'material', '.']
+Prob: 0.0
+result: []
+=============================
+test data 57
+['but', 'consideration', 'of', 'the', 'frequency', 'of', 'stems', 'per', 'constant', 'meaning', 'seems', 'to', 'be', 'established', 'as', 'having', 'significance', 'in', 'comparative', 'situations', 'with', 'diachronic', 'and','classificatory', 'relevance', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 58
+['and', 'gleason', 'presumably', 'is', 'on', 'the', 'way', 'with', 'a', 'further', 'contribution', 'in', 'this', 'area', '.']
+Prob: 2.89742394623892e-39
+result: ['cc', 'np-tl', 'rb', 'bez', 'in', 'at', 'nn', 'in', 'at', 'jjr', 'nn', 'in', 'dt', 'nn', '.']
+accuracy 0.9333333333333333
+=============================
+test data 59
+['as', 'to', 'relative', 'frequencies', 'of', 'competing', 'roots', '(', '7', '-', '1', 'vs.', '4', '-', '4', ',', 'etc.', ')', ',', 'thomas', 'with', 'his', "'", 'weighting', "'", 'seems', 'to', 'be', 'the', 'first', 'to', 'have', 'considered', 'the', 'significance', 'this', 'might', 'have', '.']
+Prob: 0.0
+result: []
+=============================
+test data 60
+['the', 'problem', 'needs', 'further', 'exploration', '.']
+Prob: 4.3997878284258284e-18
+result: ['at', 'nn', 'vbz', 'jjr', 'nn', '.']
+accuracy 1.0
+=============================
+test data 61
+['i', 'was', 'at', 'least', 'conscious', 'of', 'the', 'distinction', 'in', 'my', 'full', 'yokuts', 'presentation', 'that', 'awaits', 'publication', ',', 'in', 'which', ',', 'in', 'listing', "'", 'two-stem', 'meanings', "'", ',', 'i', 'set', 'off', 'by', 'asterisks', 'those', 'forms', 'in', 'which', 'n', 'of', 'stem', 'b', 'was', 'af', 'of', 'stem', 'a', ',', 'the', 'unasterisked', 'ones', 'standing', 'for', 'af', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 62
+['or', 'under', "'", 'four', 'stems', "'", ',', 'i', 'set', 'off', 'by', 'asterisks', 'cases', 'where', 'the', 'combined', 'n', 'of', 'stems', 'af', 'was', 'af', '.']
+Prob: 0.0
+result: []
+=============================
+test data 63
+['7', '.']
+Prob: 6.325942263703306e-05
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 64
+['these', 'findings', ',', 'and', 'others', 'which', 'will', 'in', 'time', 'be', 'developed', ',', 'will', 'affect', 'the', 'method', 'of', 'glottochronological', 'inquiry', '.']
+Prob: 0.0
+result: []
+=============================
+test data 65
+['if', 'adjectival', 'meanings', 'show', 'relatively', 'low', 'retentiveness', 'of', 'stems', ',', 'as', 'i', 'am', 'confident', 'will', 'prove', 'to','be', 'the', 'case', 'in', 'most', 'languages', 'of', 'the', 'world', ',', 'why', 'should', 'our', 'basic', 'lists', 'include', '15', 'per', 'cent', 'of', 'these', 'unstable', 'forms', ',', 'but', 'only', '8', 'per', 'cent', 'of', 'animals', 'and', 'plants', 'which', 'replace', 'much', 'more', 'slowly', '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 66
+['had', 'hoijer', 'substituted', 'for', 'his', '15', 'adjectival', 'slots','15', 'good', 'animal', 'and', 'plant', 'items', ',', 'his', 'rate', 'of', 'stem', 'replacement', 'would', 'have', 'been', 'lower', 'and', 'the', 'age', 'of', 'athabascan', 'language', 'separation', 'smaller', '.']
+Prob: 0.0
+result: []
+=============================
+test data 67
+['and', 'irrespective', 'of', 'the', 'outcome', 'in', 'centuries', 'elapsed', 'since', 'splitting', ',', 'calculations', 'obviously', 'carry', 'more', 'concordant', 'and', 'comparable', 'meaning', 'if', 'they', 'deal', 'with', 'the', 'most', 'stable', 'units', 'than', 'with', 'variously', 'unstable', 'ones', '.']
+Prob: 0.0
+result: []
+=============================
+test data 68
+['it', 'is', 'evident', 'that', 'swadesh', 'has', 'not', 'only', 'had', 'much', 'experience', 'with', 'basic', 'vocabulary', 'in', 'many', 'languages','but', 'has', 'acquired', 'great', 'tact', 'and', 'feeling', 'for', 'the', 'expectable', 'behavior', 'of', 'lexical', 'items', '.']
+Prob: 0.0
+result: []
+=============================
+test data 69
+['why', 'then', 'this', 'urge', 'to', 'include', 'unstable', 'items', 'in','his', 'basic', 'list', '?', '?']
+Prob: 2.2680970590588958e-42
+result: ['wrb', 'rb', 'dt', 'vb', 'to', 'vb', 'jj', 'nns', 'in', 'pp$', 'jj', 'nn', '.', '.']
+accuracy 0.9285714285714286
+=============================
+test data 70
+['it', 'is', 'the', 'urge', 'to', 'obtain', 'a', 'list', 'as', 'free', 'of', 'geographical', 'and', 'cultural', 'conditioning', 'as', 'possible', '.']
+Prob: 1.2366297131076877e-50
+result: ['pps', 'bez', 'at', 'vb', 'to', 'vb', 'at', 'nn', 'ql', 'jj', 'in', 'jj', 'cc', 'jj', 'nn', 'ql', 'jj', '.']
+accuracy 0.8888888888888888
+=============================
+test data 71
+['and', 'why', 'that', 'insistence', '?', '?']
+Prob: 3.919685763049856e-15
+result: ['cc', 'wrb', 'dt', 'nn', '.', '.']
+accuracy 1.0
+=============================
+test data 72
+['it', 'is', 'the', 'hope', 'of', 'attaining', 'a', 'list', 'of', 'items', 'of', 'universal', 'occurrence', '.']
+Prob: 1.0622425693809498e-34
+result: ['pps', 'bez', 'at', 'nn', 'in', 'vbg', 'at', 'nn', 'in', 'nns', 'in', 'jj', 'nn', '.']
+accuracy 1.0
+=============================
+test data 73
+['but', 'it', 'is', 'becoming', 'increasingly', 'evident', 'that', 'such', 'a', 'hope', 'is', 'a', 'snare', '.']
+Prob: 0.0
+result: []
+=============================
+test data 74
+['not', 'that', 'such', 'a', 'list', 'cannot', 'be', 'constructed', ';', ';']
+Prob: 3.163732262955132e-23
+result: ['*', 'cs', 'abl', 'at', 'nn', 'md*', 'be', 'vbn', '.', '.']
+accuracy 1.0
+=============================
+test data 75
+['but', 'the', 'nearer', 'it', 'comes', 'to', 'attaining', 'universality', ',', 'the', 'less', 'significant', 'will', 'it', 'be', 'linguistically', '.']
+^[[5~Prob: 0.0
+result: []
+=============================
+test data 76
+['its', 'terms', 'will', 'tend', 'to', 'be', 'labile', 'or', 'vague', ',', 'and', 'they', 'will', 'fit', 'actual', 'languages', 'more', 'and', 'more', 'badly', '.']
+^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~Prob: 0.0
+result: []
+=============================
+test data 77
+['the', 'practical', 'operational', 'problem', 'of', 'lexicostatistics', 'is', 'the', 'establishment', 'of', 'a', 'basic', 'list', 'of', 'items', 'of','meaning', 'against', 'which', 'the', 'particular', 'forms', 'or', 'terms','of', 'languages', 'can', 'be', 'matched', 'as', 'the', 'medium', 'of', 'comparison', '.']
+Prob: 0.0
+result: []
+=============================
+test data 78
+['the', 'most', 'important', 'quality', 'of', 'the', 'meanings', 'is', 'that', 'they', 'should', 'be', 'as', 'definable', 'as', 'possible', '.']
+Prob: 0.0
+result: []
+=============================
+test data 79
+['in', 'proportion', 'as', 'meanings', 'are', 'concrete', ',', 'we', 'can','better', 'rely', 'on', 'their', 'being', 'insulated', 'and', 'distinctive', '.']
+Prob: 0.0
+result: []
+=============================
+test data 80
+['an', 'elephant', 'or', 'a', 'fox', 'or', 'a', 'swan', 'or', 'a', 'cocopalm', 'or', 'a', 'banana', 'possess', 'in', 'unusually', 'high', 'degree', 'this', 'quality', 'of', 'obvious', ',', 'common-sense', ',', 'indubitable', 'identity', ',', 'as', 'do', 'an', 'eye', 'or', 'tooth', 'or', 'nail', '.']
+Prob: 0.0
+result: []
+=============================
+test data 81
+['they', 'isolate', 'out', 'easily', ',', 'naturally', ',', 'and', 'unambiguously', 'from', 'the', 'continuum', 'of', 'nature', 'and', 'existence', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 82
+['and', 'they', 'should', 'be', 'given', 'priority', 'in', 'the', 'basic', 'list', 'as', 'long', 'as', 'they', 'continue', 'to', 'show', 'these', 'qualities', '.']
+Prob: 9.630981457865974e-46
+result: ['cc', 'ppss', 'md', 'be', 'vbn', 'nn', 'in', 'at', 'jj', 'nn', 'ql', 'jj', 'cs', 'ppss', 'vb', 'to', 'vb', 'dts', 'nns', '.']
+accuracy 0.95
+=============================
+test data 83
+['with', 'the', 'universal', 'list', 'as', 'his', 'weapon', ',', 'swadesh','has', 'extended', 'his', 'march', 'of', 'conquest', 'farther', 'and', 'farther', 'into', 'the', 'past', ',', 'eight', ',', 'ten', ',', 'twelve', 'millennia', 'back', '.']
+Prob: 0.0
+result: []
+=============================
+test data 84
+['and', 'he', 'has', 'proclaimed', 'greater', 'or', 'less', 'affiliation', 'between', 'all', 'western', 'hemisphere', 'languages', '.']
+Prob: 8.511419864640957e-43
+result: ['cc', 'pps', 'hvz', 'vbn', 'jjr', 'cc', 'ap', 'nn', 'in', 'abn', 'jj-tl', 'nn-tl', 'nns', '.']
+accuracy 0.9285714285714286
+=============================
+test data 85
+['some', 'of', 'this', 'may', 'prove', 'to', 'be', 'true', ',', 'or', 'even', 'considerable', 'of', 'it', ',', 'whether', 'by', 'genetic', 'ramification', 'or', 'by', 'diffusion', 'and', 'coalescence', '.']
+Prob: 0.0
+result: []
+=============================
+test data 86
+['but', 'the', 'farther', 'out', 'he', 'moves', ',', 'the', 'thinner', 'will', 'be', 'his', 'hold', 'on', 'conclusive', 'evidence', ',', 'and', 'the', 'larger', 'the', 'speculative', 'component', 'in', 'his', 'inferences', '.']
+Prob: 0.0
+result: []
+=============================
+test data 87
+['he', 'has', 'traversed', 'provinces', 'and', 'kingdoms', ',', 'but', 'he', 'has', 'not', 'consolidated', 'them', 'behind', 'him', ',', 'nor', 'does','he', 'control', 'them', '.']
+Prob: 0.0
+result: []
+=============================
+test data 88
+['he', 'has', 'announced', 'results', 'on', 'hokan', ',', 'penutian', ',', 'uto-aztecan', ',', 'and', 'almost', 'all', 'other', 'american', 'families','and', 'phyla', ',', 'and', 'has', 'diagrammed', 'their', 'degree', 'of', 'interrelation', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 89
+['but', 'he', 'has', 'not', 'worked', 'out', 'by', 'lexicostatistics', 'one', 'comprehensively', 'complete', 'classification', 'of', 'even', 'a', 'single', 'family', 'other', 'than', 'salish', '.']
+Prob: 0.0
+result: []
+=============================
+test data 90
+['that', 'is', 'his', 'privilege', '.']
+Prob: 7.875769662731775e-12
+result: ['dt', 'bez', 'pp$', 'nn', '.']
+accuracy 1.0
+=============================
+test data 91
+['the', 'remote', ',', 'cloudy', ',', 'possible', 'has', 'values', 'of', 'its', 'own', '--', 'values', 'of', 'scope', ',', 'stimulus', ',', 'potential', ',', 'and', 'imagination', '.']
+Prob: 0.0
+result: []
+=============================
+test data 92
+['but', 'there', 'is', 'also', 'a', 'firm', 'aspect', 'to', 'lexicostatistics', ':', 'the', 'aspect', 'of', 'learning', 'the', 'internal', 'organization', 'of', 'obvious', 'natural', 'genetic', 'groups', 'of', 'languages', 'as', 'well', 'as', 'their', 'more', 'remote', 'and', 'elusive', 'external', 'links', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 93
+['of', 'classification', 'first', ',', 'with', 'elapsed', 'age', 'merely', 'a', 'by-product', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 94
+['of', 'acquiring', 'evidential', 'knowledge', 'of', 'what', 'happened', 'in', 'athabascan', ',', 'in', 'yokuts', ',', 'in', 'uto-aztecan', 'in', 'the', 'last', 'few', 'thousand', 'years', 'as', 'well', 'as', 'forecasting', 'what', 'more', 'anciently', 'may', 'have', 'happened', 'between', 'them', '.']
+Prob: 0.0
+result: []
+=============================
+test data 95
+['this', 'involves', 'step-by-step', 'progress', ',', 'and', 'such', 'will', 'have', 'to', 'be', 'the', 'day-by-day', 'work', 'of', 'lexicostatistics','as', 'a', 'growing', 'body', 'of', 'scientific', 'inquiry', '.']
+Prob: 0.0
+result: []
+=============================
+test data 96
+['if', 'of', 'the', 'founders', 'of', 'glottochronology', 'swadesh', 'has','escaped', 'our', 'steady', 'plodding', ',', 'and', 'lees', 'has', 'repudiated', 'his', 'own', 'share', 'in', 'the', 'founding', ',', 'that', 'is', 'no', 'reason', 'why', 'we', 'should', 'swerve', '.']
+Prob: 0.0
+result: []
+=============================
+test data 97
+['8', '.']
+Prob: 2.3425443503344333e-05
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 98
+['there', 'is', 'no', 'apparent', 'reason', 'why', 'we', 'should', 'feel', 'bound', 'by', "swadesh's", 'rules', 'and', 'procedure', 'since', 'his', 'predilections', 'and', 'aims', 'have', 'grown', 'so', 'vast', '.']
+Prob: 0.0
+result: []
+=============================
+test data 99
+['it', 'seems', 'time', 'to', 'consider', 'a', 'revision', 'of', 'operational', 'procedures', 'for', 'lexicostatistic', 'studies', 'on', 'a', 'more', 'humble', ',', 'solid', ',', 'and', 'limited', 'basis', '.']
+Prob: 0.0
+result: []
+=============================
+test data 100
+['i', 'would', 'propose', ',', 'first', ',', 'an', 'abandonment', 'of', 'attempts', 'at', 'a', 'universal', 'lexical', 'list', ',', 'as', 'intrinsically', 'unachievable', ',', 'and', 'operationally', 'inadequate', 'in', 'proportion', 'as', 'it', 'is', 'achieved', '.']
+Prob: 0.0
+result: []
+=============================
+test data 101
+['i', 'would', 'propose', ',', 'next', ',', 'as', 'the', 'prime', 'requirement', 'for', 'constitution', 'of', 'new', 'basic', 'lists', ',', 'items', 'whose', 'forms', 'show', 'as', 'high', 'an', 'empirical', 'retention', 'rate', 'as', 'possible', '.']
+Prob: 0.0
+result: []
+=============================
+test data 102
+['there', 'would', 'be', 'no', 'conceivable', 'sense', 'in', 'going', 'to','the', 'opposite', 'extreme', 'of', 'selecting', 'items', 'whose', 'forms','are', 'the', 'most', 'unstable', '.']
+Prob: 3.2555254152724994e-58
+result: ['ex', 'md', 'be', 'at', 'jj', 'nn', 'in', 'vbg', 'in', 'at', 'jj','nn', 'in', 'vbg', 'nns', 'wp$', 'nns', 'ber', 'at', 'ql', 'jj', '.']
+accuracy 1.0
+=============================
+test data 103
+['an', 'attempted', 'middle', 'course', 'might', 'lead', 'to', 'devices', 'like', 'a', '5000-word', 'alphabetized', 'dictionary', 'from', 'which', 'every', 'fiftieth', 'word', 'was', 'selected', '.']
+Prob: 0.0
+result: []
+=============================
+Total test time: 291.7120943069458 s
+Total accuracy: 0.9692307692307692
+Total null: 78
+lee@lee-15Z960-GA50K:~/Desktop/project2$

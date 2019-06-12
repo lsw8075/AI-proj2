@@ -1,0 +1,580 @@
+Test data count: 96
+test data 0
+['into', 'washington', 'on', 'president-elect', 'john', 'f.', "kennedy's", 'convair', ',', 'the', 'caroline', ',', 'winged', 'actor-crooner', 'frank', 'sinatra', 'and', 'his', 'close', 'hollywood', 'pal', ',', 'cinemactor', 'peter', 'lawford', ',', 'jack', "kennedy's", 'brother-in-law', '.']
+Prob: 9.379938395887662e-105
+result: ['in', 'np', 'in', 'nn-tl', 'np', 'np', 'np$', 'np', ',', 'at', 'np', ',', 'vbd', 'nn-tl', 'np', 'np', 'cc', 'pp$', 'jj', 'np', 'nn', ',', 'np', 'np', 'np', ',', 'np', 'np$', 'nn', '.']
+accuracy 1.0
+=============================
+test data 1
+['also', 'included', 'in', 'the', 'entourage', ':', 'a', 'dog', 'in', 'a', 'black', 'sweater', ',', 'frankie', 'and', 'peter', 'had', 'an', 'urgent', 'mission', ':', 'to', 'stage', 'a', 'mammoth', 'inauguration', 'eve', 'entertainment', 'gala', 'in', 'the', "capital's", 'national', 'guard', 'armory', '.']
+Prob: 7.92132182968731e-108
+result: ['rb', 'vbn', 'in', 'at', 'nn', ':', 'at', 'nn', 'in', 'at', 'jj', 'nn', ',', 'np', 'cc', 'np', 'hvd', 'at', 'jj', 'nn', ':', 'to', 'vb', 'at','jj', 'nn-tl', 'nn-tl', 'nn', 'nn', 'in', 'at', 'nn$', 'jj-tl', 'nn-tl', 'nn-tl', '.']
+accuracy 1.0
+=============================
+test data 2
+['frankie', 'was', 'fairly', 'glutted', 'with', 'ideas', ',', 'as', 'he', 'had', 'hinted', 'upon', 'his', 'arrival', ':', '``', "it's", 'really', 'tremendous', 'when', 'you', 'think', 'ella', 'fitzgerald', 'is', 'coming', 'from', 'australia', '.']
+Prob: 5.043361561539191e-80
+result: ['np', 'bedz', 'ql', 'vbn', 'in', 'nns', ',', 'cs', 'pps', 'hvd', 'vbn', 'in', 'pp$', 'nn', ':', '``', 'pps+bez', 'ql', 'jj', 'wrb', 'ppss', 'vb', 'np', 'np', 'bez', 'vbg', 'in', 'np', '.']
+accuracy 1.0
+=============================
+test data 3
+['i', 'could', 'talk', 'to', 'you', 'for', 'three', 'hours', 'and', 'still', 'not', 'be', 'able', 'to', 'give', 'you', 'all', 'of', 'our', 'plans', "''", '!', '!']
+Prob: 2.696319122365551e-51
+result: ['ppss', 'md', 'vb', 'in', 'ppo', 'in', 'cd', 'nns', 'cc', 'rb', '*', 'be', 'jj', 'to', 'vb', 'ppo', 'abn', 'in', 'pp$', 'nns', "''", '.', '.']
+accuracy 1.0
+=============================
+test data 4
+['as', 'the', 'plans', 'were', 'laid', ',', 'some', 'several', 'thousand', 'fat', 'cats', 'were', 'to', 'be', 'ensconced', 'in', 'the', "armory's", '$100', 'seats', 'and', 'in', '68', 'ringside', 'boxes', 'priced', 'at', '$10,000', 'each', '.']
+Prob: 1.3888743037686253e-91
+result: ['cs', 'at', 'nns', 'bed', 'vbn', ',', 'dti', 'ap', 'cd', 'jj', 'nns', 'bed', 'to', 'be', 'vbn', 'in', 'at', 'nn$', 'nns', 'nns', 'cc', 'in', 'cd', 'nn', 'nns', 'vbn', 'in', 'nns', 'dt', '.']
+accuracy 1.0
+=============================
+test data 5
+['the', 'biggest', 'single', 'act', 'would', 'doubtless', 'be', 'staged', 'by', 'frankie', 'himself', ':', 'his', 'inaugural', 'wardrobe', 'had', 'been', 'designed', 'by', 'hollywood', 'couturier', 'don', 'loper', ',', 'who', 'regularly', 'makes', 'up', "ladies'", 'ensembles', '.']
+Prob: 3.062220405889918e-97
+result: ['at', 'jjt', 'ap', 'nn', 'md', 'rb', 'be', 'vbn', 'in', 'np', 'ppl', ':', 'pp$', 'jj', 'nn', 'hvd', 'ben', 'vbn', 'in', 'np', 'np', 'np', 'np', ',', 'wps', 'rb', 'vbz', 'rp', 'nns$', 'nns', '.']
+accuracy 0.967741935483871
+=============================
+test data 6
+['soon', 'after', 'loper', 'leaked', 'the', 'news', 'that', 'frankie', 'had', 'ordered', '``', 'two', 'of', 'everything', "''", 'just', '``', 'in', 'case', 'he', 'spills', 'anything', "''", ',', 'frankie', 'got', 'so', 'mad', 'at', 'the', 'chic', 'designer', 'that', 'he', 'vowed', 'he', 'would', 'not','wear', 'a', 'stitch', 'of', 'loper', 'clothing', '.']
+Prob: 2.9699696031986596e-127
+result: ['rb', 'in', 'np', 'vbd', 'at', 'nn', 'cs', 'np', 'hvd', 'vbn', '``', 'cd', 'in', 'pn', "''", 'rb', '``', 'in', 'nn', 'pps', 'vbz', 'pn', "''",',', 'np', 'vbd', 'ql', 'jj', 'in', 'at', 'jj', 'nn', 'cs', 'pps', 'vbd', 'pps', 'md', '*', 'vb', 'at', 'nn', 'in', 'np', 'nn', '.']
+accuracy 0.9777777777777777
+=============================
+test data 7
+['a', 'year', 'after', 'he', 'was', 'catapulted', 'over', 'nine', 'officers', 'senior', 'to', 'him', 'and', 'made', 'commandant', 'of', 'the', 'marine', 'corps', ',', 'general', 'david', 'm.', 'shoup', 'delivered', 'a', 'peppery', 'annual', 'report', 'in', 'the', 'form', 'of', 'a', '``', 'happy', ',', 'warless', 'new', 'year', "''", 'greeting', 'to', 'his', 'pentagon', 'staff', '.']
+Prob: 3.482763253413415e-135
+result: ['at', 'nn', 'cs', 'pps', 'bedz', 'vbn', 'in', 'cd', 'nns', 'jj', 'in', 'ppo', 'cc', 'vbn', 'nn', 'in', 'at', 'nn-tl', 'nn-tl', ',', 'nn-tl', 'np', 'np', 'np', 'vbd', 'at', 'jj', 'jj', 'nn', 'in', 'at', 'nn', 'in', 'at', '``', 'jj', ',', 'jj', 'jj', 'nn', "''", 'nn', 'in', 'pp$', 'nn-tl', 'nn','.']
+accuracy 0.9361702127659575
+=============================
+test data 8
+['said', 'leatherneck', 'shoup', ':', '``', 'a', 'year', 'ago', 'i', 'took', 'the', 'grips', 'of', 'the', 'plow', 'in', 'my', 'hands', '.']
+Prob: 2.081635364039337e-49
+result: ['vbd', 'np', 'np', ':', '``', 'at', 'nn', 'rb', 'ppss', 'vbd', 'at', 'nns', 'in', 'at', 'nn', 'in', 'pp$', 'nns', '.']
+accuracy 0.9473684210526315
+=============================
+test data 9
+['after', 'pushing', 'an', 'accumulation', 'of', 'vines', 'and', 'weeds', 'from', 'the', 'moldboard', ',', 'i', 'lifted', 'the', 'lines', 'from', 'the', 'dust', 'and', 'found', 'hitched', 'to', 'that', 'plow', 'the', 'finest', 'team', 'i', 'ever', 'held', 'a', 'rein', 'on', '.']
+Prob: 4.709471297714585e-101
+result: ['in', 'vbg', 'at', 'nn', 'in', 'nns', 'cc', 'nns', 'in', 'at', 'nn', ',', 'ppss', 'vbd', 'at', 'nns', 'in', 'at', 'nn', 'cc', 'vbd', 'vbn', 'in', 'dt', 'nn', 'at', 'jjt', 'nn', 'ppss', 'rb', 'vbd', 'at', 'nn', 'rp', '.']
+accuracy 0.9428571428571428
+=============================
+test data 10
+['little', 'geeing', 'and', 'hawing', 'have', 'been', 'necessary', "''", '.']
+Prob: 2.3127684464057154e-25
+result: ['ap', 'nn', 'cc', 'nn', 'hv', 'ben', 'jj', "''", '.']
+accuracy 1.0
+=============================
+test data 11
+['but', 'shoup', 'also', 'gave', 'the', 'corps', 'a', 'tilling', 'in', 'spots', '.']
+Prob: 1.516867190336765e-33
+result: ['cc', 'np', 'rb', 'vbd', 'at', 'nn', 'at', 'nn', 'in', 'nns', '.']
+accuracy 0.9090909090909091
+=============================
+test data 12
+['speaking', 'of', '``', 'pride', "''", ',', 'he', 'deplored', 'the', 'noncommissioned', 'officer', '``', 'whose', 'uniform', 'looks', 'like', 'it', 'belonged', 'to', 'someone', 'who', 'retired', 'in', '1940', ';', ';']
+Prob: 1.6693424367601226e-72
+result: ['vbg', 'in', '``', 'nn', "''", ',', 'pps', 'vbd', 'at', 'jj', 'nn', '``', 'wp$', 'nn', 'vbz', 'cs', 'pps', 'vbd', 'in', 'pn', 'wps', 'vbd', 'in', 'cd', '.', '.']
+accuracy 1.0
+=============================
+test data 13
+['the', 'officer', 'with', 'the', 'yellow', 'socks', 'or', 'the', 'bay', 'window', '.']
+Prob: 5.296175637733991e-28
+result: ['at', 'nn', 'in', 'at', 'jj', 'nns', 'cc', 'at', 'nn', 'nn', '.']
+accuracy 1.0
+=============================
+test data 14
+['a', 'few', 'of', 'these', 'people', 'are', 'still', 'around', "''", '.']
+Prob: 1.0796160094886728e-20
+result: ['at', 'ap', 'in', 'dts', 'nns', 'ber', 'rb', 'rb', "''", '.']
+accuracy 1.0
+=============================
+test data 15
+['old', 'and', 'new', 'briefly', 'crossed', 'paths', 'in', 'the', 'u.s.', 'senate', ',', 'then', 'went', 'their', 'respective', 'ways', '.']
+Prob: 4.2031193995211115e-49
+result: ['jj', 'cc', 'jj', 'rb', 'vbd', 'nns', 'in', 'at', 'np-tl', 'nn-tl', ',', 'rb', 'vbd', 'pp$', 'jj', 'nns', '.']
+accuracy 1.0
+=============================
+test data 16
+['at', 'a', 'reception', 'for', 'new', 'members', 'of', 'congress', ',', 'oregon', 'democrat', 'maurine', 'neuberger', ',', 'taking', 'the', 'senate', 'seat', 'held', 'by', 'her', 'husband', 'richard', 'until', 'his', 'death', 'last', 'march', ',', 'got', 'a', 'brotherly', 'buss', 'from', 'democratic','elder', 'statesman', 'adlai', 'stevenson', ',', 'u.s.', 'ambassador-designate', 'to', 'the', 'u.n.', '.']
+Prob: 1.2365998442956614e-140
+result: ['in', 'at', 'nn', 'in', 'jj', 'nns', 'in', 'np', ',', 'np', 'np', 'np', 'np', ',', 'vbg', 'at', 'nn-tl', 'nn', 'vbn', 'in', 'pp$', 'nn', 'np','in', 'pp$', 'nn', 'ap', 'np', ',', 'vbd', 'at', 'jj', 'nn', 'in', 'jj-tl','jjr-tl', 'nn-tl', 'np', 'np', ',', 'np-tl', 'nn-tl', 'in', 'at', 'np', '.']
+accuracy 0.9565217391304348
+=============================
+test data 17
+['meanwhile', ',', 'after', '24', 'years', 'in', 'the', 'senate', ',', 'rhode', "island's", 'durable', 'democrat', 'theodore', 'francis', 'greene', '--', 'having', 'walked', ',', 'swum', 'and', 'cerebrated', 'himself', 'to', 'the', 'hearty', 'age', 'of', '93', '--', 'left', 'that', 'august', 'body', '(', 'voluntarily', ',', 'because', 'he', 'could', 'surely', 'have', 'been', 're-elected', 'had', 'he', 'chosen', 'to', 'run', 'again', 'last', 'november', ')', ',', 'as', 'the', 'oldest', 'man', 'ever', 'to', 'serve', 'in', 'the', 'senate', '.']
+Prob: 3.046293760030942e-185
+result: ['rb', ',', 'in', 'cd', 'nns', 'in', 'at', 'nn-tl', ',', 'np-tl', 'nn$-tl', 'jj', 'np', 'np', 'np', 'np', '--', 'hvg', 'vbn', ',', 'vbn', 'cc','vbn', 'ppl', 'in', 'at', 'jj', 'nn', 'in', 'cd', '--', 'vbd', 'cs', 'np', 'nn', '(', 'rb', ',', 'cs', 'pps', 'md', 'rb', 'hv', 'ben', 'vbn', 'hvd', 'pps', 'vbn', 'to', 'vb', 'rb', 'ap', 'np', ')', ',', 'cs', 'at', 'jjt', 'nn','rb', 'to', 'vb', 'in', 'at', 'nn-tl', '.']
+accuracy 0.9696969696969697
+=============================
+test data 18
+['the', 'most', 'famous', 'undergraduate', 'of', 'south', 'philadelphia', 'high', 'school', 'is', 'a', 'current', 'bobby-sox', 'idol', ',', 'dreamboat', 'cacophonist', 'fabian', '(', 'real', 'name', ':', 'fabian', 'forte', ')',',', '17', ',', 'and', 'last', 'week', 'it', 'developed', 'that', 'he', 'will', 'remain', 'an', 'undergraduate', 'for', 'a', 'while', '.']
+Prob: 1.1432444685472046e-124
+result: ['at', 'ql', 'jj', 'nn', 'in', 'jj-tl', 'np-tl', 'jj-tl', 'nn-tl', 'bez', 'at', 'jj', 'nns', 'nn', ',', 'np', 'nn', 'np', '(', 'jj', 'nn', ':','np', 'np', ')', ',', 'cd', ',', 'cc', 'ap', 'nn', 'pps', 'vbd', 'cs', 'pps', 'md', 'vb', 'at', 'nn', 'in', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 19
+['the', 'principal', 'of', 'the', 'school', 'announced', 'that', '--', 'despite', 'the', 'help', 'of', 'private', 'tutors', 'in', 'hollywood', 'and', 'philadelphia', '--', 'fabian', 'is', 'a', "10-o'clock", 'scholar', 'in', 'english', 'and', 'mathematics', '.']
+Prob: 1.8289140446353813e-80
+result: ['at', 'nn', 'in', 'at', 'nn', 'vbd', 'cs', '--', 'in', 'at', 'nn','in', 'jj', 'nns', 'in', 'np', 'cc', 'np', '--', 'np', 'bez', 'at', 'nn', 'nn', 'in', 'jj', 'cc', 'nn', '.']
+accuracy 0.9655172413793104
+=============================
+test data 20
+['lacking', 'his', 'needed', 'credits', 'in', 'those', 'subjects', ',', 'fabian', 'will', 'not', 'graduate', 'with', 'his', 'old', 'classmates', 'next', 'week', '.']
+Prob: 3.5566694813818777e-57
+result: ['vbg', 'pp$', 'vbn', 'nns', 'in', 'dts', 'nns', ',', 'np', 'md', '*', 'vb', 'in', 'pp$', 'jj', 'nns', 'ap', 'nn', '.']
+accuracy 1.0
+=============================
+test data 21
+['south', 'philadelphia', "high's", 'principal', 'added', 'that', 'the', 'current', 'delay', 'was', 'caused', 'by', 'the', '``', 'pressure', "''", 'of', 'a', 'movie', 'that', 'the', 'toneless', 'lad', 'was', 'making', '.']
+Prob: 8.571021769642266e-72
+result: ['jj-tl', 'np-tl', 'nn$-tl', 'nn', 'vbd', 'cs', 'at', 'jj', 'nn', 'bedz', 'vbn', 'in', 'at', '``', 'nn', "''", 'in', 'at', 'nn', 'cs', 'at', 'jj', 'nn', 'bedz', 'vbg', '.']
+accuracy 1.0
+=============================
+test data 22
+['to', 'decathlon', 'man', 'rafer', 'johnson', '(', 'time', 'cover', ',', 'aug.', '29', ')', ',', 'whose', 'gold', 'medal', 'in', 'last', "summer's", 'olympic', 'games', 'was', 'won', 'as', 'much', 'on', 'gumption', 'as', 'talent', ',', 'went', 'the', "a.a.u.'s", 'james', 'e.', 'sullivan', 'memorial', 'trophy', 'as', 'the', 'outstanding', 'u.s.', 'amateur', 'athlete', 'of', '1960', '.']
+Prob: 8.268803477347048e-159
+result: ['in', 'nn-tl', 'nn-tl', 'np', 'np', '(', 'nn', 'nn', ',', 'np', 'cd', ')', ',', 'wp$', 'jj', 'nn', 'in', 'ap', 'nn$', 'jj-tl', 'nns-tl', 'bedz', 'vbn', 'cs', 'ap', 'in', 'nn', 'cs', 'nn', ',', 'vbd', 'at', 'np$', 'np','np', 'np', 'jj-tl', 'nn-tl', 'cs', 'at', 'jj', 'np-tl', 'nn-tl', 'nn', 'in', 'cd', '.']
+accuracy 0.8936170212765957
+=============================
+test data 23
+['as', 'the', "world's", 'top', 'sportsman', '--', 'pro', 'or', 'amateur', '--', 'sports', 'illustrated', 'tapped', "golf's", 'confident', 'arnold', 'palmer', '(', 'time', 'cover', ',', 'may', '2', ')', ',', 'who', 'staged', 'two', 'cliffhanging', 'rallies', 'to', 'win', 'both', 'the', 'masters', 'and', 'u.s.', 'open', 'crowns', ',', 'went', 'on', 'to', 'win', 'a', 'record', '$80,738', 'for', 'the', 'year', '.']
+Prob: 9.892456807811371e-160
+result: ['cs', 'at', 'nn$', 'jjs', 'nn', '--', 'jj', 'cc', 'jj', '--', 'nns', 'vbn', 'vbn', 'nn$', 'jj', 'np', 'np', '(', 'nn', 'nn', ',', 'np', 'cd', ')', ',', 'wps', 'vbd', 'cd', 'vbg', 'nns', 'to', 'vb', 'abx', 'at', 'nns', 'cc', 'np', 'jj', 'nns', ',', 'vbd', 'rp', 'to', 'vb', 'at', 'nn', 'nns', 'in', 'at', 'nn', '.']
+accuracy 0.8627450980392157
+=============================
+test data 24
+['tooling', 'through', 'sydney', 'on', 'his', 'way', 'to', 'race', 'in', 'the', 'new', 'zealand', 'grand', 'prix', ',', "britain's", 'balding', 'ace', 'driver', 'stirling', 'moss', ',', '31', ',', 'all', 'but', 'smothered', 'himself', 'in', 'his', 'own', 'exhaust', 'of', 'self-crimination', '.']
+Prob: 1.601272140750443e-107
+result: ['vbg', 'in', 'np', 'in', 'pp$', 'nn', 'in', 'nn', 'in', 'at', 'jj-tl', 'np-tl', 'fw-jj-tl', 'fw-nn-tl', ',', 'np$', 'jj', 'nn-tl', 'nn-tl', 'np', 'np', ',', 'cd', ',', 'abn', 'cc', 'vbd', 'ppl', 'in', 'pp$', 'jj', 'nn', 'in', 'nn', '.']
+accuracy 0.9142857142857143
+=============================
+test data 25
+['``', "i'm", 'a', 'slob', "''", ',', 'he', 'announced', '.']
+Prob: 5.778917483565889e-19
+result: ['``', 'ppss+bem', 'at', 'nn', "''", ',', 'pps', 'vbd', '.']
+accuracy 1.0
+=============================
+test data 26
+['``', 'my', 'taste', 'is', 'gaudy', '.']
+Prob: 1.8299251789977346e-16
+result: ['``', 'pp$', 'nn', 'bez', 'jj', '.']
+accuracy 1.0
+=============================
+test data 27
+["i'm", 'useless', 'for', 'anything', 'but', 'racing', 'cars', '.']
+Prob: 2.0149033053060778e-25
+result: ['ppss+bem', 'jj', 'in', 'pn', 'cc', 'vbg', 'nns', '.']
+accuracy 0.875
+=============================
+test data 28
+["i'm", 'ruddy', 'lazy', ',', 'and', "i'm", 'getting', 'on', 'in', 'years','.']
+Prob: 5.032979224230904e-28
+result: ['ppss+bem', 'ql', 'jj', ',', 'cc', 'ppss+bem', 'vbg', 'rp', 'in', 'nns', '.']
+accuracy 1.0
+=============================
+test data 29
+['it', 'gets', 'so', 'frustrating', ',', 'but', 'then', 'again', 'i', "don't", 'know', 'what', 'i', 'could', 'do', 'if', 'i', 'gave', 'up', 'racing', "''", '.']
+Prob: 4.292465620104443e-51
+result: ['pps', 'vbz', 'ql', 'jj', ',', 'cc', 'rb', 'rb', 'ppss', 'do*', 'vb', 'wdt', 'ppss', 'md', 'do', 'cs', 'ppss', 'vbd', 'rp', 'vbg', "''", '.']
+accuracy 1.0
+=============================
+test data 30
+['has', 'moss', 'no', 'stirling', 'virtues', '?', '?']
+Prob: 1.5710943459000254e-26
+result: ['hvz', 'np', 'at', 'jj', 'nns', '.', '.']
+accuracy 1.0
+=============================
+test data 31
+['``', 'i', 'appreciate', 'beauty', "''", '.']
+Prob: 6.015092231879098e-14
+result: ['``', 'ppss', 'vb', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 32
+['one', 'of', 'nikita', "khrushchev's", 'most', 'enthusiastic', 'eulogizers', ',', 'the', "u.s.s.r.'s", 'daily', 'izvestia', ',', 'enterprisingly', 'interviewed', 'red-prone', 'comedian', 'charlie', 'chaplin', 'at', 'his', 'swiss', 'villa', ',', 'where', 'he', 'has', 'been', 'in', 'self-exile', 'since', '1952', '.']
+Prob: 2.756286842034542e-106
+result: ['cd', 'in', 'np', 'np$', 'ql', 'jj', 'nns', ',', 'at', 'np$', 'jj-tl', 'np', ',', 'rb', 'vbn', 'jj', 'nn-tl', 'np', 'np', 'in', 'pp$', 'jj', 'nn', ',', 'wrb', 'pps', 'hvz', 'ben', 'in', 'nn', 'in', 'cd', '.']
+accuracy 0.9393939393939394
+=============================
+test data 33
+['chaplin', ',', '71', ',', 'who', 'met', 'k.', 'when', 'the', 'soviet', 'boss', 'visited', 'england', 'in', '1956', ',', 'confided', 'that', 'he', 'hopes', 'to', 'visit', 'russia', 'some', 'time', 'this', 'summer', 'because', '``', 'i', 'have', 'marveled', 'at', 'your', 'grandiose', 'experiment', 'and', 'i', 'believe', 'in', 'your', 'future', "''", '.']
+Prob: 1.29600044373989e-123
+result: ['np', ',', 'cd', ',', 'wps', 'vbd', 'np', 'wrb', 'at', 'nn-tl', 'nn', 'vbd', 'np', 'in', 'cd', ',', 'vbd', 'cs', 'pps', 'vbz', 'to', 'vb', 'np', 'dti', 'nn', 'dt', 'nn', 'cs', '``', 'ppss', 'hv', 'vbn', 'in', 'pp$', 'jj', 'nn', 'cc', 'ppss', 'vb', 'in', 'pp$', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 34
+['then', 'charlie', 'spooned', 'out', 'some', 'quick', 'impressions', 'of','the', 'nikita', 'he', 'had', 'glimpsed', ':', '``', 'i', 'was', 'captivated', 'by', 'his', 'humor', ',', 'frankness', 'and', 'good', 'nature', 'and', 'by', 'his', 'kind', ',', 'strong', 'and', 'somewhat', 'sly', 'face', "''", '.']
+Prob: 1.1524104615536062e-101
+result: ['rb', 'np', 'vbd', 'rp', 'dti', 'jj', 'nns', 'in', 'at', 'np', 'pps', 'hvd', 'vbn', ':', '``', 'ppss', 'bedz', 'vbn', 'in', 'pp$', 'nn', ',', 'nn', 'cc', 'jj', 'nn', 'cc', 'in', 'pp$', 'nn', ',', 'jj', 'cc', 'ql', 'jj', 'nn', "''", '.']
+accuracy 0.9473684210526315
+=============================
+test data 35
+['g.', 'david', 'thompson', 'is', 'one', 'of', 'those', 'names', 'known', 'to', 'the', 'stewards', 'of', 'transatlantic', 'jetliners', 'and', 'to', 'doormen', 'in', "europe's", 'best', 'hotels', ',', 'but', 'he', 'is', 'somewhat', 'of', 'an', 'enigma', 'to', 'most', 'people', 'in', 'his', 'own', 'home', 'town', 'of', 'pittsburgh', '.']
+Prob: 2.458570874237333e-109
+result: ['np', 'np', 'np', 'bez', 'pn', 'in', 'dts', 'nns', 'vbn', 'in', 'at', 'nns', 'in', 'jj', 'nns', 'cc', 'in', 'nns', 'in', 'np$', 'jjt', 'nns', ',', 'cc', 'pps', 'bez', 'ql', 'in', 'at', 'nn', 'in', 'ap', 'nns', 'in', 'pp$', 'jj', 'nn', 'nn', 'in', 'np', '.']
+accuracy 0.9512195121951219
+=============================
+test data 36
+['there', 'the', 'name', 'vaguely', 'connotes', 'new-rich', 'wealth', ',', 'a', 'reputation', 'for', 'eccentricity', ',', 'and', 'an', 'ardor', 'for', 'collecting', 'art', '.']
+Prob: 2.064680237399301e-60
+result: ['rb', 'at', 'nn', 'rb', 'vbz', 'jj', 'nn', ',', 'at', 'nn', 'in', 'nn', ',', 'cc', 'at', 'nn', 'in', 'vbg', 'nn', '.']
+accuracy 1.0
+=============================
+test data 37
+['last', 'week', ',', 'in', 'the', 'german', 'city', 'of', 'dusseldorf', ',', 'g.', 'david', 'thompson', 'was', 'making', 'headlines', 'that', 'could','well', 'give', 'pittsburgh', 'pause', '.']
+Prob: 5.3952609722218845e-65
+result: ['ap', 'nn', ',', 'in', 'at', 'jj', 'nn', 'in', 'np', ',', 'np', 'np', 'np', 'bedz', 'vbg', 'nns', 'wps', 'md', 'rb', 'vb', 'np', 'nn', '.']
+accuracy 0.9565217391304348
+=============================
+test data 38
+['on', 'display', 'were', '343', 'first-class', 'paintings', 'and', 'sculptures', 'from', 'his', 'fabled', 'collection', '--', 'and', 'every', 'single', 'one', 'of', 'them', 'was', 'up', 'for', 'sale', '.']
+Prob: 3.275071134471502e-71
+result: ['in', 'nn', 'bed', 'cd', 'jj', 'nns', 'cc', 'nns', 'in', 'pp$', 'jj', 'nn', '--', 'cc', 'at', 'ap', 'cd', 'in', 'ppo', 'bedz', 'rp', 'in', 'nn', '.']
+accuracy 1.0
+=============================
+test data 39
+['like', "philadelphia's", 'late', 'dr.', 'albert', 'c.', 'barnes', 'who', 'kept', 'his', 'own', 'great', 'collection', 'closed', 'to', 'the', 'general', 'public', '(', 'time', ',', 'jan.', '2', ')', ',', 'thompson', ',', 'at','61', ',', 'is', 'something', 'of', 'a', 'legend', 'in', 'his', 'own', 'lifetime', '.']
+Prob: 2.030351031190108e-110
+result: ['cs', 'np$', 'jj', 'nn-tl', 'np', 'np', 'np', 'wps', 'vbd', 'pp$','jj', 'jj', 'nn', 'vbn', 'in', 'at', 'jj', 'nn', '(', 'nn', ',', 'np', 'cd', ')', ',', 'np', ',', 'in', 'cd', ',', 'bez', 'pn', 'in', 'at', 'nn', 'in','pp$', 'jj', 'nn', '.']
+accuracy 0.975
+=============================
+test data 40
+['he', 'made', 'his', 'fortune', 'during', 'world', 'war', '2', ',', 'when', 'he', 'took', 'over', 'a', 'number', 'of', 'dying', 'steel', 'plants', 'and', 'kept', 'them', 'alive', 'until', 'the', 'boom', '.']
+Prob: 8.02789728600713e-70
+result: ['pps', 'vbd', 'pp$', 'nn', 'in', 'nn-tl', 'nn-tl', 'cd-tl', ',', 'wrb', 'pps', 'vbd', 'rp', 'at', 'nn', 'in', 'vbg', 'nn', 'nns', 'cc', 'vbd','ppo', 'jj', 'cs', 'at', 'nn', '.']
+accuracy 0.9629629629629629
+=============================
+test data 41
+['even', 'before', 'he', 'hit', 'big', 'money', ',', 'he', 'had', 'begun', 'buying', 'modern', 'paintings', '.']
+Prob: 1.1350317224745896e-38
+result: ['rb', 'cs', 'pps', 'vbd', 'jj', 'nn', ',', 'pps', 'hvd', 'vbn', 'vbg', 'jj', 'nns', '.']
+accuracy 1.0
+=============================
+test data 42
+['he', 'gave', 'the', 'impression', 'of', 'never', 'having', 'read', 'a', 'word', 'about', 'art', ',', 'but', 'there', 'was', 'no', 'doubt', 'that', 'he', 'had', 'an', 'eye', 'for', 'the', 'best', '.']
+Prob: 3.8790585510905077e-60
+result: ['pps', 'vbd', 'at', 'nn', 'in', 'rb', 'hvg', 'vbn', 'at', 'nn', 'in', 'nn', ',', 'cc', 'ex', 'bedz', 'at', 'nn', 'cs', 'pps', 'hvd', 'at', 'nn', 'in', 'at', 'jjt', '.']
+accuracy 1.0
+=============================
+test data 43
+['he', 'was', 'able', 'to', 'smell', 'a', 'bargain', '--', 'and', 'a', 'masterpiece', '--', 'a', 'continent', 'away', ',', 'and', 'the', 'museum', 'of', 'modern', "art's", 'alfred', 'barr', 'said', 'of', 'him', ':', '``', 'i', 'have', 'never', 'mentioned', 'a', 'new', 'artist', 'that', 'thompson', "didn't", 'know', 'about', "''", '.']
+Prob: 1.5792638437633272e-106
+result: ['pps', 'bedz', 'jj', 'to', 'vb', 'at', 'nn', '--', 'cc', 'at', 'nn', '--', 'at', 'nn', 'rb', ',', 'cc', 'at', 'nn-tl', 'in-tl', 'jj-tl', 'nn$-tl', 'np', 'np', 'vbd', 'in', 'ppo', ':', '``', 'ppss', 'hv', 'rb', 'vbn', 'at', 'jj', 'nn', 'cs', 'np', 'dod*', 'vb', 'rb', "''", '.']
+accuracy 0.9534883720930233
+=============================
+test data 44
+['he', 'might', 'barge', 'into', 'a', 'gallery', ',', 'start', 'haggling', 'over', 'prices', 'without', 'so', 'much', 'as', 'a', 'word', 'of', 'greeting', '.']
+Prob: 1.3202266776688518e-55
+result: ['pps', 'md', 'vb', 'in', 'at', 'nn', ',', 'vb', 'vbg', 'in', 'nns', 'in', 'ql', 'ap', 'cs', 'at', 'nn', 'in', 'nn', '.']
+accuracy 0.95
+=============================
+test data 45
+['he', 'could', 'be', 'lavishly', 'generous', 'with', 'friends', ',', 'cab', 'drivers', 'and', 'bellboys', ',', 'but', 'with', 'dealers', 'he', 'was', 'tough', '.']
+Prob: 4.855940644635319e-55
+result: ['pps', 'md', 'be', 'ql', 'jj', 'in', 'nns', ',', 'nn', 'nns', 'cc', 'nns', ',', 'cc', 'in', 'nns', 'pps', 'bedz', 'jj', '.']
+accuracy 1.0
+=============================
+test data 46
+['he', 'bought', 'up', 'cezannes', ',', 'braques', ',', 'matisses', ',', 'legers', ',', 'a', 'splendid', 'picasso', 'series', ',', 'more', 'than', '70', 'giacometti', 'sculptures', '.']
+Prob: 4.194396459298047e-73
+result: ['pps', 'vbd', 'rp', 'nps', ',', 'nps', ',', 'nps', ',', 'nps', ',', 'at', 'jj', 'np', 'nn', ',', 'ap', 'in', 'cd', 'np', 'nns', '.']
+accuracy 1.0
+=============================
+test data 47
+['he', 'gathered', 'one', 'of', 'the', 'biggest', 'collections', 'of', 'paul', 'klees', 'in', 'the', 'world', '.']
+Prob: 1.9308375471764137e-34
+result: ['pps', 'vbd', 'cd', 'in', 'at', 'jjt', 'nns', 'in', 'np', 'nps', 'in', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 48
+['all', 'these', 'he', 'hung', 'in', 'his', 'burglarproof', 'home', 'called', "stone's", 'throw', ',', 'outside', 'pittsburgh', ',', 'and', 'only', 'people', 'he', 'liked', 'and', 'trusted', 'ever', 'got', 'to', 'see', 'them', '.']
+Prob: 1.3614676541659505e-76
+result: ['abn', 'dts', 'pps', 'vbd', 'in', 'pp$', 'jj', 'nn', 'vbd', 'np$','nn-tl', ',', 'in', 'np', ',', 'cc', 'ap', 'nns', 'pps', 'vbd', 'cc', 'vbn', 'rb', 'vbd', 'to', 'vb', 'ppo', '.']
+accuracy 0.9285714285714286
+=============================
+test data 49
+['two', 'years', 'ago', 'thompson', 'offered', 'his', 'collection', 'to', 'the', 'city', '.']
+Prob: 3.7790686360173075e-30
+result: ['cd', 'nns', 'rb', 'np', 'vbd', 'pp$', 'nn', 'in', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 50
+['but', 'he', 'insisted', 'that', 'it', 'be', 'housed', 'in', 'a', 'special', 'museum', '.']
+Prob: 1.6118557959707877e-27
+result: ['cc', 'pps', 'vbd', 'cs', 'pps', 'be', 'vbn', 'in', 'at', 'jj', 'nn', '.']
+accuracy 1.0
+=============================
+test data 51
+['pittsburgh', 'turned', 'him', 'down', ',', 'just', 'as', 'pittsburgh', 'society', 'had', 'been', 'snubbing', 'him', 'for', 'years', '.']
+Prob: 1.5506395641031407e-41
+result: ['np', 'vbd', 'ppo', 'rp', ',', 'rb', 'cs', 'np-tl', 'nn-tl', 'hvd', 'ben', 'vbg', 'ppo', 'in', 'nns', '.']
+accuracy 0.875
+=============================
+test data 52
+['he', 'went', 'then', 'to', 'a', '40-year-old', 'basel', 'art', 'dealer', 'named', 'ernst', 'beyeler', ',', 'with', 'whom', 'he', 'had', 'long', 'been', 'trading', 'pictures', '.']
+Prob: 2.548944477896432e-66
+result: ['pps', 'vbd', 'rb', 'in', 'at', 'jj', 'np', 'nn', 'nn', 'vbn', 'np', 'np', ',', 'in', 'wpo', 'pps', 'hvd', 'rb', 'ben', 'vbg', 'nns', '.']
+accuracy 1.0
+=============================
+test data 53
+['last', 'year', 'beyeler', 'arranged', 'to', 'sell', '$1,500,000', 'worth', 'of', 'klees', 'to', 'the', 'state', 'of', 'north', 'rhine-westphalia', ',', 'which', 'will', 'house', 'them', 'in', 'a', 'museum', 'that', 'is', 'yet', 'to', 'be', 'built', '.']
+Prob: 1.4284815269404857e-82
+result: ['ap', 'nn', 'np', 'vbd', 'to', 'vb', 'nns', 'jj', 'in', 'nps', 'in', 'at', 'nn-tl', 'in-tl', 'jj-tl', 'np-tl', ',', 'wdt', 'md', 'vb', 'ppo', 'in', 'at', 'nn', 'wps', 'bez', 'rb', 'to', 'be', 'vbn', '.']
+accuracy 0.9354838709677419
+=============================
+test data 54
+['last', 'week', 'most', 'of', 'the', 'other', 'prizes', ',', 'once', 'offered', 'to', 'pittsburgh', ',', 'went', 'on', 'the', 'block', '.']
+Prob: 3.9759606332697354e-45
+result: ['ap', 'nn', 'ap', 'in', 'at', 'ap', 'nns', ',', 'rb', 'vbn', 'in','np', ',', 'vbd', 'in', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 55
+['at', 'the', 'opening', 'of', 'the', 'dusseldorf', 'show', ',', 'thompson', 'himself', 'scarcely', 'glanced', 'at', 'the', 'treasures', 'that', 'he', 'was', 'seeing', 'together', 'for', 'the', 'last', 'time', '.']
+Prob: 1.537321781307589e-63
+result: ['in', 'at', 'nn', 'in', 'at', 'np', 'nn', ',', 'np', 'ppl', 'rb', 'vbd', 'in', 'at', 'nns', 'cs', 'pps', 'bedz', 'vbg', 'rb', 'in', 'at', 'ap', 'nn', '.']
+accuracy 1.0
+=============================
+test data 56
+['in', 'fact', 'he', 'seemed', 'delighted', 'to', 'get', 'rid', 'of', 'them', '.']
+Prob: 7.238613122036303e-30
+result: ['in', 'nn', 'pps', 'vbd', 'vbn', 'to', 'vb', 'jj', 'in', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 57
+['some', 'observers', 'speculated', 'that', 'this', 'might', 'be', 'his', 'revenge', 'on', 'his', 'home', 'town', '.']
+Prob: 7.047337851858522e-38
+result: ['dti', 'nns', 'vbd', 'cs', 'dt', 'md', 'be', 'pp$', 'nn', 'in', 'pp$', 'nr', 'nn', '.']
+accuracy 0.8571428571428571
+=============================
+test data 58
+['thompson', 'himself', 'said', ':', '``', 'i', 'want', 'to', 'enjoy', 'once', 'more', 'the', 'pleasure', 'of', 'bare', 'walls', 'waiting', 'for', 'new', 'pictures', "''", '.']
+Prob: 1.0742335902386074e-58
+result: ['np', 'ppl', 'vbd', ':', '``', 'ppss', 'vb', 'to', 'vb', 'rb', 'rbr', 'at', 'nn', 'in', 'jj', 'nns', 'vbg', 'in', 'jj', 'nns', "''", '.']
+accuracy 1.0
+=============================
+test data 59
+['break', 'in', 'georgia']
+Prob: 8.135786988347652e-10
+result: ['nn-hl', 'in-hl', 'np-hl']
+accuracy 1.0
+=============================
+test data 60
+['the', 'university', 'of', 'georgia', 'has', 'long', 'claimed', 'that', 'it', 'does', 'not', 'discriminate', 'against', 'any', 'applicant', 'on', 'the', 'basis', 'of', 'race', 'or', 'color', '.']
+Prob: 7.481494565059435e-58
+result: ['at', 'nn-tl', 'in-tl', 'np-tl', 'hvz', 'rb', 'vbd', 'cs', 'pps', 'doz', '*', 'vb', 'in', 'dti', 'nn', 'in', 'at', 'nn', 'in', 'nn', 'cc', 'nn', '.']
+accuracy 0.9565217391304348
+=============================
+test data 61
+['but', 'in', 'all', 'its', '175', 'years', ',', 'not', 'a', 'single', 'negro', 'student', 'has', 'entered', 'its', 'classrooms', '.']
+Prob: 6.395809954112204e-49
+result: ['cc', 'in', 'abn', 'pp$', 'cd', 'nns', ',', '*', 'at', 'ap', 'np','nn', 'hvz', 'vbn', 'pp$', 'nns', '.']
+accuracy 1.0
+=============================
+test data 62
+['last', 'week', 'federal', 'district', 'judge', 'william', 'a.', 'bootle','ordered', 'the', 'university', 'to', 'admit', 'immediately', 'a', '``', 'qualified', "''", 'negro', 'boy', 'and', 'girl', '.']
+Prob: 1.7339120958782936e-72
+result: ['ap', 'nn', 'jj-tl', 'nn-tl', 'nn-tl', 'np', 'np', 'np', 'vbd', 'at', 'nn', 'to', 'vb', 'rb', 'at', '``', 'vbn', "''", 'np', 'nn', 'cc', 'nn','.']
+accuracy 1.0
+=============================
+test data 63
+['their', 'entry', 'will', 'crack', 'the', 'total', 'segregation', 'of', 'all', 'public', 'education', ',', 'from', 'kindergarten', 'through', 'graduate', 'school', ',', 'in', 'georgia', '--', 'and', 'in', 'alabama', ',', 'mississippi', 'and', 'south', 'carolina', 'as', 'well', '.']
+Prob: 1.0588401273406785e-88
+result: ['pp$', 'nn', 'md', 'vb', 'at', 'jj', 'nn', 'in', 'abn', 'jj', 'nn', ',', 'in', 'nn', 'in', 'jj', 'nn', ',', 'in', 'np', '--', 'cc', 'in', 'np', ',', 'np', 'cc', 'jj-tl', 'np-tl', 'ql', 'rb', '.']
+accuracy 0.9375
+=============================
+test data 64
+['for', '18', 'months', ',', 'hamilton', 'holmes', ',', '19', ',', 'and', 'charlayne', 'hunter', ',', '18', ',', 'had', 'tried', 'to', 'get', 'into', 'the', 'university', '.']
+Prob: 2.2171875991897847e-55
+result: ['in', 'cd', 'nns', ',', 'np', 'np', ',', 'cd', ',', 'cc', 'np', 'np', ',', 'cd', ',', 'hvd', 'vbn', 'to', 'vb', 'in', 'at', 'nn-tl', '.']
+accuracy 0.9565217391304348
+=============================
+test data 65
+['they', 'graduated', 'together', 'from', "atlanta's", 'turner', 'high', 'school', ',', 'where', 'valedictorian', 'holmes', 'was', 'first', 'in', 'the', 'class', 'and', 'charlayne', 'third', '.']
+Prob: 1.6187771491467238e-62
+result: ['ppss', 'vbd', 'rb', 'in', 'np$', 'np-tl', 'jj-tl', 'nn-tl', ',', 'wrb', 'nn-tl', 'np', 'bedz', 'rb', 'in', 'at', 'nn', 'cc', 'np', 'od', '.']
+accuracy 0.9523809523809523
+=============================
+test data 66
+['the', 'university', 'rejected', 'them', 'on', 'a', 'variety', 'of', 'pretexts', ',', 'but', 'was', 'careful', 'never', 'to', 'mention', 'the', 'color', 'of', 'their', 'skins', '.']
+Prob: 1.0311273397405035e-55
+result: ['at', 'nn-tl', 'vbd', 'ppo', 'in', 'at', 'nn', 'in', 'nns', ',', 'cc', 'bedz', 'jj', 'rb', 'to', 'vb', 'at', 'nn', 'in', 'pp$', 'nns', '.']
+accuracy 0.9545454545454546
+=============================
+test data 67
+['holmes', 'went', 'to', "atlanta's", 'morehouse', '(', 'negro', ')', 'college', ',', 'where', 'he', 'is', 'a', 'b', 'student', 'and', 'star', 'halfback', '.']
+Prob: 6.1412710902629096e-58
+result: ['np', 'vbd', 'in', 'np$', 'np', '(', 'np', ')', 'nn-tl', ',', 'wrb', 'pps', 'bez', 'at', 'nn', 'nn', 'cc', 'nn', 'nn', '.']
+accuracy 0.95
+=============================
+test data 68
+['charlayne', 'studied', 'journalism', 'at', "detroit's", 'wayne', 'state','university', '.']
+Prob: 6.527863680511705e-32
+result: ['np', 'vbd', 'nn', 'in', 'np$', 'np-tl', 'nn-tl', 'nn-tl', '.']
+accuracy 1.0
+=============================
+test data 69
+['last', 'fall', ',', 'after', 'they', 'took', 'their', 'hopes', 'for', 'entering', 'georgia', 'to', 'court', ',', 'judge', 'bootle', 'ordered', 'them', 'to', 'apply', 'again', '.']
+Prob: 5.2431345983489886e-64
+result: ['ap', 'nn', ',', 'cs', 'ppss', 'vbd', 'pp$', 'nns', 'in', 'vbg', 'np', 'in', 'nn-tl', ',', 'nn-tl', 'np', 'vbd', 'ppo', 'to', 'vb', 'rb', '.']
+accuracy 0.9545454545454546
+=============================
+test data 70
+['charlayne', 'was', '``', 'tentatively', "''", 'admitted', 'for', 'next', 'fall', ',', 'after', 'state', 'investigators', 'questioned', 'her', 'white', 'roommate', 'at', 'wayne', 'state', '.']
+Prob: 3.9097047867606853e-67
+result: ['np', 'bedz', '``', 'rb', "''", 'vbd', 'in', 'ap', 'nn', ',', 'in', 'nn', 'nns', 'vbd', 'pp$', 'jj', 'nn', 'in', 'np-tl', 'nn-tl', '.']
+accuracy 0.9047619047619048
+=============================
+test data 71
+['but', 'holmes', 'was', 'rejected', 'again', '``', 'on', 'the', 'basis', 'of', 'his', 'record', 'and', 'interview', "''", '.']
+Prob: 7.530751830439971e-39
+result: ['cc', 'np', 'bedz', 'vbn', 'rb', '``', 'in', 'at', 'nn', 'in', 'pp$', 'nn', 'cc', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 72
+['the', 'evidence', 'in', 'court', 'was', 'testimony', 'about', 'the', 'interview', ',', 'which', 'for', 'holmes', 'lasted', 'an', 'hour', ',', 'although', 'at', 'least', 'one', 'white', 'student', 'at', 'georgia', 'got', 'through', 'this', 'ritual', 'by', 'a', 'simple', 'phone', 'conversation', '.']
+Prob: 7.841199468748828e-99
+result: ['at', 'nn', 'in', 'nn', 'bedz', 'nn', 'in', 'at', 'nn', ',', 'wdt', 'in', 'np', 'vbd', 'at', 'nn', ',', 'cs', 'in', 'ap', 'cd', 'jj', 'nn', 'in', 'np', 'vbd', 'in', 'dt', 'nn', 'in', 'at', 'jj', 'nn', 'nn', '.']
+accuracy 0.9428571428571428
+=============================
+test data 73
+['holmes', 'was', 'asked', 'if', 'he', 'had', 'ever', 'visited', 'a', 'house', 'of', 'prostitution', ',', 'or', 'a', '``', 'beatnik', 'parlor', 'or', 'teahouse', "''", '.']
+Prob: 9.387846226016045e-59
+result: ['np', 'bedz', 'vbn', 'cs', 'pps', 'hvd', 'rb', 'vbd', 'at', 'nn', 'in', 'nn', ',', 'cc', 'at', '``', 'nn', 'nn', 'cc', 'nn', "''", '.']
+accuracy 0.9545454545454546
+=============================
+test data 74
+['no', ',', 'said', 'he', ',', 'but', 'officials', 'still', 'called', 'him', '``', 'evasive', "''", '.']
+Prob: 1.317868528743111e-36
+result: ['rb', ',', 'vbd', 'pps', ',', 'cc', 'nns', 'rb', 'vbd', 'ppo', '``', 'jj', "''", '.']
+accuracy 0.9285714285714286
+=============================
+test data 75
+['they', 'also', 'said', 'he', 'lied', 'in', 'saying', 'that', 'he', 'had','never', 'been', '``', 'arrested', "''", '.']
+Prob: 1.1030797221396628e-38
+result: ['ppss', 'rb', 'vbd', 'pps', 'vbd', 'in', 'vbg', 'cs', 'pps', 'hvd', 'rb', 'ben', '``', 'vbn', "''", '.']
+accuracy 1.0
+=============================
+test data 76
+['their', 'reason', ':', 'holmes', 'once', 'paid', 'a', '$20', 'speeding', 'fine', ',', 'had', 'his', 'license', 'suspended', '.']
+Prob: 5.572825473252711e-52
+result: ['pp$', 'nn', ':', 'np', 'rb', 'vbn', 'at', 'nns', 'vbg', 'jj', ',', 'hvd', 'pp$', 'nn', 'vbn', '.']
+accuracy 0.875
+=============================
+test data 77
+['negro', 'lawyers', 'dug', 'into', 'the', 'records', 'of', '300', 'white','students', ',', 'found', 'that', 'many', 'were', 'hardly', 'interviewed', 'at', 'all', '--', 'and', 'few', 'had', 'academic', 'records', 'as', 'good','as', 'hamilton', 'holmes', '.']
+Prob: 3.369192084595948e-91
+result: ['np', 'nns', 'vbn', 'in', 'at', 'nns', 'in', 'cd', 'jj', 'nns', ',', 'vbd', 'cs', 'ap', 'bed', 'rb', 'vbn', 'in', 'abn', '--', 'cc', 'ap', 'hvd', 'jj', 'nns', 'ql', 'jj', 'cs', 'np', 'np', '.']
+accuracy 0.967741935483871
+=============================
+test data 78
+['the', 'real', 'reason', 'for', 'his', 'rejection', ',', 'they', 'argued',',', 'is', 'the', 'fact', 'that', 'georgia', 'law', 'automatically', 'cuts', 'off', 'funds', 'for', 'any', 'desegregated', 'school', '.']
+Prob: 1.6562467639106893e-70
+result: ['at', 'jj', 'nn', 'in', 'pp$', 'nn', ',', 'ppss', 'vbd', ',', 'bez', 'at', 'nn', 'cs', 'np', 'nn', 'rb', 'vbz', 'rp', 'nns', 'in', 'dti', 'vbn', 'nn', '.']
+accuracy 1.0
+=============================
+test data 79
+['judge', "bootle's", 'decision', ':', '``', 'the', 'two', 'plaintiffs', 'are', 'qualified', 'for', 'admission', 'to', 'said', 'university', 'and', 'would', 'already', 'have', 'been', 'admitted', 'had', 'it', 'not', 'been', 'for', 'their', 'race', 'and', 'color', "''", '.']
+Prob: 1.5840718206117389e-87
+result: ['nn-tl', 'np$', 'nn', ':', '``', 'at', 'cd', 'nns', 'ber', 'vbn', 'in', 'nn', 'in', 'vbn', 'nn', 'cc', 'md', 'rb', 'hv', 'ben', 'vbn', 'hvd', 'pps', '*', 'ben', 'in', 'pp$', 'nn', 'cc', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 80
+['the', 'state', 'will', 'appeal', '--', 'but', 'few', 'think', 'it', 'will', 'actually', 'try', 'to', 'close', 'the', 'university', '.']
+Prob: 6.763716183048078e-44
+result: ['at', 'nn', 'md', 'vb', '--', 'cc', 'ap', 'vb', 'ppo', 'md', 'rb','vb', 'to', 'vb', 'at', 'nn-tl', '.']
+accuracy 0.9411764705882353
+=============================
+test data 81
+['``', 'surprised', 'and', 'pleased', "''", ',', 'students', 'holmes', 'and', 'hunter', 'may', 'enter', 'the', 'university', 'of', 'georgia', 'this', 'week', '.']
+Prob: 7.7206133773966005e-53
+result: ['``', 'vbn', 'cc', 'vbn', "''", ',', 'nns', 'np', 'cc', 'np', 'md', 'vb', 'at', 'nn-tl', 'in-tl', 'np-tl', 'dt', 'nn', '.']
+accuracy 1.0
+=============================
+test data 82
+['catch', 'for', 'chicago']
+Prob: 1.1518403288813754e-09
+result: ['nn-hl', 'in-hl', 'np-hl']
+accuracy 1.0
+=============================
+test data 83
+['when', 'the', 'university', 'of', "chicago's", 'chancellor', 'lawrence', 'a.', 'kimpton', 'submitted', 'his', 'resignation', 'last', 'march', ',', 'a', 'mighty', 'talent', 'hunt', 'gripped', 'the', 'midway', '.']
+Prob: 6.090424138639111e-75
+result: ['wrb', 'at', 'nn-tl', 'in-tl', 'np$-tl', 'nn-tl', 'np', 'np', 'np', 'vbd', 'pp$', 'nn', 'ap', 'np', ',', 'at', 'jj', 'nn', 'nn', 'vbd', 'at', 'np', '.']
+accuracy 1.0
+=============================
+test data 84
+['out', 'went', 'letters', 'to', '60,000', 'old', 'grads', ',', 'asking', 'for', 'suggestions', '.']
+Prob: 1.3089693010398598e-40
+result: ['rp', 'vbd', 'nns', 'in', 'cd', 'jj', 'nns', ',', 'vbg', 'in', 'nns', '.']
+accuracy 1.0
+=============================
+test data 85
+['such', 'academic', 'statesmen', 'as', 'james', 'b.', 'conant', 'were', 'consulted', '.']
+Prob: 4.485498668269317e-34
+result: ['jj', 'jj', 'nns', 'cs', 'np', 'np', 'np', 'bed', 'vbn', '.']
+accuracy 1.0
+=============================
+test data 86
+['two', 'committees', 'pondered', '375', 'possible', 'kimpton', 'successors', ',', 'including', 'adlai', 'stevenson', ',', 'richard', 'nixon', ',', 'and', "harvard's", 'dean', 'mcgeorge', 'bundy', '.']
+Prob: 1.0658567283935704e-76
+result: ['cd', 'nns', 'vbd', 'cd', 'jj', 'np', 'nns', ',', 'in', 'np', 'np', ',', 'np', 'np', ',', 'cc', 'np$', 'nn-tl', 'np', 'np', '.']
+accuracy 1.0
+=============================
+test data 87
+['the', 'debate', 'led', 'to', 'a', 'decision', 'that', 'chicago', 'needed', 'neither', 'a', 'big', 'name', 'nor', 'an', 'experienced', 'academic', 'administrator', ',', 'but', 'rather', ',', 'as', 'trustee', 'chairman', 'glen', 'a.', 'lloyd', 'put', 'it', ',', '``', 'a', 'top', 'scholar', 'in', 'his','own', 'right', "''", '--', 'a', 'bright', 'light', 'to', 'lure', 'other', 'top', 'scholars', 'to', 'chicago', '.']
+Prob: 1.1109866666538584e-149
+result: ['at', 'nn', 'vbd', 'in', 'at', 'nn', 'cs', 'np', 'vbd', 'cc', 'at', 'jj', 'nn', 'cc', 'at', 'vbn', 'jj', 'nn', ',', 'cc', 'rb', ',', 'cs', 'nn-tl', 'nn-tl', 'np', 'np', 'np', 'vbd', 'ppo', ',', '``', 'at', 'jjs', 'nn','in', 'pp$', 'jj', 'nn', "''", '--', 'at', 'jj', 'nn', 'to', 'vb', 'ap', 'jjs', 'nns', 'in', 'np', '.']
+accuracy 1.0
+=============================
+test data 88
+['last', 'week', 'chicago', 'happily', 'found', 'its', 'top', 'scholar', 'in', "caltech's", 'acting', 'dean', 'of', 'the', 'faculty', ':', 'dynamic', 'geneticist', 'george', 'wells', 'beadle', ',', '57', ',', 'who', 'shared', 'the', '1958', 'nobel', 'prize', 'in', 'medicine', 'and', 'physiology', 'for', 'discovering', 'how', 'genes', 'affect', 'heredity', 'by', 'controlling', 'cell', 'chemistry', '(', 'time', ',', 'cover', ',', 'july', '14', ',', '1958', ')', '.']
+Prob: 1.9177953861374563e-185
+result: ['ap', 'nn', 'np', 'rb', 'vbd', 'pp$', 'jjs', 'nn', 'in', 'np$', 'vbg', 'nn', 'in', 'at', 'nn', ':', 'jj', 'nn-tl', 'np', 'np', 'np', ',', 'cd', ',', 'wps', 'vbd', 'at', 'cd', 'np-tl', 'nn-tl', 'in', 'nn', 'cc', 'nn', 'in', 'vbg', 'wrb', 'nns', 'vb', 'nn', 'in', 'vbg', 'nn', 'nn', '(', 'nn', ',', 'nn', ',', 'np', 'cd', ',', 'cd', ')', '.']
+accuracy 0.9636363636363636
+=============================
+test data 89
+['it', 'fell', 'to', 'chancellor', 'kimpton', ',', 'now', 'a', 'standard', 'oil', '(', 'indiana', ')', 'executive', ',', 'to', 'spend', 'his', 'nine-year', 'reign', 'tidying', 'up', 'chicago', 'after', 'the', '21-year', 'typhoon', 'of', 'idealist', 'robert', 'maynard', 'hutchins', '.']
+Prob: 1.6770929595808317e-105
+result: ['pps', 'vbd', 'in', 'nn-tl', 'np', ',', 'rb', 'at', 'jj', 'nn', '(', 'np', ')', 'nn', ',', 'to', 'vb', 'pp$', 'jj', 'nn', 'vbg', 'rp', 'np', 'in', 'at', 'jj', 'nn', 'in', 'nn-tl', 'np', 'np', 'np', '.']
+accuracy 0.9393939393939394
+=============================
+test data 90
+['he', 'threw', 'out', 'some', 'of', "hutchins'", 'more', 'wildly', 'experimental', 'courses', ',', 'raised', 'sagging', 'undergraduate', 'enrollment','to', '2,100', ',', 'nearly', 'doubled', 'endowment', 'to', '$139.3', 'million', '.']
+Prob: 5.137333247966432e-84
+result: ['pps', 'vbd', 'rp', 'dti', 'in', 'np$', 'ql', 'ql', 'jj', 'nns', ',', 'vbd', 'vbg', 'jj', 'nn', 'in', 'cd', ',', 'rb', 'vbn', 'nn', 'in', 'nns', 'cd', '.']
+accuracy 0.92
+=============================
+test data 91
+['but', 'though', 'kimpton', 'put', 'chicago', 'in', 'what', 'he', 'felt', 'was', 'working', 'order', ',', 'some', 'old', 'grads', 'feel', 'that', 'it', 'still', 'needs', 'the', 'kind', 'of', 'lively', 'teachers', 'who', 'filled', 'it', 'in', 'the', 'heady', 'hutchins', 'era', '.']
+Prob: 1.7582367265493305e-99
+result: ['cc', 'cs', 'np', 'vbd', 'np', 'in', 'wdt', 'pps', 'vbd', 'bedz', 'vbg', 'nn', ',', 'dti', 'jj', 'nns', 'vb', 'cs', 'pps', 'rb', 'vbz', 'at', 'nn', 'in', 'jj', 'nns', 'wps', 'vbd', 'ppo', 'in', 'at', 'jj', 'np', 'nn', '.']
+accuracy 0.9714285714285714
+=============================
+test data 92
+['at', 'caltech', ',', 'geneticist', 'beadle', 'has', 'stuck', 'close', 'to', 'his', 'research', 'as', 'head', 'of', 'the', "school's", 'famous', 'biology', 'division', 'since', '1946', '.']
+Prob: 5.341775769345864e-69
+result: ['in', 'np', ',', 'nn-tl', 'np', 'hvz', 'vbn', 'rb', 'in', 'pp$', 'nn', 'cs', 'nn', 'in', 'at', 'nn$', 'jj', 'nn', 'nn', 'in', 'cd', '.']
+accuracy 1.0
+=============================
+test data 93
+['but', 'he', 'has', 'shown', 'a', 'sixth-sense', 'ability', 'to', 'spot', ',', 'recruit', 'and', 'excite', 'able', 'researchers', ',', 'and', 'has', 'developed', 'unexpected', 'talents', 'in', 'fund', 'raising', 'and', 'speech-making', '.']
+Prob: 6.016684340465816e-82
+result: ['cc', 'pps', 'hvz', 'vbn', 'at', 'nn', 'nn', 'in', 'nn', ',', 'nn', 'cc', 'vb', 'jj', 'nns', ',', 'cc', 'hvz', 'vbn', 'jj', 'nns', 'in', 'nn','nn', 'cc', 'nn', '.']
+accuracy 0.8888888888888888
+=============================
+test data 94
+['beadle', 'is', 'even', 'that', 'rare', 'scientist', 'who', 'takes', 'an','interest', 'in', 'money', 'matters', ';', ';']
+Prob: 8.548601314407338e-43
+result: ['np', 'bez', 'rb', 'cs', 'jj', 'nn', 'wps', 'vbz', 'at', 'nn', 'in', 'nn', 'nns', '.', '.']
+accuracy 0.9333333333333333
+=============================
+test data 95
+['he', 'avidly', 'reads', 'the', 'wall', 'street', 'journal', ',', 'and', 'took', 'delight', 'in', 'driving', 'a', '$250', 'model', 'a', 'ford', 'for','22', 'years', ',', 'then', 'selling', 'it', 'for', '$300', '.']
+Prob: 1.3936580215600065e-82
+result: ['pps', 'rb', 'vbz', 'at', 'nn-tl', 'nn-tl', 'nn-tl', ',', 'cc', 'vbd', 'nn', 'in', 'vbg', 'at', 'nns', 'vb', 'at', 'np', 'in', 'cd', 'nns', ',', 'rb', 'vbg', 'ppo', 'in', 'nns', '.']
+accuracy 0.9642857142857143
+=============================
+Total test time: 309.7413399219513 s
+Total accuracy: 0.9658119658119658
+Total null: 0

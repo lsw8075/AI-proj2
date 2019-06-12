@@ -3,6 +3,7 @@ import os
 import time
 import random
 
+# How much POS tag is matching
 def calc_match(data1, data2):
     count = 0
     for (item1, item2) in zip(data1, data2):
@@ -10,6 +11,7 @@ def calc_match(data1, data2):
             count += 1
     return count
 
+# split the pre-tagged data
 def mysplit(s):
     x = s.split('/')
     return (x[1].lower(), x[0].lower())
@@ -47,6 +49,7 @@ def fine_split(sl):
 
     return res
 
+# do training
 def op_train(filelist):
     print("Train file list:", filelist)
     datas = []
@@ -69,9 +72,12 @@ def op_train(filelist):
     endtime = time.time()
     print("Training finished:", endtime - starttime, "s elapsed")
 
-    model.dump('trained2')
+    # dump trained model
+    model.dump('trained')
 
+# do analysis or model
 def op_count():
+    # load model
     model = hmm.Model()
     model.load('trained')
 
@@ -85,10 +91,12 @@ def op_count():
     print(model._trans_prob)
     print(model._emit_prob)
 
+# do test
 def op_test(filelist):
     print("Test file list:", filelist)
     print(len(filelist), "files total")
 
+    # load model
     model = hmm.Model()
     model.load('trained')
 
@@ -112,6 +120,8 @@ def op_test(filelist):
     testtime = 0
     total_match = 0
     total_datanum = 0
+    total_null = 0
+    print("Test data count:", len(datas))
     for i, (data, answer) in enumerate(zip(datas, answers)): 
         print("test data", i)
         print(data)
@@ -124,12 +134,16 @@ def op_test(filelist):
         print("result:", result)
         match = calc_match(result, answer)
         datanum = len(data)
-        total_match += match
-        total_datanum += datanum
-        print("accuracy", match / datanum)
+        if len(result) == 0:
+            total_null += 1
+        else:
+            total_match += match
+            total_datanum += datanum
+            print("accuracy", match / datanum)
         print("=============================")
     print("Total test time:", testtime, "s")
-    print("Total accuracy", total_match / total_datanum)
+    print("Total accuracy:", total_match / total_datanum)
+    print("Total null:", total_null)
 
 def main():
     print("[select operation]")
@@ -150,7 +164,8 @@ def main():
     train_list = []
     test_list = []
     
-    train_count = 100
+    # max 500 files in brown
+    train_count = 0
     test_count = 1
 
     for _ in range(train_count):

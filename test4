@@ -1,0 +1,570 @@
+Test data count: 107
+test data 0
+['in', 'the', 'same', 'period', ',', '431', 'presentations', 'by', 'members', 'of', 'the', 'staff', 'were', 'made', 'to', 'local', ',', 'national', ',', 'and', 'international', 'medical', 'groups', '.']
+Prob: 0.0
+result: []
+=============================
+test data 1
+['3', '.']
+Prob: 0.00012964300907476303
+result: ['cd-hl', '.-hl']
+accuracy 0.0
+=============================
+test data 2
+['education', ':']
+Prob: 7.924696011683821e-08
+result: ['nn', ':']
+accuracy 1.0
+=============================
+test data 3
+['a', '.']
+Prob: 5.790236548949212e-06
+result: ['np', '.']
+accuracy 0.0
+=============================
+test data 4
+['the', 'education', 'function', 'of', 'the', 'institute', 'is', 'carried','on', 'by', 'the', 'staff', 'in', 'the', 'departments', 'of', 'pathology', 'and', 'its', 'consultants', '.']
+Prob: 0.0
+result: []
+=============================
+test data 5
+['during', 'fiscal', 'year', '1959', ',', 'six', 'courses', 'were', 'conducted', ':', 'forensic', 'pathology', ',', 'application', 'of', 'histochemistry', 'to', 'pathology', ',', 'pathology', 'of', 'diseases', 'of', 'laboratory', 'animals', ',', 'ophthalmic', 'pathology', ',', 'pathology', 'of', 'the','oral', 'regions', ',', 'and', 'a', 'cardiovasculatory', 'pathology', 'seminar', '.']
+Prob: 0.0
+result: []
+=============================
+test data 6
+['during', 'fiscal', 'year', '1960', ',', 'seven', 'courses', 'were', 'conducted', ':', 'application', 'of', 'histochemistry', 'to', 'pathology', ',', 'forensic', 'pathology', ',', 'pathology', 'of', 'diseases', 'of', 'laboratory', 'animals', ',', 'pathology', 'of', 'the', 'oral', 'regions', ',', 'ophthalmic', 'pathology', ',', 'forensic', 'sciences', 'symposium', ',', 'and', 'orthopedic', 'pathology', '.']
+Prob: 0.0
+result: []
+=============================
+test data 7
+['from', '1', 'july', '1960', 'through', '31', 'january', '1961', ',', 'six', 'courses', 'were', 'conducted', ':', 'workshop', 'in', 'resident', 'training', 'in', 'pathology', ',', 'pathology', 'of', 'diseases', 'of', 'laboratory', 'animals', ',', 'application', 'of', 'histochemistry', 'of', 'pathology', ',', 'orthopedic', 'pathology', ',', 'forensic', 'sciences', 'symposium',',', 'and', 'forensic', 'pathology', '.']
+Prob: 0.0
+result: []
+=============================
+test data 8
+['b', '.']
+Prob: 5.094078327743472e-06
+result: ['np', '.']
+accuracy 0.0
+=============================
+test data 9
+['during', 'fiscal', 'years', '1959', 'and', '1960', ',', 'there', 'were', '139', 'military', 'and', 'civilian', 'students', 'who', 'came', 'to', 'the', 'institute', 'for', 'varying', 'periods', 'of', 'special', 'instruction', '.']
+Prob: 0.0
+result: []
+=============================
+test data 10
+['4', '.']
+Prob: 9.254932850147245e-05
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 11
+['research', ':']
+Prob: 1.3368901296168876e-05
+result: ['nn-hl', ':-hl']
+accuracy 1.0
+=============================
+test data 12
+['the', 'institute', 'is', 'engaged', 'in', 'an', 'extensive', 'program', 'of', 'medico-military', 'scientific', 'research', 'in', 'both', 'morphological', 'and', 'experimental', 'pathology', '.']
+Prob: 0.0
+result: []
+=============================
+test data 13
+['among', 'the', 'specific', 'areas', 'of', 'concentration', 'in', 'which','the', 'staff', 'is', 'engaged', ',', 'are', 'such', 'projects', 'as', 'biological', 'and', 'biochemical', 'studies', 'of', 'the', 'effects', 'of', 'microwaves', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 14
+['study', 'of', 'motor', 'end', 'plates', 'in', 'man', 'and', 'animals', ';', ';']
+Prob: 1.8453581881743458e-31
+result: ['nn', 'in', 'nn', 'nn', 'nns', 'in', 'nn', 'cc', 'nns', '.', '.']
+accuracy 1.0
+=============================
+test data 15
+['investigation', 'of', 'respiratory', 'diseases', 'of', 'laboratory', 'animals', ';', ';']
+Prob: 1.1928741798865972e-27
+result: ['nn', 'in', 'jj', 'nns', 'in', 'nn', 'nns', '.', '.']
+accuracy 1.0
+=============================
+test data 16
+['metabolic', 'responses', 'to', 'reduced', 'oxygen', 'tension', ';', ';']
+Prob: 1.2421008434054841e-29
+result: ['jj', 'nns', 'in', 'vbn', 'nn', 'nn', '.', '.']
+accuracy 1.0
+=============================
+test data 17
+['neuropathology', 'of', 'nuclear', 'and', 'cosmic', 'radiation', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 18
+['carcinoma', 'of', 'prostate', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 19
+['evaluation', 'of', 'histochemical', 'techniques', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 20
+['and', 'hip', 'dysplasia', 'in', 'dogs', '.']
+Prob: 0.0
+result: []
+=============================
+test data 21
+['there', 'has', 'been', 'an', 'increase', 'in', 'cooperative', 'research','with', 'other', 'federal', 'agencies', 'and', 'civilian', 'institutions', '.']
+Prob: 0.0
+result: []
+=============================
+test data 22
+['during', 'the', 'period', 'from', '1', 'july', '1960', 'through', '31', 'january', '1961', ',', 'additional', 'research', 'affiliations', 'were', 'effected', 'with', 'the', 'u.', 's.', 'army', 'medical', 'research', 'and', 'development', 'command', 'to', 'conduct', 'research', 'in', 'procedures', 'for', 'quantitative', 'electron', 'microscopy', ',', 'and', 'for', 'the', 'study', 'of', 'biophysical', 'and', 'biological', 'studies', 'of', 'the', 'structure', 'and', 'function', 'of', 'ocular', 'tissue', '.']
+Prob: 0.0
+result: []
+=============================
+test data 23
+['also', ',', 'the', 'defense', 'atomic', 'support', 'agency', 'sponsored','a', 'long-range', 'study', 'at', 'this', 'institute', 'on', 'the', 'response', 'of', 'massive', 'suspension', 'cultures', 'of', 'mammalian', 'cells', 'to', 'acute', 'radiation', '.']
+Prob: 4.019542379940822e-87
+result: ['rb', ',', 'at', 'nn', 'jj', 'nn', 'nn', 'vbn', 'at', 'nn', 'nn', 'in', 'dt', 'nn', 'in', 'at', 'nn', 'in', 'jj', 'nn', 'nns', 'in', 'jj', 'nns', 'in', 'jj', 'nn', '.']
+accuracy 0.7857142857142857
+=============================
+test data 24
+['other', 'scientific', 'agencies', ',', 'both', 'federal', 'and', 'civilian', ',', 'supported', 'studies', 'in', 'quantitative', 'electron', 'microscopical', 'approach', 'to', 'microchemistry', 'and', 'microcytochemistry', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 25
+['the', 'investigation', 'of', 'the', 'relationship', 'of', 'diphosphopyridine', 'nucleotide', 'synthesizine', 'enzyme', 'to', 'tumor', 'growth', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 26
+['morphological', 'study', 'and', 'classification', 'of', 'leukemia', 'and', 'lymphoma', 'cases', 'in', 'animals', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 27
+['and', 'the', 'study', 'of', 'structural', 'changes', 'in', 'm.', 'leprae', 'and', 'other', 'mycobacteria', '.']
+Prob: 0.0
+result: []
+=============================
+test data 28
+['medical', 'illustration', 'service']
+Prob: 1.4508423373025413e-13
+result: ['jj', 'nn', 'nn']
+accuracy 0.0
+=============================
+test data 29
+['1', '.']
+Prob: 0.00015911034906449087
+result: ['cd-hl', '.-hl']
+accuracy 0.5
+=============================
+test data 30
+['the', 'medical', 'illustration', 'service', 'is', 'responsible', 'for', 'the', 'collection', ',', 'publication', ',', 'exhibition', ',', 'and', 'file', 'of', 'medical', 'illustration', 'material', 'of', 'medico-military', 'importance', 'to', 'the', 'armed', 'forces', '.']
+Prob: 0.0
+result: []
+=============================
+test data 31
+['in', 'addition', 'to', 'maintaining', 'a', 'permanent', 'central', 'file', 'of', 'illustrations', 'of', 'diseases', ',', 'wounds', ',', 'and', 'injuries', 'of', 'military', 'importance', ',', 'it', 'provides', 'facilities', 'for', 'clinical', 'photography', ',', 'photomicrography', ',', 'and', 'medical', 'arts', ',', 'and', 'operates', 'a', 'printing', 'plant', ',', 'by', 'permission', 'of', 'congressional', 'committee', ',', 'for', 'publication', 'of', 'an', '``', 'atlas', 'of', 'tumor', 'pathology', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 32
+['it', 'also', 'maintains', 'shops', 'for', 'the', 'design', 'and', 'fabrication', 'of', 'exhibits', ',', 'training', 'aids', 'and', 'instruments', 'and', 'libraries', 'for', 'the', 'loan', 'of', 'films', 'and', 'teaching', 'lantern', 'slide', 'sets', '.']
+Prob: 0.0
+result: []
+=============================
+test data 33
+['2', '.']
+Prob: 0.00016231216688525433
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 34
+['during', 'this', 'period', ',', 'a', 'total', 'of', '762', 'exhibits', 'were', 'presented', 'at', '442', 'medical', 'and', 'scientific', 'meetings', '.']
+Prob: 0.0
+result: []
+=============================
+test data 35
+['of', 'these', 'exhibits', ',', '154', 'were', 'newly', 'constructed', '.']
+Prob: 0.0
+result: []
+=============================
+test data 36
+['twenty-nine', 'exhibits', 'received', 'awards', '.']
+Prob: 0.0
+result: []
+=============================
+test data 37
+['3', '.']
+Prob: 0.00012964300907476303
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 38
+['visual', 'and', 'operable', 'training', 'aids', 'developed', 'by', 'the','medical', 'illustration', 'service', ',', 'were', 'used', 'in', 'support','of', 'army', 'medical', 'service', 'mass', 'casualty', 'exercises', '.']
+Prob: 0.0
+result: []
+=============================
+test data 39
+['members', 'of', 'the', 'medical', 'illustration', 'service', 'lectured', 'and', 'conducted', 'demonstrations', 'on', 'the', 'use', 'of', 'training', 'aids', 'to', 'military', 'personnel', 'and', 'various', 'civilian', 'medical', 'organizations', '.']
+Prob: 0.0
+result: []
+=============================
+test data 40
+['demonstrations', 'of', 'new', 'and', 'projected', 'training', 'aids', 'were', 'conducted', 'at', 'the', 'medical', 'service', "instructor's", 'conference', ',', 'brooke', 'army', 'medical', 'center', ',', 'texas', '.']
+Prob: 0.0
+result: []
+=============================
+test data 41
+['4', '.']
+Prob: 9.254932850147245e-05
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 42
+['in', 'support', 'of', 'the', 'emphasis', 'placed', 'by', 'the', 'department', 'of', 'defense', 'on', 'instruction', 'in', 'emergency', 'medical', 'care', ',', 'the', 'medical', 'illustration', 'service', 'developed', 'casualty', 'simulation', 'kits', 'and', 'rescue', 'breathing', 'manikins', 'which','are', 'being', 'field', 'tested', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 43
+['and', 'overhead', 'projector', 'transparency', 'sets', 'on', 'the', 'subjects', 'of', 'military', 'sanitation', ':', 'first', 'aid', 'for', 'soldiers', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 44
+['bandaging', 'and', 'splinting', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 45
+['the', 'emergency', 'medical', 'treatment', 'unit', ',', 'phase', '1', ';', ';']
+Prob: 4.100081344173586e-31
+result: ['at', 'nn', 'jj', 'nn', 'nn', ',', 'nn', 'cd', '.', '.']
+accuracy 0.3
+=============================
+test data 46
+['and', 'emergency', 'war', 'surgery', 'in', 'support', 'of', 'the', 'north', 'atlantic', 'treaty', 'organization', '(', 'nato', ')', 'handbook', '.']
+Prob: 0.0
+result: []
+=============================
+test data 47
+['fifty', 'lantern', 'slide', 'teaching', 'sets', 'on', 'the', 'subject', 'of', '``', 'emergency', 'war', 'surgery', '(', 'nato', ')', "''", 'were', 'assembled', 'and', 'distributed', 'to', 'the', 'medical', 'military', 'services', 'of', 'foreign', 'governments', 'associated', 'with', 'nato', 'and', 'south-east', 'asia', 'treaty', 'organization', '.']
+Prob: 0.0
+result: []
+=============================
+test data 48
+['the', 'british', 'and', 'canadian', 'liaison', 'officers', ',', 'as', 'well', 'as', 'office', 'of', 'civil', 'and', 'defense', 'mobilization', ',', 'the', 'american', 'red', 'cross', ',', 'and', 'similar', 'interested', 'organizations', 'were', 'informed', 'from', 'time', 'to', 'time', 'as', 'training', 'aids', 'were', 'developed', '.']
+Prob: 0.0
+result: []
+=============================
+test data 49
+['5', '.']
+Prob: 6.599223661353146e-05
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 50
+['nine', 'veterinary', 'lantern', 'slide', 'teaching', 'sets', 'were', 'developed', 'and', 'distributed', ',', 'and', 'lantern', 'slide', 'teaching', 'sets', 'on', '21', 'pathology', 'subjects', 'were', 'added', 'to', 'the', 'loan', 'library', 'of', 'the', 'medical', 'illustration', 'service', '.']
+Prob: 4.384715014284144e-107
+result: ['cd', 'jj', 'nn', 'vb', 'vbg', 'nns', 'bed', 'vbn', 'cc', 'vbn', ',', 'cc', 'nn', 'vb', 'vbg', 'nns', 'in', 'cd', 'nn', 'nns', 'bed', 'vbn', 'in', 'at', 'nn', 'nn', 'in', 'at', 'jj', 'nn', 'nn', '.']
+accuracy 0.84375
+=============================
+test data 51
+['illustrations', 'were', 'prepared', 'for', '11', 'department', 'of', 'the', 'army', 'manuals', 'and', 'one', 'graphic', 'training', 'aid', '.']
+Prob: 0.0
+result: []
+=============================
+test data 52
+['sixteen', 'lantern', 'slide', 'sets', 'were', 'loaned', 'to', 'the', 'government', 'of', 'india', 'and', 'eight', 'sets', 'were', 'forwarded', 'to', 'the', 'u.s.', 'embassy', ',', 'managua', ',', 'nicaragua', 'for', 'the', 'educational', 'exchange', 'program', '.']
+Prob: 0.0
+result: []
+=============================
+test data 53
+['the', 'senate', 'subcommittee', 'on', 'reorganization', 'and', 'international', 'organizations', 'was', 'provided', 'samples', 'of', 'visual', 'aids', 'on', 'first', 'aid', 'and', 'personal', 'health', 'produced', 'by', 'the', 'medical', 'illustration', 'service', '.']
+Prob: 4.313364387654023e-86
+result: ['at', 'nn-tl', 'nn', 'in', 'nn', 'cc', 'jj', 'nns', 'bedz', 'vbn','nns', 'in', 'jj', 'nns', 'in', 'od', 'nn', 'cc', 'jj', 'nn', 'vbn', 'in', 'at', 'jj', 'nn', 'nn', '.']
+accuracy 0.6666666666666666
+=============================
+test data 54
+['6', '.']
+Prob: 4.084766706484727e-05
+result: ['cd-hl', '.-hl']
+accuracy 1.0
+=============================
+test data 55
+['six', 'fascicles', '(', '10,000', 'copies', 'each', ')', 'of', 'the', '``', 'atlas', 'of', 'tumor', 'pathology', "''", 'were', 'completed', 'during','the', 'period', 'of', 'this', 'report', '.']
+Prob: 0.0
+result: []
+=============================
+test data 56
+['the', 'american', 'registry', 'of', 'pathology']
+Prob: 2.9877899104465856e-15
+result: ['at', 'jj', 'nn', 'in', 'nn']
+accuracy 0.0
+=============================
+test data 57
+['this', 'consists', 'of', '25', 'individual', 'registries', ',', 'two', 'of', 'which', 'were', 'added', 'during', 'fiscal', 'years', '1959-1960', '(','the', 'registry', 'of', 'forensic', 'pathology', 'and', 'the', 'testicular', 'tumor', 'registry', ')', '.']
+Prob: 0.0
+result: []
+=============================
+test data 58
+['these', 'registries', 'are', 'sponsored', 'by', '18', 'national', 'medical', ',', 'dental', ',', 'and', 'veterinary', 'societies', 'and', 'have', 'as', 'their', 'mission', 'the', 'assembling', 'of', 'selected', 'cases', 'of','interest', 'to', 'military', 'medicine', 'and', 'of', 'establishing', 'through', 'the', 'mechanism', 'of', 'follow-up', 'of', 'living', 'patients', 'the', 'natural', 'history', 'of', 'various', 'diseases', 'of', 'military-medical', 'importance', '.']
+Prob: 0.0
+result: []
+=============================
+test data 59
+['the', 'american', 'registry', 'of', 'pathology', 'operates', 'as', 'a', 'cooperative', 'enterprise', 'in', 'medical', 'research', 'and', 'education','between', 'the', 'armed', 'forces', 'institute', 'of', 'pathology', 'and','the', 'civilian', 'medical', 'profession', 'on', 'a', 'national', 'and', 'international', 'basis', ',', 'under', 'such', 'conditions', 'as', 'may', 'be', 'agreed', 'upon', 'between', 'the', 'national', 'research', 'council', 'and', 'the', 'surgeons', 'general', 'of', 'the', 'army', ',', 'navy', ',', 'and', 'air', 'force', '.']
+Prob: 0.0
+result: []
+=============================
+test data 60
+['the', 'staff', 'utilized', 'the', 'collected', 'material', 'in', 'these','registries', 'for', 'numerous', 'lectures', 'to', 'national', 'and', 'international', 'meetings', ',', 'exhibits', ',', 'and', 'published', 'studies','.']
+Prob: 0.0
+result: []
+=============================
+test data 61
+['during', 'the', 'period', 'of', 'this', 'report', ',', '37,470', 'new', 'cases', 'were', 'entered', 'into', 'the', 'various', 'registries', '.']
+Prob: 0.0
+result: []
+=============================
+test data 62
+['these', 'were', 'selected', 'carefully', 'and', 'included', 'not', 'only', 'detailed', 'clinical', 'information', 'but', 'adequate', 'pathology', 'of', 'value', 'for', 'research', 'and', 'educational', 'purposes', '.']
+Prob: 2.522751932273182e-66
+result: ['dts', 'bed', 'vbn', 'rb', 'cc', 'vbn', '*', 'rb', 'vbn', 'jj', 'nn', 'cc', 'jj', 'nn', 'in', 'nn', 'in', 'nn', 'cc', 'jj', 'nns', '.']
+accuracy 1.0
+=============================
+test data 63
+['in', 'this', 'same', 'period', ',', 'six', 'new', 'fascicles', 'of', 'the', 'atlas', 'of', 'tumor', 'pathology', 'were', 'published', 'and', 'distributed', 'to', 'medical', 'centers', 'world-wide', '.']
+Prob: 0.0
+result: []
+=============================
+test data 64
+['there', 'were', '54,320', 'copies', 'of', 'fascicles', 'sold', 'and', '642', 'copies', 'distributed', 'free', 'during', 'this', 'period', '.']
+Prob: 0.0
+result: []
+=============================
+test data 65
+['forty-five', 'new', 'clinico-pathologic', 'conferences', 'were', 'prepared', ',', 'bringing', 'the', 'total', 'to', '61', 'available', 'for', 'loan','distribution', '.']
+Prob: 0.0
+result: []
+=============================
+test data 66
+['nine', 'new', 'teaching', 'clinico-pathologic', 'conference', 'sets', 'were', 'prepared', ',', 'which', 'makes', 'a', 'total', 'of', '70', 'types', 'of', 'teaching', 'sets', 'for', 'loan', '.']
+Prob: 0.0
+result: []
+=============================
+test data 67
+['during', 'this', 'period', ',', '7,827', 'teaching', 'sets', 'were', 'distributed', 'on', 'loan', '.']
+Prob: 0.0
+result: []
+=============================
+test data 68
+['the', 'clinico-pathologic', 'conferences', 'have', 'been', 'acknowledged', 'as', 'of', 'great', 'value', 'and', 'in', 'consequent', 'great', 'demand', 'by', 'the', 'small', 'isolated', 'military', 'hospitals', '.']
+Prob: 0.0
+result: []
+=============================
+test data 69
+['the', 'demand', 'for', 'teaching', 'sets', 'continues', 'unabated', 'since', 'they', 'provide', 'the', 'means', 'for', 'the', 'military', 'physicians', 'to', 'review', 'the', 'pathology', 'of', 'selected', 'disease', 'processes', 'or', 'organ', 'systems', 'for', 'review', 'of', 'basic', 'sciences', 'and', 'correlation', 'of', 'clinical', 'physiological', 'behavior', 'with', 'structural', 'changes', '.']
+Prob: 0.0
+result: []
+=============================
+test data 70
+['the', 'medical', 'museum']
+Prob: 1.0208821690192384e-08
+result: ['at', 'jj-tl', 'nn-tl']
+accuracy 0.0
+=============================
+test data 71
+['in', 'fiscal', 'year', '1959', ',', 'the', 'medical', 'museum', 'was', 'moved', 'to', 'chase', 'hall', ',', 'a', 'temporary', 'building', 'on', 'independence', 'avenue', 'at', 'ninth', 'street', ',', 'southwest', ',', 'and', 'continued', 'to', 'display', 'to', 'the', 'public', 'the', 'achievements', 'of', 'the', 'armed', 'forces', 'medical', 'services', '.']
+Prob: 0.0
+result: []
+=============================
+test data 72
+['during', 'the', 'period', 'of', 'this', 'report', ',', '63', 'panel', 'exhibits', 'depicting', 'the', 'latest', 'developments', 'in', 'medical', 'research', 'were', 'displayed', '.']
+Prob: 1.5507515757342993e-60
+result: ['in', 'at', 'nn', 'in', 'dt', 'nn', ',', 'cd', 'nn', 'vbz', 'vbg','at', 'jjt', 'nns', 'in', 'jj', 'nn', 'bed', 'vbn', '.']
+accuracy 0.95
+=============================
+test data 73
+['of', 'the', '375', 'exhibits', '(', 'of', 'all', 'types', ')', 'shown', ',', '161', 'were', 'new', 'or', 'refurbished', '.']
+Prob: 0.0
+result: []
+=============================
+test data 74
+['of', 'the', '885', 'specimens', 'newly', 'mounted', 'or', 'refurbished', ',', '254', 'were', 'prepared', 'for', 'other', 'agencies', '.']
+Prob: 0.0
+result: []
+=============================
+test data 75
+['eighty-five', 'specimens', 'were', 'loaned', 'for', 'study', 'purposes', '.']
+Prob: 0.0
+result: []
+=============================
+test data 76
+['an', 'exhibit', ',', '``', 'macropathology', '--', 'an', 'ancient', 'art', ',', 'a', 'new', 'science', "''", ',', 'was', 'presented', 'at', 'the', 'annual', 'meeting', 'of', 'the', 'american', 'medical', 'association', '.']
+Prob: 0.0
+result: []
+=============================
+test data 77
+['a', 'three-dimensional', 'exhibit', 'depicting', '``', 'a', 'century', 'of', 'naval', 'medicine', "''", 'was', 'formally', 'presented', 'to', 'the', 'director', 'by', 'george', 's.', 'squibb', ',', 'great-grandson', 'of', 'the', 'founder', 'of', 'e.', 'r.', 'squibb', 'and', 'sons', ',', 'for', 'permanent', 'display', 'in', 'the', 'museum', '.']
+Prob: 0.0
+result: []
+=============================
+test data 78
+['space', 'was', 'provided', 'for', 'short-time', 'guest', 'medical', 'exhibits', ',', 'and', 'the', 'museum', 'collected', 'new', 'accessions', 'of', 'microscopes', ',', 'medical', ',', 'surgical', ',', 'and', 'diagnostic', 'instruments', ',', 'uniform', ',', 'and', 'similar', 'items', 'of', 'historical', 'medico-military', 'significance', '.']
+Prob: 0.0
+result: []
+=============================
+test data 79
+['during', 'the', 'period', ',', 'the', 'laboratory', 'rendered', 'centralized', 'macropathological', 'service', 'to', 'qualified', 'requesters', '.']
+Prob: 0.0
+result: []
+=============================
+test data 80
+['specimens', 'were', 'mounted', 'for', 'military', 'installations', ',', 'governmental', 'agencies', ',', 'and', 'medical', 'schools', '.']
+Prob: 0.0
+result: []
+=============================
+test data 81
+['three', 'hundred', 'five', 'copies', 'of', 'the', 'manual', 'of', 'macropathological', 'techniques', 'were', 'distributed', '.']
+Prob: 0.0
+result: []
+=============================
+test data 82
+['thirty-five', 'military', 'and', 'civilian', 'students', 'received', 'laboratory', 'training', '.']
+Prob: 0.0
+result: []
+=============================
+test data 83
+['during', 'fiscal', 'years', '1959', 'and', '1960', ',', 'there', 'were', '795,586', 'visitors', 'to', 'the', 'museum', '.']
+Prob: 0.0
+result: []
+=============================
+test data 84
+['during', 'the', 'period', 'from', '1', 'july', '1960', 'through', '31', 'january', '1961', ',', 'the', 'medical', 'museum', 'was', 'required', 'to', 'move', 'to', 'temporary', 'building', '``', 's', "''", 'on', 'the', 'mall','from', 'chase', 'hall', '.']
+Prob: 0.0
+result: []
+=============================
+test data 85
+['throughout', 'the', 'period', 'and', 'during', 'the', 'movement', 'operation', ',', 'the', 'museum', 'continued', 'its', 'functional', 'support', 'of', 'the', 'armed', 'forces', 'institute', 'of', 'pathology', '.']
+Prob: 4.036335681837793e-65
+result: ['in', 'at', 'nn', 'cc', 'in', 'at', 'nn', 'nn', ',', 'at', 'nn-tl', 'vbd', 'pp$', 'jj', 'nn', 'in', 'at', 'vbn', 'nns', 'nn', 'in', 'nn', '.']
+accuracy 0.782608695652174
+=============================
+test data 86
+['armed', 'forces', 'medical', 'publication', 'agency']
+Prob: 7.308856853187715e-23
+result: ['vbn', 'nns', 'jj', 'nn', 'nn']
+accuracy 0.0
+=============================
+test data 87
+['the', 'armed', 'forces', 'medical', 'publication', 'agency', ',', 'established', 'in', '1949', ',', 'has', 'published', ',', 'since', 'january', '1950', ',', 'the', 'united', 'states', 'armed', 'forces', 'medical', 'journal','as', 'a', 'triservice', 'publication', 'to', 'furnish', 'material', 'of', 'professional', 'interest', 'to', 'medical', 'department', 'officers', 'of','the', 'three', 'military', 'services', '.']
+Prob: 0.0
+result: []
+=============================
+test data 88
+['its', 'supplement', ',', 'the', 'medical', 'technicians', 'bulletin', ',', 'supplied', 'similar', 'material', 'to', 'enlisted', 'medical', 'personnel', '.']
+Prob: 0.0
+result: []
+=============================
+test data 89
+['these', 'publications', 'replaced', 'the', 'u.', 's.', 'naval', 'medical', 'bulletin', ',', 'published', 'continuously', 'from', '1907', 'through', '1959', ',', 'as', 'well', 'as', 'the', "navy's", 'hospital', 'corps', 'quarterly', 'and', 'the', 'bulletin', 'of', 'the', 'u.', 's.', 'army', 'medical','department', ',', 'published', 'from', '1922', 'to', '1949', '.']
+Prob: 0.0
+result: []
+=============================
+test data 90
+['in', 'addition', ',', 'their', 'establishment', 'made', 'it', 'unnecessary', 'to', 'begin', 'publication', 'of', 'a', 'contemplated', 'air', 'force','medical', 'bulletin', '.']
+Prob: 0.0
+result: []
+=============================
+test data 91
+['estimated', 'annual', 'savings', 'resulting', 'from', 'publication', 'of', 'the', 'journal', 'and', 'bulletin', 'on', 'a', 'triservice', 'basis', ',', 'as', 'compared', 'with', 'the', 'cost', 'of', 'producing', 'separate', 'periodicals', 'for', 'each', 'service', ',', 'were', 'between', '$65,000', 'and', '$70,000', '.']
+Prob: 0.0
+result: []
+=============================
+test data 92
+['additionally', ',', 'on', 'the', 'many', 'ships', 'at', 'sea', 'and', 'in', 'the', 'smaller', 'naval', 'stations', ',', 'the', 'availability', 'of', 'the', 'journal', 'removed', 'the', 'necessity', 'of', 'subscribing', 'to', 'several', 'additional', 'journals', 'of', 'civilian', 'origin', 'over', 'and', 'above', 'the', 'quantity', 'now', 'authorized', ',', 'in', 'order', 'to', 'provide', 'any', 'reasonably', 'comparable', 'coverage', '.']
+Prob: 1.9683740627667705e-136
+result: ['rb', ',', 'in', 'at', 'ap', 'nns', 'in', 'nn', 'cc', 'in', 'at', 'jjr', 'jj', 'nns', ',', 'at', 'nn', 'in', 'at', 'nn-tl', 'vbd', 'at', 'nn','in', 'vbg', 'in', 'ap', 'jj', 'nns', 'in', 'jj', 'nn', 'rp', 'cc', 'in', 'at', 'nn', 'rb', 'vbn', ',', 'in', 'nn', 'to', 'vb', 'dti', 'ql', 'jj', 'nn', '.']
+accuracy 0.9591836734693877
+=============================
+test data 93
+['from', '1', 'july', '1958', 'to', '30', 'june', '1960', ',', '24', 'numbers', 'of', 'the', 'journal', 'and', 'nine', 'of', 'the', 'bulletin', 'were','published', '.']
+Prob: 0.0
+result: []
+=============================
+test data 94
+['each', 'journal', 'contained', 'articles', 'of', 'professional', 'and', 'clinical', 'interest', ',', 'and', 'departments', 'devoted', 'to', 'military', 'medical', 'news', ',', 'reviews', 'of', 'new', 'books', ',', 'and', 'other', 'features', 'of', 'interest', 'to', 'officers', 'of', 'the', 'medical','services', '.']
+Prob: 0.0
+result: []
+=============================
+test data 95
+['the', 'council', 'on', 'national', 'defense', 'of', 'the', 'american', 'medical', 'association', 'contributed', 'a', 'brief', 'article', 'to', 'each', 'issue', 'entitled', ',', '``', 'this', 'is', 'your', 'a.m.a.', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 96
+['beginning', 'with', 'the', 'october', '1959', 'issue', 'of', 'the', 'journal', ',', 'the', 'method', 'of', 'production', 'of', 'copy', 'for', 'photo-offset', 'reproduction', 'was', 'changed', 'from', 'varityping', 'to', 'hot', 'typesetting', '.']
+Prob: 0.0
+result: []
+=============================
+test data 97
+['this', 'resulted', 'in', 'an', 'improved', 'appearance', ',', 'but', 'was', 'followed', 'by', 'an', 'increase', 'in', 'printing', 'cost', 'that', 'necessitated', 'the', 'institution', 'of', 'major', 'economies', 'to', 'keep','within', 'the', 'total', 'of', 'allocated', 'funds', '.']
+Prob: 0.0
+result: []
+=============================
+test data 98
+['the', 'use', 'of', '100', 'instead', 'of', '140', 'substance', 'paper', 'plus', 'the', 'adoption', 'of', 'side', 'stapling', 'beginning', 'with', 'the', 'may', '1960', 'issue', 'reduced', 'costs', 'sufficiently', 'to', 'allow', 'completion', 'of', 'the', 'fiscal', 'year', 'with', 'nearly', '$4,000', 'in', 'unexpended', 'funds', '.']
+Prob: 0.0
+result: []
+=============================
+test data 99
+['two', 'special', 'issues', 'were', 'published', ',', 'one', 'for', 'november', '1959', 'on', 'space', 'medicine', ',', 'the', 'other', 'the', 'tenth', 'anniversary', 'issue', 'for', 'january', '1960', '.']
+Prob: 1.7567962810878656e-69
+result: ['cd', 'jj', 'nns', 'bed', 'vbn', ',', 'cd', 'in', 'np', 'cd', 'in', 'nn', 'nn', ',', 'at', 'ap', 'at', 'od', 'nn', 'nn', 'in', 'np', 'cd', '.']
+accuracy 0.8333333333333334
+=============================
+test data 100
+['the', 'february', '1960', 'issue', 'marked', 'the', 'reinstitution', 'of', 'the', 'section', 'entitled', ',', '``', 'the', 'medical', 'officer', 'writes', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 101
+['replacing', 'the', 'discontinued', 'medical', 'technicians', 'bulletin', ',', 'publication', 'of', 'which', 'was', 'suspended', 'with', 'the', 'november-december', '1959', 'issue', ',', 'a', 'section', 'called', '``', 'technical', 'notes', "''", 'was', 'inaugurated', 'on', 'a', 'bimonthly', 'basis', 'beginning', 'with', 'the', 'april', '1960', 'issue', '.']
+Prob: 0.0
+result: []
+=============================
+test data 102
+['occasional', 'features', 'were', 'published', 'on', 'historical', 'medicine', ',', 'special', 'reports', ',', 'bibliography', ',', 'and', '``', "collector's", 'items', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 103
+['in', 'may', '1960', ',', 'the', 'armed', 'forces', 'institute', 'of', 'pathology', 'began', 'a', 'series', 'of', 'articles', 'on', 'the', '``', 'medical', 'museum', "''", ',', 'and', 'in', 'june', ',', 'the', 'institute', 'started', 'contributing', 'a', 'regular', 'monthly', '``', 'case', 'for', 'diagnosis', "''", '.']
+Prob: 2.4570777612023543e-106
+result: ['in', 'np', 'cd', ',', 'at', 'vbn', 'nns', 'nn', 'in', 'nn', 'vbd', 'at', 'nn', 'in', 'nns', 'in', 'at', '``', 'jj-tl', 'nn-tl', "''", ',', 'cc', 'in', 'np', ',', 'at', 'nn-tl', 'vbd', 'vbg', 'at', 'jj', 'jj', '``', 'nn', 'in', 'nn', "''", '.']
+accuracy 0.7948717948717948
+=============================
+test data 104
+['the', 'institute', 'also', 'planned', 'to', 'furnish', 'a', 'regular', 'series', 'of', 'articles', ',', 'beginning', 'in', 'the', 'fall', 'of', '1960', ',', 'on', 'its', 'more', 'significant', 'scientific', 'exhibits', '.']
+Prob: 1.1724383505682216e-69
+result: ['at', 'nn-tl', 'rb', 'vbn', 'to', 'vb', 'at', 'jj', 'nn', 'in', 'nns', ',', 'vbg', 'in', 'at', 'nn', 'in', 'cd', ',', 'in', 'pp$', 'ql', 'jj','jj-tl', 'vbz', '.']
+accuracy 0.9230769230769231
+=============================
+test data 105
+['the', 'armed', 'forces', 'epidemiological', 'board', 'agreed', 'to', 'submit', 'each', 'month', 'a', 'report', 'for', 'one', 'of', 'its', '12', 'commissions', ',', 'so', 'that', 'each', 'commission', 'will', 'report', 'once','a', 'year', 'on', 'some', 'phase', 'of', 'its', 'work', 'calculated', 'to', 'be', 'of', 'particular', 'interest', 'and', 'value', 'to', 'medical', 'officers', 'of', 'the', 'armed', 'forces', '.']
+Prob: 0.0
+result: []
+=============================
+test data 106
+['the', 'first', 'report', 'in', 'this', 'continuing', 'series', 'appeared', 'in', 'the', 'september', '1960', 'issue', 'of', 'the', 'journal', '.']
+Prob: 4.002831781364128e-43
+result: ['at', 'od', 'nn', 'in', 'dt', 'vbg', 'nn', 'vbd', 'in', 'at', 'np', 'cd', 'nn', 'in', 'at', 'nn-tl', '.']
+accuracy 1.0
+=============================
+Total test time: 295.9731981754303 s
+Total accuracy: 0.812987012987013
+Total null: 76

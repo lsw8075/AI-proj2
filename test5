@@ -1,0 +1,700 @@
+Test data count: 128
+test data 0
+['there', 'had', 'been', 'signs', 'and', 'portents', 'like', 'the', 'regular', 'toppling', 'over', 'and', 'defacing', 'of', 'the', 'bust', 'of', 'lauro', 'di', 'bosis', 'near', 'the', 'villa', 'lante', 'and', 'in', 'the', 'gianicolo', '.']
+Prob: 0.0
+result: []
+=============================
+test data 1
+['something', 'was', 'happening', 'all', 'right', ',', 'slowly', 'it', 'is', 'true', ',', 'but', 'you', 'could', 'feel', 'it', '.']
+Prob: 2.0056248421100615e-38
+result: ['pn', 'bedz', 'vbg', 'abn', 'jj', ',', 'rb', 'pps', 'bez', 'jj', ',', 'cc', 'ppss', 'md', 'vb', 'ppo', '.']
+accuracy 0.8823529411764706
+=============================
+test data 2
+['the', 'italians', 'felt', 'it', '.']
+Prob: 9.660277475847453e-12
+result: ['at', 'nps', 'vbd', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 3
+['little', 'things', '.']
+Prob: 7.508480478268943e-08
+result: ['ap', 'nns', '.']
+accuracy 0.6666666666666666
+=============================
+test data 4
+['an', 'italian', 'poet', 'had', 'noticed', 'plainclothes', 'policemen', 'lounging', 'around', 'the', 'area', 'of', 'quirinal', 'palace', ',', 'the', 'first', 'time', 'since', 'the', 'war', '.']
+Prob: 0.0
+result: []
+=============================
+test data 5
+['at', 'least', 'they', "hadn't", 'stepped', 'up', 'and', 'asked', 'to', 'see', 'papers', 'in', 'the', 'hated', ',', 'flat', ',', 'dialect', 'mispronunciation', 'of', "mussolini's", 'home', 'district', '--', 'dogumenti', ',', 'per', 'favore', '.']
+Prob: 0.0
+result: []
+=============================
+test data 6
+['but', ',', 'who', 'knew', ',', 'that', 'might', 'be', 'coming', 'one', 'of', 'these', 'days', '.']
+Prob: 1.2744834625290363e-28
+result: ['cc', ',', 'wps', 'vbd', ',', 'wps', 'md', 'be', 'vbg', 'cd', 'in', 'dts', 'nns', '.']
+accuracy 0.9285714285714286
+=============================
+test data 7
+['there', 'were', 'other', 'italians', 'who', 'still', 'bore', 'scars', 'they', 'had', 'earned', 'in', 'police', 'station', 'basements', ',', 'resisting', '.']
+Prob: 0.0
+result: []
+=============================
+test data 8
+['they', 'laughed', 'and', ',', 'true', 'to', 'national', 'form', 'and', 'manners', ',', 'never', 'talked', 'long', 'or', 'solemnly', 'on', 'any', 'subject', 'at', 'all', ',', 'but', 'some', 'of', 'them', 'worried', 'out', 'loud', 'about', 'short', 'memories', 'and', 'ghosts', '.']
+Prob: 0.0
+result: []
+=============================
+test data 9
+['we', 'saw', 'giuseppe', 'berto', 'at', 'a', 'party', 'once', 'in', 'a', 'while', ',', 'tall', ',', 'lean', ',', 'nervous', 'and', 'handsome', ',', 'and', ',', 'in', 'our', 'opinion', ',', 'the', 'best', 'novelist', 'of', 'them', 'all', 'except', 'pavese', ',', 'and', 'pavese', 'is', 'dead', '.']
+Prob: 0.0
+result: []
+=============================
+test data 10
+["berto's", 'the', 'sky', 'is', 'red', 'had', 'been', 'a', 'small', 'masterpiece', 'and', 'in', 'its', 'special', 'way', 'the', 'best', 'book', 'to', 'come', 'out', 'of', 'the', 'war', '.']
+Prob: 0.0
+result: []
+=============================
+test data 11
+['now', 'he', 'was', 'married', 'to', 'a', 'beautiful', 'girl', ',', 'had','a', 'small', 'son', ',', 'and', 'lived', 'in', 'an', 'expensive', 'apartment', 'and', 'worked', 'for', 'the', 'movies', '.']
+Prob: 4.095950995154604e-59
+result: ['rb', 'pps', 'bedz', 'vbn', 'in', 'at', 'jj', 'nn', ',', 'hvd', 'at', 'jj', 'nn', ',', 'cc', 'vbd', 'in', 'at', 'jj', 'nn', 'cc', 'vbd', 'in','at', 'nns', '.']
+accuracy 1.0
+=============================
+test data 12
+['on', 'his', 'desk', 'was', 'a', 'slowly', 'accumulating', 'treatment', 'and', 'script', 'of', 'the', 'count', 'of', 'monte', 'cristo', '.']
+Prob: 0.0
+result: []
+=============================
+test data 13
+['on', 'his', 'bookshelves', 'were', 'some', 'of', 'the', 'latest', 'american', 'novels', ',', 'including', "bellow's", 'seize', 'the', 'day', ',', 'but', 'he', "hadn't", 'read', 'them', '(', 'they', 'were', 'sent', 'by', 'american', 'publishers', ')', 'and', "wasn't", 'especially', 'interested', 'in','what', 'the', 'american', 'writers', 'were', 'up', 'to', '.']
+Prob: 0.0
+result: []
+=============================
+test data 14
+['he', 'was', 'interested', 'in', 'robert', "musil's", 'the', 'man', 'without', 'qualities', '.']
+Prob: 0.0
+result: []
+=============================
+test data 15
+['so', 'were', 'a', 'lot', 'of', 'other', 'people', '.']
+Prob: 1.0987585892045871e-18
+result: ['rb', 'bed', 'at', 'nn', 'in', 'ap', 'nns', '.']
+accuracy 1.0
+=============================
+test data 16
+['he', 'was', 'interested', 'in', 'italo', 'svevo', '.']
+Prob: 0.0
+result: []
+=============================
+test data 17
+['he', 'was', 'thinking', 'his', 'way', 'into', 'a', 'new', 'novel', ',', 'a', 'big', 'one', ',', 'one', 'that', 'people', 'had', 'been', 'waiting', 'for', '.']
+Prob: 9.23479385321919e-50
+result: ['pps', 'bedz', 'vbg', 'pp$', 'nn', 'in', 'at', 'jj', 'nn', ',', 'at', 'jj', 'cd', ',', 'cd', 'cs', 'nns', 'hvd', 'ben', 'vbg', 'in', '.']
+accuracy 0.9545454545454546
+=============================
+test data 18
+['it', 'was', 'going', 'to', 'be', 'hard', 'going', 'all', 'the', 'way', 'because', 'he', "hadn't", 'written', 'seriously', 'for', 'a', 'while', ',', 'except', 'for', 'a', 'few', 'stories', ',', 'was', 'tired', 'of', 'the', 'old', 'method', 'of', 'realismo', 'he', 'had', 'so', 'successfully', 'used', 'in', 'the', 'sky', 'is', 'red', '.']
+Prob: 0.0
+result: []
+=============================
+test data 19
+['this', 'one', 'was', 'going', 'to', 'be', 'different', '.']
+Prob: 5.50950557782174e-17
+result: ['dt', 'pn', 'bedz', 'vbg', 'to', 'be', 'jj', '.']
+accuracy 0.875
+=============================
+test data 20
+['he', 'had', 'bought', 'a', 'little', 'piece', 'of', 'property', 'down', 'along', 'the', 'coast', 'of', 'the', 'hard', 'country', 'of', 'calabria', 'that', 'he', 'knew', 'so', 'well', '.']
+Prob: 0.0
+result: []
+=============================
+test data 21
+['he', 'was', 'going', 'to', 'do', 'one', 'or', 'two', 'more', 'films', 'for', 'cash', 'and', 'then', 'chuck', 'it', 'all', ',', 'leave', 'rome', 'and', 'its', 'intellectual', 'cliques', 'and', 'money-fed', 'life', ',', 'go', 'back', 'to', 'calabria', '.']
+Prob: 0.0
+result: []
+=============================
+test data 22
+['berto', 'seemed', 'worried', ',', 'too', '.']
+Prob: 0.0
+result: []
+=============================
+test data 23
+['he', 'knew', 'all', 'about', 'it', 'and', 'had', 'put', 'it', 'down', 'in', 'journal', 'form', 'in', 'the', 'war', 'in', 'a', 'black', 'shirt', ',', 'a', 'wonderful', 'book', 'not', ',', 'for', 'some', 'strange', 'reason', ',', 'published', 'in', 'the', 'u.s.', '.']
+Prob: 1.0141253859535815e-84
+result: ['pps', 'vbd', 'abn', 'in', 'ppo', 'cc', 'hvd', 'vbn', 'ppo', 'rp','in', 'nn-tl', 'nn-tl', 'in', 'at', 'nn', 'in', 'at', 'jj', 'nn', ',', 'at', 'jj', 'nn', '*', ',', 'in', 'dti', 'jj', 'nn', ',', 'vbn', 'in', 'at', 'np', '.']
+accuracy 0.7777777777777778
+=============================
+test data 24
+['he', 'knew', 'all', 'about', 'the', 'appeal', 'of', 'a', 'black', 'shirt', 'and', 'jackboots', 'to', 'a', 'poor', ',', 'southern', ',', 'peasant', 'boy', '.']
+Prob: 0.0
+result: []
+=============================
+test data 25
+['he', 'knew', 'all', 'about', 'the', 'infection', 'and', 'the', 'fever', ',', 'and', ',', 'too', ',', 'the', 'moment', 'of', 'realization', 'when', 'he', 'saw', 'for', 'himself', ',', 'threw', 'up', 'his', 'hands', 'and', 'quit', ',', 'ended', 'the', 'war', 'as', 'a', 'prisoner', 'in', 'texas', '.']
+Prob: 0.0
+result: []
+=============================
+test data 26
+['berto', 'knew', 'all', 'about', 'fascism', '.']
+Prob: 0.0
+result: []
+=============================
+test data 27
+['so', 'did', 'his', 'friend', ',', 'the', 'young', 'novelist', 'rimanelli', '.']
+Prob: 0.0
+result: []
+=============================
+test data 28
+['rimanelli', 'is', 'tough', 'and', 'square-built', 'and', 'adventurous', ',', 'says', 'what', 'he', 'thinks', '.']
+Prob: 0.0
+result: []
+=============================
+test data 29
+['he', 'had', 'put', 'it', 'down', 'in', 'a', 'war', 'novel', ',', 'the', 'day', 'of', 'the', 'lion', '.']
+Prob: 1.6743409392862854e-32
+result: ['pps', 'hvd', 'vbn', 'ppo', 'rp', 'in', 'at', 'nn', 'nn', ',', 'at', 'nn', 'in', 'at', 'nn', '.']
+accuracy 0.6875
+=============================
+test data 30
+['these', 'people', 'were', 'not', 'talking', 'much', 'about', 'it', ',', 'but', 'you', ',', 'a', 'foreigner', ',', 'sensed', 'their', 'apprehension', 'and', 'disappointment', '.']
+Prob: 1.9032688336979319e-53
+result: ['dts', 'nns', 'bed', '*', 'vbg', 'ap', 'in', 'ppo', ',', 'cc', 'ppss', ',', 'at', 'nn', ',', 'vbd', 'pp$', 'nn', 'cc', 'nn', '.']
+accuracy 0.9523809523809523
+=============================
+test data 31
+['so', 'there', 'we', 'were', 'talking', 'around', 'and', 'about', 'it', '.']
+Prob: 4.439013069567497e-25
+result: ['ql', 'rb', 'ppss', 'bed', 'vbg', 'rb', 'cc', 'in', 'ppo', '.']
+accuracy 0.8
+=============================
+test data 32
+['the', 'english', 'lady', 'said', 'she', 'had', 'to', 'go', 'to', 'vienna', 'for', 'a', 'while', '.']
+Prob: 1.1357922161051195e-32
+result: ['at', 'jj', 'nn', 'vbd', 'pps', 'hvd', 'to', 'vb', 'in', 'np', 'in', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 33
+['it', 'was', 'a', 'pity', 'because', 'she', 'had', 'planned', 'to', 'lay','a', 'wreath', 'at', 'the', 'foot', 'of', 'the', 'garibaldi', 'statue', ',', 'towering', 'over', 'rome', 'in', 'spectacular', 'benediction', 'from', 'the', 'highpoint', 'of', 'the', 'gianicolo', '.']
+Prob: 0.0
+result: []
+=============================
+test data 34
+['around', 'that', 'statue', 'in', 'the', 'green', 'park', 'where', 'children', 'play', 'and', 'lovers', 'walk', 'in', 'twos', 'and', 'there', 'is', 'a', 'glowing', 'view', 'of', 'the', 'whole', 'city', ',', 'in', 'that', 'park', 'are', 'the', 'rows', 'of', 'marble', 'busts', 'of', "garibaldi's", 'fallen', 'men', ',', 'the', 'ones', 'who', 'one', 'day', 'rushed', 'out', 'of', 'the', 'porta', 'san', 'pancrazio', 'and', ',', 'under', 'fire', 'all', 'the', 'way', ',', 'up', 'the', 'long', ',', 'straight', 'narrow', 'lane', 'to','take', ',', 'then', 'lose', 'the', 'high', 'ground', 'of', 'the', 'villa','doria', 'pamphili', '.']
+Prob: 0.0
+result: []
+=============================
+test data 35
+['when', 'they', 'lost', 'it', ',', 'the', 'french', 'artillery', 'moved', 'in', ',', 'and', 'that', 'was', 'the', 'end', 'for', 'garibaldi', 'that', 'time', ',', 'on', '30', 'april', '1849', '.']
+Prob: 0.0
+result: []
+=============================
+test data 36
+['once', 'out', 'of', 'the', 'gate', 'they', 'had', 'charged', 'straight', 'up', 'the', 'narrow', 'lane', '.']
+Prob: 5.967797937893273e-38
+result: ['rb', 'rp', 'in', 'at', 'nn', 'ppss', 'hvd', 'vbn', 'rb', 'rp', 'at', 'jj', 'nn', '.']
+accuracy 0.7857142857142857
+=============================
+test data 37
+['we', 'had', 'walked', 'it', 'many', 'times', 'and', 'shivered', ',', 'figuring', 'what', 'a', 'fish', 'barrel', 'it', 'had', 'been', 'for', 'the', 'french', '.']
+Prob: 0.0
+result: []
+=============================
+test data 38
+['now', 'the', 'park', 'is', 'filled', 'with', 'marble', 'busts', 'and', 'all', 'the', 'streets', 'in', 'the', 'immediate', 'area', 'have', 'the', 'full', 'and', 'proper', 'names', 'of', 'the', 'men', 'who', 'fell', '.']
+Prob: 0.0
+result: []
+=============================
+test data 39
+['we', 'were', 'at', 'a', 'party', 'once', 'and', 'heard', 'an', 'idealistic', 'young', 'european', 'call', 'that', 'awful', 'charge', 'glorious', '.']
+Prob: 8.876955153074242e-58
+result: ['ppss', 'bed', 'in', 'at', 'nn', 'rb', 'cc', 'vbd', 'at', 'jj', 'jj', 'jj', 'nn', 'cs', 'jj', 'nn', 'jj', '.']
+accuracy 0.8888888888888888
+=============================
+test data 40
+['our', 'companion', 'was', 'a', 'huge', ',', 'plain-spoken', 'american', 'sculptor', 'who', 'had', 'been', 'a', 'sixteen-year-old', 'rifleman', 'all','across', 'france', 'in', '1944', '.']
+Prob: 0.0
+result: []
+=============================
+test data 41
+['he', 'said', 'it', 'was', 'stupid', 'butchery', 'to', 'order', 'men', 'to', 'make', 'a', 'charge', 'like', 'that', ',', 'no', 'matter', 'who', 'gave', 'the', 'order', 'and', 'what', 'for', '.']
+Prob: 0.0
+result: []
+=============================
+test data 42
+['``', 'oh', ',', 'it', 'would', 'be', 'butchery', 'all', 'right', "''", ',', 'the', 'european', 'said', '.']
+Prob: 0.0
+result: []
+=============================
+test data 43
+['``', 'we', 'would', 'see', 'it', 'that', 'way', ',', 'but', 'it', 'was', 'glorious', 'then', '.']
+Prob: 7.220912227314027e-29
+result: ['``', 'ppss', 'md', 'vb', 'ppo', 'dt', 'nn', ',', 'cc', 'pps', 'bedz', 'jj', 'rb', '.']
+accuracy 1.0
+=============================
+test data 44
+['it', 'was', 'the', 'last', 'time', 'in', 'history', 'anybody', 'could', 'do', 'something', 'gloriously', 'like', 'that', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 45
+['i', 'thought', ':', 'who', 'is', 'older', 'now', '?', '?']
+Prob: 2.0470619038162205e-22
+result: ['ppss', 'vbd', ':', 'wps', 'bez', 'jjr', 'rb', '.', '.']
+accuracy 1.0
+=============================
+test data 46
+['old', 'world', 'and', 'new', 'world', '.']
+Prob: 8.119014884366438e-15
+result: ['jj', 'nn', 'cc', 'jj', 'nn', '.']
+accuracy 1.0
+=============================
+test data 47
+['the', 'sculptor', 'looked', 'at', 'him', ',', 'bugeyed', 'and', 'amazed',',', 'angry', '.']
+Prob: 0.0
+result: []
+=============================
+test data 48
+['he', 'had', 'made', 'an', 'assault', 'once', 'with', '180', 'men', '.']
+Prob: 0.0
+result: []
+=============================
+test data 49
+['it', 'was', 'a', 'picked', 'assault', 'company', '.']
+Prob: 3.7972032234393e-20
+result: ['pps', 'bedz', 'at', 'vbn', 'nn', 'nn', '.']
+accuracy 1.0
+=============================
+test data 50
+['they', 'went', 'up', 'against', 'an', 'ss', 'unit', 'of', 'comparable', 'size', ',', 'over', 'a', 'little', 'rise', 'of', 'ground', ',', 'over', 'an', 'open', 'field', '.']
+Prob: 0.0
+result: []
+=============================
+test data 51
+['object', '--', 'a', 'village', 'crossroads', '.']
+Prob: 9.378210678648362e-20
+result: ['nn', '--', 'at', 'nn', 'nns', '.']
+accuracy 1.0
+=============================
+test data 52
+['they', 'made', 'it', ',', 'killed', 'every', 'last', 'one', 'of', 'the', 'krauts', ',', 'took', 'the', 'village', 'on', 'schedule', '.']
+Prob: 0.0
+result: []
+=============================
+test data 53
+['when', 'it', 'was', 'over', ',', 'eight', 'of', 'his', 'company', 'were','still', 'alive', 'and', 'all', 'eight', 'were', 'wounded', '.']
+Prob: 8.756832204704079e-45
+result: ['wrb', 'pps', 'bedz', 'rp', ',', 'cd', 'in', 'pp$', 'nn', 'bed', 'rb', 'jj', 'cc', 'abn', 'cd', 'bed', 'vbn', '.']
+accuracy 1.0
+=============================
+test data 54
+['the', 'whole', 'thing', ',', 'from', 'the', 'moment', 'when', 'they', 'jumped', 'heavily', 'off', 'the', 'trucks', ',', 'spread', 'out', 'and', 'moved', 'into', 'position', 'just', 'behind', 'the', 'cover', 'of', 'that', 'slight', 'rise', 'of', 'ground', 'and', 'then', 'jumped', 'off', ',', 'took', 'maybe', 'between', 'twenty', 'and', 'thirty', 'minutes', '.']
+Prob: 9.765297768675195e-117
+result: ['at', 'jj', 'nn', ',', 'in', 'at', 'nn', 'wrb', 'ppss', 'vbd', 'rb', 'in', 'at', 'nns', ',', 'vbd', 'rp', 'cc', 'vbd', 'in', 'nn', 'rb', 'in','at', 'nn', 'in', 'dt', 'jj', 'nn', 'in', 'nn', 'cc', 'rb', 'vbd', 'rp', ',', 'vbd', 'rb', 'in', 'cd', 'cc', 'cd', 'nns', '.']
+accuracy 0.9772727272727273
+=============================
+test data 55
+['the', 'sculptor', 'looked', 'at', 'him', ',', 'let', 'the', 'color', 'drain', 'out', 'of', 'his', 'face', ',', 'grinned', ',', 'and', 'looked', 'down', 'into', 'his', 'drink', ',', 'a', 'bad', 'martini', 'made', 'with', 'raw', 'italian', 'gin', '.']
+Prob: 6.305210988843607e-88
+result: ['at', 'nn', 'vbd', 'in', 'ppo', ',', 'vb', 'at', 'nn', 'vb', 'rp','in', 'pp$', 'nn', ',', 'vbd', ',', 'cc', 'vbd', 'rp', 'in', 'pp$', 'nn', ',', 'at', 'jj', 'nn', 'vbn', 'in', 'jj', 'jj', 'nn', '.']
+accuracy 0.8787878787878788
+=============================
+test data 56
+['``', 'bullshit', "''", ',', 'he', 'said', 'softly', '.']
+Prob: 0.0
+result: []
+=============================
+test data 57
+['``', 'excuse', 'me', "''", ',', 'the', 'european', 'said', '.']
+Prob: 6.317317513851743e-22
+result: ['``', 'vb', 'ppo', "''", ',', 'at', 'jj', 'vbn', '.']
+accuracy 0.7777777777777778
+=============================
+test data 58
+['``', 'i', 'am', 'not', 'familiar', 'with', 'the', 'expression', "''", '.']
+Prob: 8.01324308758571e-19
+result: ['``', 'ppss', 'bem', '*', 'jj', 'in', 'at', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 59
+['the', 'apartment', 'where', 'we', 'were', 'talking', 'that', 'afternoon','in', 'march', 'faced', 'onto', 'the', 'street', "garibaldi's", 'men', 'had', 'charged', 'up', 'and', 'along', '.']
+Prob: 0.0
+result: []
+=============================
+test data 60
+['across', 'the', 'way', 'from', 'the', 'apartment', 'building', 'is', 'a','ruined', 'house', ',', 'shot', 'to', 'hell', 'that', 'day', 'in', '1849', ',', 'and', 'left', 'that', 'way', 'as', 'a', 'memorial', '.']
+Prob: 0.0
+result: []
+=============================
+test data 61
+['there', 'is', 'a', 'bronze', 'wreath', 'on', 'the', 'wall', '.']
+Prob: 0.0
+result: []
+=============================
+test data 62
+['like', 'everything', 'else', 'in', 'rome', ',', 'ruins', 'and', 'monuments', 'alike', ',', 'that', 'house', 'is', 'lived', 'in', '.']
+Prob: 0.0
+result: []
+=============================
+test data 63
+['i', 'have', 'seen', 'diapers', 'strung', 'across', 'the', 'ruined', 'roof', '.']
+Prob: 0.0
+result: []
+=============================
+test data 64
+['the', 'english', 'lady', 'really', 'wanted', 'to', 'put', 'a', 'wreath', 'on', 'the', 'garibaldi', 'monument', 'on', 'the', '30th', 'of', 'april', '.']
+Prob: 0.0
+result: []
+=============================
+test data 65
+['she', 'had', 'her', 'reasons', 'for', 'this', '.']
+Prob: 2.7803638645441037e-15
+result: ['pps', 'hvd', 'pp$', 'nns', 'in', 'dt', '.']
+accuracy 1.0
+=============================
+test data 66
+['for', 'one', 'thing', ',', 'there', "wasn't", 'going', 'to', 'be', 'any','ceremony', 'at', 'all', 'this', 'year', '.']
+Prob: 0.0
+result: []
+=============================
+test data 67
+['there', 'were', 'a', 'few', 'reasons', 'for', 'that', ',', 'too', ':', 'garibaldi', 'had', 'been', 'taken', 'up', 'and', 'exploited', 'by', 'the', 'communists', 'nowadays', '.']
+Prob: 0.0
+result: []
+=============================
+test data 68
+['therefore', 'the', 'government', 'wanted', 'no', 'part', 'of', 'him', '.']
+Prob: 1.1413997396710174e-21
+result: ['rb', 'at', 'nn', 'vbd', 'at', 'nn', 'in', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 69
+['(', 'it', 'is', 'sort', 'of', 'as', 'if', 'our', 'government', 'should', 'decide', 'to', 'disown', 'washington', 'or', 'lincoln', 'for', 'the', 'same', 'reason', '.']
+Prob: 0.0
+result: []
+=============================
+test data 70
+[')', 'and', 'then', 'there', 'were', 'ecclesiastical', 'matters', ',', 'the', 'matter', 'of', "garibaldi's", 'anti-clericalism', '.']
+Prob: 0.0
+result: []
+=============================
+test data 71
+['there', 'was', 'a', 'new', 'pope', 'and', 'the', 'vatican', 'was', 'making', 'itself', 'heard', 'and', 'felt', 'these', 'days', '.']
+Prob: 5.268757517139904e-41
+result: ['ex', 'bedz', 'at', 'jj-tl', 'nn-tl', 'cc', 'at', 'np', 'bedz', 'vbg', 'ppl', 'vbd', 'cc', 'vbd', 'dts', 'nns', '.']
+accuracy 0.8235294117647058
+=============================
+test data 72
+['as', 'it', 'happens', 'the', 'english', 'lady', 'is', 'a', 'good', 'catholic', 'herself', ',', 'but', 'of', 'more', 'liberal', 'political', 'persuasion', '.']
+Prob: 4.306098788544557e-49
+result: ['cs', 'pps', 'vbz', 'at', 'jj', 'nn', 'bez', 'at', 'jj', 'jj', 'ppl', ',', 'cc', 'in', 'ql', 'jj', 'jj', 'nn', '.']
+accuracy 1.0
+=============================
+test data 73
+['nothing', 'was', 'going', 'to', 'be', 'done', 'this', 'year', 'to', 'celebrate', "garibaldi's", 'bold', 'and', 'unsuccessful', 'defense', 'of', 'rome', '.']
+Prob: 0.0
+result: []
+=============================
+test data 74
+['all', 'that', 'the', 'english', 'lady', 'wanted', 'to', 'do', 'was', 'to', 'walk', 'up', 'to', 'the', 'monument', 'and', 'lay', 'a', 'wreath', 'at', 'its', 'base', '.']
+Prob: 0.0
+result: []
+=============================
+test data 75
+['this', 'would', 'show', 'that', 'somebody', ',', 'even', 'a', 'foreigner', 'living', 'in', 'rome', ',', 'cared', '.']
+Prob: 5.648856803131631e-41
+result: ['dt', 'md', 'vb', 'cs', 'pn', ',', 'rb', 'at', 'nn', 'vbg', 'in', 'np', ',', 'vbd', '.']
+accuracy 1.0
+=============================
+test data 76
+['and', 'then', 'there', 'were', 'other', 'things', '.']
+Prob: 1.7694457525549728e-14
+result: ['cc', 'rb', 'ex', 'bed', 'ap', 'nns', '.']
+accuracy 1.0
+=============================
+test data 77
+['some', 'of', 'the', 'marble', 'busts', 'in', 'the', 'park', 'are', 'of', 'young', 'englishmen', 'who', 'fought', 'and', 'died', 'for', 'garibaldi', '.']
+Prob: 0.0
+result: []
+=============================
+test data 78
+['she', 'also', 'mentioned', 'leaving', 'a', 'little', 'bunch', 'of', 'flowers', 'at', 'the', 'bust', 'of', 'lauro', 'di', 'bosis', '.']
+Prob: 0.0
+result: []
+=============================
+test data 79
+['it', 'is', 'hard', 'for', 'me', 'to', 'know', 'how', 'i', 'feel', 'about', 'lauro', 'di', 'bosis', '.']
+Prob: 0.0
+result: []
+=============================
+test data 80
+['i', 'suffer', 'from', 'mixed', 'feelings', '.']
+Prob: 2.288869302016831e-19
+result: ['ppss', 'vb', 'in', 'vbn', 'nns', '.']
+accuracy 1.0
+=============================
+test data 81
+['he', 'was', 'a', 'well-to-do', ',', 'handsome', ',', 'and', 'sensitive', 'young', 'poet', '.']
+Prob: 0.0
+result: []
+=============================
+test data 82
+['his', 'bust', 'shows', 'an', 'intense', ',', 'mustached', ',', 'fine-featured', 'face', '.']
+Prob: 0.0
+result: []
+=============================
+test data 83
+['he', 'flew', 'over', 'rome', 'one', 'day', 'during', 'the', 'early', 'days', 'of', 'mussolini', 'and', 'scattered', 'leaflets', 'over', 'the', 'city', ',', 'denouncing', 'the', 'fascists', '.']
+Prob: 0.0
+result: []
+=============================
+test data 84
+['he', 'was', 'never', 'heard', 'of', 'again', '.']
+Prob: 6.868909814413196e-15
+result: ['pps', 'bedz', 'rb', 'vbn', 'in', 'rb', '.']
+accuracy 1.0
+=============================
+test data 85
+['he', 'is', 'thought', 'either', 'to', 'have', 'been', 'killed', 'by', 'the', 'fascists', 'as', 'soon', 'as', 'he', 'landed', 'or', 'to', 'have', 'killed', 'himself', 'by', 'flying', 'out', 'to', 'sea', 'and', 'crashing', 'his', 'plane', '.']
+Prob: 0.0
+result: []
+=============================
+test data 86
+['he', 'was', ',', 'thus', ',', 'an', 'early', 'and', 'spectacular', 'victim', '.']
+Prob: 1.7486373641161232e-25
+result: ['pps', 'bedz', ',', 'rb', ',', 'at', 'jj', 'cc', 'jj', 'nn', '.']
+accuracy 1.0
+=============================
+test data 87
+['and', 'there', 'is', 'something', 'so', 'wonderfully', 'romantic', 'about', 'it', 'all', '.']
+Prob: 0.0
+result: []
+=============================
+test data 88
+['he', 'really', "didn't", 'know', 'how', 'to', 'fly', '.']
+Prob: 8.146146462752553e-21
+result: ['pps', 'rb', 'dod*', 'vb', 'wrb', 'to', 'vb', '.']
+accuracy 1.0
+=============================
+test data 89
+['he', 'had', 'crashed', 'on', 'takeoff', 'once', 'before', '.']
+Prob: 0.0
+result: []
+=============================
+test data 90
+['gossip', 'had', 'it', '(', 'for', 'gossip', 'is', 'the', 'soul', 'of', 'rome', ')', 'that', 'a', 'famous', 'american', 'dancer', 'of', 'the', 'time','had', 'paid', 'for', 'both', 'the', 'planes', '.']
+Prob: 3.158677301015941e-70
+result: ['nn', 'hvd', 'ppo', '(', 'in', 'nn', 'bez', 'at', 'nn', 'in', 'np', ')', 'cs', 'at', 'jj', 'jj', 'nn', 'in', 'at', 'nn', 'hvd', 'vbn', 'in', 'abx', 'at', 'nns', '.']
+accuracy 0.9629629629629629
+=============================
+test data 91
+['it', 'was', 'absurd', 'and', 'dramatic', '.']
+Prob: 1.1929940285373898e-14
+result: ['pps', 'bedz', 'jj', 'cc', 'jj', '.']
+accuracy 1.0
+=============================
+test data 92
+['it', 'is', 'remembered', 'and', 'has', 'been', 'commemorated', 'by', 'a','bust', 'in', 'a', 'park', 'and', 'a', 'square', 'in', 'the', 'city', 'which', 'was', 'renamed', 'piazzo', 'lauro', 'di', 'bosis', 'after', 'the', 'war', '.']
+Prob: 0.0
+result: []
+=============================
+test data 93
+['most', 'romans', ',', 'even', 'some', 'postmen', ',', 'know', 'it', 'by','the', 'old', 'name', '.']
+Prob: 0.0
+result: []
+=============================
+test data 94
+['faced', 'with', 'a', 'gesture', 'like', 'di', "bosis'", ',', 'i', 'find','usually', 'that', 'my', 'sentiments', 'are', 'closer', 'to', 'those', 'of', 'my', 'sculptor', 'friend', '.']
+Prob: 0.0
+result: []
+=============================
+test data 95
+['the', 'things', 'that', 'happened', 'in', 'police', 'station', 'basements', 'were', 'dirty', ',', 'grubby', ',', 'and', 'most', 'often', 'anonymous','.']
+Prob: 0.0
+result: []
+=============================
+test data 96
+['no', 'poetry', ',', 'no', 'airplanes', ',', 'no', 'dancers', '.']
+Prob: 9.154612929883448e-25
+result: ['at', 'nn', ',', 'at', 'nns', ',', 'at', 'nns', '.']
+accuracy 1.0
+=============================
+test data 97
+['that', 'is', 'how', 'the', 'real', 'routine', 'of', 'resistance', 'goes','on', ',', 'and', 'its', 'strength', 'is', 'directly', 'proportionate', 'to', 'the', 'number', 'of', 'insignificant', 'people', 'who', 'can', 'let', 'themselves', 'be', 'taken', 'to', 'pieces', ',', 'piece', 'by', 'piece', ',','without', 'quitting', '.']
+Prob: 0.0
+result: []
+=============================
+test data 98
+['it', 'is', 'an', 'ugly', 'business', 'and', 'there', 'are', 'few', ',', 'if', 'any', ',', 'wreaths', 'for', 'them', '.']
+Prob: 0.0
+result: []
+=============================
+test data 99
+['i', 'keep', 'thinking', 'of', 'a', 'young', 'woman', 'i', 'knew', 'during', 'the', 'occupation', 'in', 'austria', '.']
+Prob: 3.027980252425744e-38
+result: ['ppss', 'vb', 'vbg', 'in', 'at', 'jj', 'nn', 'ppss', 'vbd', 'in', 'at', 'nn', 'in', 'np', '.']
+accuracy 0.9333333333333333
+=============================
+test data 100
+['she', 'was', 'from', 'prague', '.']
+Prob: 3.5480465782520663e-12
+result: ['pps', 'bedz', 'in', 'np', '.']
+accuracy 1.0
+=============================
+test data 101
+['she', 'had', 'been', 'picked', 'up', 'by', 'the', 'russians', ',', 'questioned', 'in', 'connection', 'with', 'some', 'pamphlets', ',', 'sentenced', 'to', 'life', 'imprisonment', 'for', 'espionage', '.']
+Prob: 3.197665417050102e-60
+result: ['pps', 'hvd', 'ben', 'vbn', 'rp', 'in', 'at', 'nps', ',', 'vbn', 'in', 'nn', 'in', 'dti', 'nns', ',', 'vbn', 'in', 'nn', 'nn', 'in', 'nn', '.']
+accuracy 1.0
+=============================
+test data 102
+['she', 'escaped', ',', 'crawled', 'through', 'the', 'usual', 'mine', 'fields', ',', 'under', 'barbed', 'wire', ',', 'was', 'shot', 'at', ',', 'swam', 'a', 'river', ',', 'and', 'we', 'finally', 'picked', 'her', 'up', 'in', 'linz', '.']
+Prob: 0.0
+result: []
+=============================
+test data 103
+['she', 'showed', 'us', 'what', 'had', 'happened', 'to', 'her', '.']
+Prob: 3.366145317727478e-20
+result: ['pps', 'vbd', 'ppo', 'wdt', 'hvd', 'vbn', 'in', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 104
+['no', 'airplanes', ',', 'no', 'nathan', 'hale', 'statements', '.']
+Prob: 0.0
+result: []
+=============================
+test data 105
+['just', 'no', 'spot', ',', 'not', 'even', 'a', 'dimesize', 'spot', ',', 'on', 'her', 'whole', 'body', 'that', "wasn't", 'bruised', ',', 'bruise', 'on', 'top', 'of', 'bruise', ',', 'from', 'beatings', '.']
+Prob: 0.0
+result: []
+=============================
+test data 106
+['i', 'understand', 'very', 'well', 'about', 'lauro', 'di', 'bosis', 'and','how', 'his', 'action', 'is', 'symbolic', '.']
+Prob: 0.0
+result: []
+=============================
+test data 107
+['the', 'trouble', 'is', 'that', 'like', 'many', 'symbols', 'it', "doesn't", 'seem', 'a', 'very', 'realistic', 'one', '.']
+Prob: 2.5623238669238664e-38
+result: ['at', 'nn', 'bez', 'cs', 'cs', 'ap', 'nns', 'pps', 'doz*', 'vb', 'at', 'ql', 'jj', 'cd', '.']
+accuracy 1.0
+=============================
+test data 108
+['the', 'english', 'lady', 'wanted', 'to', 'pay', 'tribute', 'to', 'garibaldi', 'and', 'to', 'lauro', 'di', 'bosis', ',', 'but', 'she', "wasn't", 'going', 'to', 'be', 'here', 'to', 'do', 'it', '.']
+Prob: 0.0
+result: []
+=============================
+test data 109
+['were', 'any', 'of', 'us', 'interested', 'enough', 'in', 'the', 'idea', 'to', 'do', 'it', 'for', 'her', ',', 'by', 'proxy', 'so', 'to', 'speak', '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 110
+['there', 'was', 'a', 'pretty', 'thorough', 'silence', 'at', 'that', 'point', '.']
+Prob: 2.1488643073330303e-24
+result: ['ex', 'bedz', 'at', 'ql', 'jj', 'nn', 'in', 'dt', 'nn', '.']
+accuracy 1.0
+=============================
+test data 111
+['my', 'spoon', 'stirring', 'coffee', ',', 'banging', 'against', 'the', 'side', 'of', 'the', 'cup', ',', 'sounded', 'as', 'loud', 'as', 'a', 'bell', '.']
+Prob: 0.0
+result: []
+=============================
+test data 112
+['i', 'thought', ':', 'what', 'the', 'hell', '?', '?']
+Prob: 5.9317720569083025e-18
+result: ['ppss', 'vbd', ':', 'wdt', 'at', 'nn', '.', '.']
+accuracy 1.0
+=============================
+test data 113
+['why', 'not', '?', '?']
+Prob: 2.7599028931128983e-10
+result: ['wrb', '*', '.', '.']
+accuracy 1.0
+=============================
+test data 114
+['i', 'said', 'i', 'would', 'do', 'it', 'for', 'her', '.']
+Prob: 1.6348269927650226e-17
+result: ['ppss', 'vbd', 'ppss', 'md', 'do', 'ppo', 'in', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 115
+['i', 'had', 'some', 'reasons', ',', 'too', '.']
+Prob: 4.370406206029209e-16
+result: ['ppss', 'hvd', 'dti', 'nns', ',', 'rb', '.']
+accuracy 1.0
+=============================
+test data 116
+['i', 'admire', 'the', 'english', 'lady', '.']
+Prob: 1.6347042735750915e-15
+result: ['ppss', 'vb', 'at', 'jj', 'nn', '.']
+accuracy 1.0
+=============================
+test data 117
+['i', 'hate', 'embarrassing', 'silences', 'and', 'have', 'been', 'known', 'to', 'make', 'a', 'fool', 'out', 'of', 'myself', 'just', 'to', 'prevent', 'one', '.']
+Prob: 8.735413631206392e-52
+result: ['ppss', 'vb', 'vbg', 'nns', 'cc', 'hv', 'ben', 'vbn', 'to', 'vb', 'at', 'nn', 'rp', 'in', 'ppl', 'rb', 'to', 'vb', 'cd', '.']
+accuracy 0.95
+=============================
+test data 118
+['i', 'also', 'had', 'and', 'have', 'feelings', 'about', 'garibaldi', '.']
+Prob: 0.0
+result: []
+=============================
+test data 119
+['like', 'every', 'southerner', 'i', "can't", 'escape', 'the', 'romantic', 'tradition', 'of', 'brave', 'defeats', ',', 'forlorn', 'lost', 'causes', '.']
+Prob: 0.0
+result: []
+=============================
+test data 120
+['though', "garibaldi's", 'fight', 'was', 'small', 'shakes', 'compared', 'to', "pickett's", 'charge', '--', 'which', ',', 'like', 'all', 'southerners',',', 'i', 'view', 'in', 'almost', 'miltonic', 'terms', ',', 'fallen', 'angels', ',', 'etc.', '--', 'i', 'associated', 'the', 'two', '.']
+Prob: 0.0
+result: []
+=============================
+test data 121
+['and', 'to', 'top', 'it', 'all', 'i', 'am', 'often', 'sentimental', 'on', 'purpose', ',', 'trying', 'to', 'prove', 'to', 'myself', 'that', 'i', 'am', 'not', 'afraid', 'of', 'sentiment', '.']
+Prob: 2.247343587789746e-62
+result: ['cc', 'to', 'vb', 'ppo', 'abn', 'ppss', 'bem', 'rb', 'jj', 'in', 'nn', ',', 'vbg', 'to', 'vb', 'in', 'ppl', 'cs', 'ppss', 'bem', '*', 'jj', 'in', 'nn', '.']
+accuracy 1.0
+=============================
+test data 122
+['so', 'much', 'for', 'all', 'that', '.']
+Prob: 3.6054753437759046e-14
+result: ['ql', 'ap', 'in', 'abn', 'dt', '.']
+accuracy 1.0
+=============================
+test data 123
+['the', 'english', 'lady', 'was', 'pleased', 'and', 'enthusiastic', '.']
+Prob: 1.3508381202626627e-21
+result: ['at', 'jj', 'nn', 'bedz', 'vbn', 'cc', 'jj', '.']
+accuracy 1.0
+=============================
+test data 124
+['she', 'gave', 'me', 'the', 'names', 'of', 'some', 'people', 'who', 'would', 'surely', 'help', 'pay', 'for', 'the', 'flowers', 'and', 'might', 'even','march', 'up', 'to', 'the', 'monument', 'with', 'me', '.']
+Prob: 3.0834055221122e-67
+result: ['pps', 'vbd', 'ppo', 'at', 'nns', 'in', 'dti', 'nns', 'wps', 'md','rb', 'vb', 'nn', 'in', 'at', 'nns', 'cc', 'md', 'rb', 'vb', 'rp', 'in', 'at', 'nn', 'in', 'ppo', '.']
+accuracy 0.9629629629629629
+=============================
+test data 125
+['the', 'idea', 'of', 'the', 'march', 'pleased', 'her', '.']
+Prob: 1.7350684991562591e-19
+result: ['at', 'nn', 'in', 'at', 'nn', 'vbn', 'ppo', '.']
+accuracy 0.875
+=============================
+test data 126
+['maybe', 'twenty', ',', 'thirty', ',', 'fifty', '.']
+Prob: 4.8380202897242375e-19
+result: ['rb', 'cd', ',', 'cd', ',', 'cd', '.']
+accuracy 1.0
+=============================
+test data 127
+['maybe', 'i', 'could', 'call', 'rimanelli', 'at', 'the', 'magazine', 'rottosei', 'where', 'he', 'worked', '.']
+Prob: 0.0
+result: []
+=============================
+Total test time: 299.39981865882874 s
+Total accuracy: 0.9438502673796791
+Total null: 72

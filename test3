@@ -1,0 +1,1219 @@
+Test file list: ['ck24']
+1 files total
+Test data count: 220
+test data 0
+['his', 'eyes', 'were', 'old', 'and', 'they', 'never', 'saw', 'well', ',', 'but', 'heated', 'with', 'whisky', "they'd", 'glare', 'at', 'my', 'noise', ',', 'growing', 'red', 'and', 'raising', 'up', 'his', 'rage', '.']
+Prob: 0.0
+result: []
+=============================
+test data 1
+['i', 'decided', 'i', 'hated', 'the', 'pedersen', 'kid', 'too', ',', 'dying', 'in', 'our', 'kitchen', 'while', 'i', 'was', 'away', 'where', 'i', "couldn't", 'watch', ',', 'dying', 'just', 'to', 'entertain', 'hans', 'and', 'making', 'me', 'go', 'up', 'snapping', 'steps', 'and', 'down', 'a', 'drafty', 'hall', ',', 'pa', 'lumped', 'under', 'the', 'covers', 'at', 'the', 'end', 'like', 'dung', 'covered', 'with', 'snow', ',', 'snoring', 'and', 'whistling', '.']
+Prob: 0.0
+result: []
+=============================
+test data 2
+['oh', "he'd", 'not', 'care', 'about', 'the', 'pedersen', 'kid', '.']
+Prob: 0.0
+result: []
+=============================
+test data 3
+["he'd", 'not', 'care', 'about', 'getting', 'waked', 'so', 'he', 'could', 'give', 'up', 'some', 'of', 'his', 'whisky', 'to', 'a', 'slit', 'of', 'a', 'kid', 'and', 'maybe', 'lose', 'one', 'of', 'his', 'hiding', 'places', 'in', 'the', 'bargain', '.']
+Prob: 0.0
+result: []
+=============================
+test data 4
+['that', 'would', 'make', 'him', 'mad', 'enough', 'if', 'he', 'was', 'sober', '.']
+Prob: 2.594147458892349e-26
+result: ['dt', 'md', 'vb', 'ppo', 'jj', 'qlp', 'cs', 'pps', 'bedz', 'jj', '.']
+accuracy 1.0
+=============================
+test data 5
+['i', "didn't", 'hurry', 'though', 'it', 'was', 'cold', 'and', 'the', 'pedersen', 'kid', 'was', 'in', 'the', 'kitchen', '.']
+Prob: 0.0
+result: []
+=============================
+test data 6
+['he', 'was', 'all', 'shoveled', 'up', 'like', 'i', 'thought', "he'd", 'be', '.']
+Prob: 0.0
+result: []
+=============================
+test data 7
+['i', 'pushed', 'at', 'his', 'shoulder', ',', 'calling', 'his', 'name', '.']
+Prob: 7.27929122792553e-25
+result: ['ppss', 'vbd', 'in', 'pp$', 'nn', ',', 'vbg', 'pp$', 'nn', '.']
+accuracy 1.0
+=============================
+test data 8
+['i', 'think', 'his', 'name', 'stopped', 'the', 'snoring', 'but', 'he', "didn't", 'move', 'except', 'to', 'roll', 'a', 'little', 'when', 'i', 'shoved','him', '.']
+Prob: 3.3735918742985465e-54
+result: ['ppss', 'vb', 'pp$', 'nn', 'vbd', 'at', 'nn', 'cc', 'pps', 'dod*','vb', 'rb', 'to', 'vb', 'at', 'jj', 'wrb', 'ppss', 'vbd', 'ppo', '.']
+accuracy 0.9047619047619048
+=============================
+test data 9
+['the', 'covers', 'slid', 'down', 'his', 'skinny', 'neck', 'so', 'i', 'saw', 'his', 'head', ',', 'fuzzed', 'like', 'a', 'dandelion', 'gone', 'to', 'seed', ',', 'but', 'his', 'face', 'was', 'turned', 'to', 'the', 'wall', '--', 'there', 'was', 'the', 'pale', 'shadow', 'of', 'his', 'nose', 'on', 'the', 'plaster', '--', 'and', 'i', 'thought', ',', 'well', 'you', "don't", 'look', 'much', 'like', 'a', 'pig-drunk', 'bully', 'now', '.']
+Prob: 0.0
+result: []
+=============================
+test data 10
+['i', "couldn't", 'be', 'sure', 'he', 'was', 'still', 'asleep', '.']
+Prob: 9.55133002047726e-21
+result: ['ppss', 'md*', 'be', 'rb', 'pps', 'bedz', 'rb', 'rb', '.']
+accuracy 0.8888888888888888
+=============================
+test data 11
+['he', 'was', 'a', 'cagey', 'sonofabitch', '.']
+Prob: 0.0
+result: []
+=============================
+test data 12
+['i', 'shook', 'him', 'a', 'little', 'harder', 'and', 'made', 'some', 'noise', '.']
+Prob: 1.7401574936005904e-29
+result: ['ppss', 'vbd', 'ppo', 'at', 'ql', 'jjr', 'cc', 'vbd', 'dti', 'nn','.']
+accuracy 0.9090909090909091
+=============================
+test data 13
+['``', 'pap-pap-pap-hey', "''", ',', 'i', 'said', '.']
+Prob: 0.0
+result: []
+=============================
+test data 14
+['i', 'was', 'leaning', 'too', 'far', 'over', '.']
+Prob: 3.3706003162725215e-19
+result: ['ppss', 'bedz', 'vbg', 'ql', 'rb', 'rp', '.']
+accuracy 1.0
+=============================
+test data 15
+['i', 'knew', 'better', '.']
+Prob: 1.8112162128995188e-09
+result: ['ppss', 'vbd', 'rbr', '.']
+accuracy 1.0
+=============================
+test data 16
+['he', 'always', 'slept', 'close', 'to', 'the', 'wall', 'so', 'you', 'had','to', 'lean', 'to', 'reach', 'him', '.']
+Prob: 2.3702557350587135e-40
+result: ['pps', 'rb', 'vbd', 'rb', 'in', 'at', 'nn', 'cs', 'ppss', 'hvd', 'in', 'jj', 'to', 'vb', 'ppo', '.']
+accuracy 0.875
+=============================
+test data 17
+['oh', 'he', 'was', 'smart', '.']
+Prob: 0.0
+result: []
+=============================
+test data 18
+['it', 'put', 'you', 'off', '.']
+Prob: 4.2282651870310547e-11
+result: ['pps', 'vbd', 'ppo', 'rp', '.']
+accuracy 1.0
+=============================
+test data 19
+['i', 'knew', 'better', 'but', 'i', 'was', 'thinking', 'of', 'the', 'pedersen', 'kid', 'mother-naked', 'in', 'all', 'that', 'dough', '.']
+Prob: 0.0
+result: []
+=============================
+test data 20
+['when', 'his', 'arm', 'came', 'up', 'i', 'ducked', 'away', 'but', 'it', 'caught', 'me', 'on', 'the', 'side', 'of', 'the', 'neck', ',', 'watering', 'my', 'eyes', ',', 'and', 'i', 'backed', 'off', 'to', 'cough', '.']
+Prob: 0.0
+result: []
+=============================
+test data 21
+['pa', 'was', 'on', 'his', 'side', ',', 'looking', 'at', 'me', ',', 'his', 'eyes', 'winking', ',', 'the', 'hand', 'that', 'had', 'hit', 'me', 'a', 'fist', 'in', 'the', 'pillow', '.']
+Prob: 0.0
+result: []
+=============================
+test data 22
+['``', 'get', 'the', 'hell', 'out', 'of', 'here', "''", '.']
+Prob: 1.0061364794529915e-19
+result: ['``', 'vb', 'at', 'nn', 'rp', 'in', 'rb', "''", '.']
+accuracy 0.8888888888888888
+=============================
+test data 23
+['i', "didn't", 'say', 'anything', ',', 'trying', 'to', 'get', 'my', 'throat', 'clear', ',', 'but', 'i', 'watched', 'him', '.']
+Prob: 9.141795955758787e-41
+result: ['ppss', 'dod*', 'vb', 'pn', ',', 'vbg', 'to', 'vb', 'pp$', 'nn', 'jj', ',', 'cc', 'ppss', 'vbd', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 24
+['he', 'was', 'like', 'a', 'mean', 'horse', 'to', 'come', 'at', 'from', 'the', 'rear', '.']
+Prob: 1.2091990502232832e-29
+result: ['pps', 'bedz', 'cs', 'at', 'jj', 'nn', 'to', 'vb', 'in', 'in', 'at', 'jj', '.']
+accuracy 0.9230769230769231
+=============================
+test data 25
+['it', 'was', 'better', ',', 'though', ',', "he'd", 'hit', 'me', '.']
+Prob: 3.302089289733862e-22
+result: ['pps', 'bedz', 'rbr', ',', 'cs', ',', 'pps+md', 'vb', 'ppo', '.']
+accuracy 0.9
+=============================
+test data 26
+['he', 'was', 'bitter', 'when', 'he', 'missed', '.']
+Prob: 9.926709971387775e-17
+result: ['pps', 'bedz', 'jj', 'wrb', 'pps', 'vbd', '.']
+accuracy 1.0
+=============================
+test data 27
+['``', 'get', 'the', 'hell', 'out', 'of', 'here', "''", '.']
+Prob: 1.0061364794529915e-19
+result: ['``', 'vb', 'at', 'nn', 'rp', 'in', 'rb', "''", '.']
+accuracy 0.8888888888888888
+=============================
+test data 28
+['``', 'big', 'hans', 'sent', 'me', '.']
+Prob: 0.0
+result: []
+=============================
+test data 29
+['he', 'told', 'me', 'to', 'wake', 'you', "''", '.']
+Prob: 1.539131300706682e-15
+result: ['pps', 'vbd', 'ppo', 'to', 'vb', 'ppo', "''", '.']
+accuracy 1.0
+=============================
+test data 30
+['``', 'a', 'fat', 'hell', 'on', 'big', 'hans', '.']
+Prob: 0.0
+result: []
+=============================
+test data 31
+['get', 'out', 'of', 'here', "''", '.']
+Prob: 6.294106325018664e-13
+result: ['vb', 'rp', 'in', 'rb', "''", '.']
+accuracy 0.8333333333333334
+=============================
+test data 32
+['``', 'he', 'found', 'the', 'pedersen', 'kid', 'by', 'the', 'crib', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 33
+['``', 'get', 'the', 'hell', 'out', "''", '.']
+Prob: 6.0290294475224815e-15
+result: ['``', 'vb', 'at', 'nn', 'rp', "''", '.']
+accuracy 1.0
+=============================
+test data 34
+['pa', 'pulled', 'at', 'the', 'covers', '.']
+Prob: 0.0
+result: []
+=============================
+test data 35
+['he', 'was', 'tasting', 'his', 'mouth', '.']
+Prob: 0.0
+result: []
+=============================
+test data 36
+['``', 'the', "kid's", 'froze', 'good', '.']
+Prob: 0.0
+result: []
+=============================
+test data 37
+['hans', 'is', 'rubbing', 'him', 'with', 'snow', '.']
+Prob: 0.0
+result: []
+=============================
+test data 38
+["he's", 'got', 'him', 'in', 'the', 'kitchen', "''", '.']
+Prob: 1.2300832324904548e-17
+result: ['pps+hvz', 'vbn', 'ppo', 'in', 'at', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 39
+['``', 'pedersen', "''", '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 40
+['``', 'no', ',', 'pa', '.']
+Prob: 0.0
+result: []
+=============================
+test data 41
+["it's", 'the', 'pedersen', 'kid', '.']
+Prob: 0.0
+result: []
+=============================
+test data 42
+['the', 'kid', "''", '.']
+Prob: 1.0380372383141299e-07
+result: ['at', 'nn', "''", '.']
+accuracy 1.0
+=============================
+test data 43
+['``', 'nothing', 'to', 'steal', 'from', 'the', 'crib', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 44
+['``', 'not', 'stealing', ',', 'pa', '.']
+Prob: 0.0
+result: []
+=============================
+test data 45
+['he', 'was', 'just', 'lying', 'there', '.']
+Prob: 4.134331924201561e-14
+result: ['pps', 'bedz', 'rb', 'vbg', 'rb', '.']
+accuracy 1.0
+=============================
+test data 46
+['hans', 'found', 'him', 'froze', '.']
+Prob: 0.0
+result: []
+=============================
+test data 47
+["that's", 'where', 'he', 'was', 'when', 'hans', 'found', 'him', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 48
+['pa', 'laughed', '.']
+Prob: 0.0
+result: []
+=============================
+test data 49
+['``', 'i', "ain't", 'hid', 'nothing', 'in', 'the', 'crib', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 50
+['``', 'you', "don't", 'understand', ',', 'pa', '.']
+Prob: 0.0
+result: []
+=============================
+test data 51
+['the', 'pedersen', 'kid', '.']
+Prob: 0.0
+result: []
+=============================
+test data 52
+['the', 'kid', "''", '--']
+Prob: 3.732832736532872e-09
+result: ['at', 'nn', "''", '--']
+accuracy 1.0
+=============================
+test data 53
+['``', 'i', 'goddamn', 'well', 'understand', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 54
+['pa', 'had', 'his', 'head', 'up', ',', 'glaring', ',', 'his', 'teeth', 'gnawing', 'at', 'the', 'place', 'where', "he'd", 'grown', 'a', 'mustache', 'once', '.']
+Prob: 0.0
+result: []
+=============================
+test data 55
+['``', 'i', 'goddamn', 'well', 'understand', '.']
+Prob: 0.0
+result: []
+=============================
+test data 56
+['you', 'know', 'i', "don't", 'want', 'to', 'see', 'pedersen', '.']
+Prob: 0.0
+result: []
+=============================
+test data 57
+['that', 'cock', '.']
+Prob: 1.5423986536809104e-08
+result: ['dt', 'nn', '.']
+accuracy 1.0
+=============================
+test data 58
+['why', 'should', 'i', '?', '?']
+Prob: 2.818001336080454e-14
+result: ['wrb', 'md', 'ppss', '.', '.']
+accuracy 1.0
+=============================
+test data 59
+['what', 'did', 'he', 'come', 'for', ',', 'hey', '?', '?']
+Prob: 7.894461306594393e-24
+result: ['wdt', 'dod', 'pps', 'vb', 'in', ',', 'uh', '.', '.']
+accuracy 1.0
+=============================
+test data 60
+['god', 'dammit', ',', 'get', '.']
+Prob: 0.0
+result: []
+=============================
+test data 61
+['and', "don't", 'come', 'back', '.']
+Prob: 8.094887230205848e-12
+result: ['cc', 'do*', 'vb', 'rb', '.']
+accuracy 1.0
+=============================
+test data 62
+['find', 'out', 'something', '.']
+Prob: 5.483632443674311e-11
+result: ['vb', 'rp', 'pn', '.']
+accuracy 1.0
+=============================
+test data 63
+["you're", 'a', 'fool', '.']
+Prob: 2.0644782692556425e-11
+result: ['ppss+ber', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 64
+['both', 'you', 'and', 'hans', '.']
+Prob: 0.0
+result: []
+=============================
+test data 65
+['pedersen', '.']
+Prob: 0.0
+result: []
+=============================
+test data 66
+['that', 'cock', '.']
+Prob: 1.5423986536809104e-08
+result: ['dt', 'nn', '.']
+accuracy 1.0
+=============================
+test data 67
+["don't", 'come', 'back', '.']
+Prob: 6.12368191571088e-10
+result: ['do*', 'vb', 'rb', '.']
+accuracy 1.0
+=============================
+test data 68
+['out', '.']
+Prob: 8.072323907970022e-06
+result: ['rp', '.']
+accuracy 1.0
+=============================
+test data 69
+['out', "''", '.']
+Prob: 8.060385745445625e-07
+result: ['rp', "''", '.']
+accuracy 1.0
+=============================
+test data 70
+['he', 'was', 'shouting', 'and', 'breathing', 'hard', 'and', 'closing', 'his', 'fist', 'on', 'the', 'pillow', '.']
+Prob: 0.0
+result: []
+=============================
+test data 71
+['he', 'had', 'long', 'black', 'hairs', 'on', 'his', 'wrist', '.']
+Prob: 7.065780926349584e-24
+result: ['pps', 'hvd', 'rb', 'jj', 'nns', 'in', 'pp$', 'nn', '.']
+accuracy 0.8888888888888888
+=============================
+test data 72
+['they', 'curled', 'around', 'the', 'cuff', 'of', 'his', 'nightshirt', '.']
+Prob: 0.0
+result: []
+=============================
+test data 73
+['``', 'big', 'hans', 'made', 'me', 'come', '.']
+Prob: 0.0
+result: []
+=============================
+test data 74
+['big', 'hans', 'said', "''", '--']
+Prob: 0.0
+result: []
+=============================
+test data 75
+['``', 'a', 'fat', 'hell', 'on', 'big', 'hans', '.']
+Prob: 0.0
+result: []
+=============================
+test data 76
+["he's", 'an', 'even', 'bigger', 'fool', 'than', 'you', 'are', '.']
+Prob: 3.465593177270351e-26
+result: ['pps+bez', 'at', 'ql', 'jjr', 'nn', 'cs', 'ppss', 'ber', '.']
+accuracy 1.0
+=============================
+test data 77
+['fat', ',', 'hey', '?', '?']
+Prob: 9.071479226138655e-15
+result: ['jj', ',', 'uh', '.', '.']
+accuracy 1.0
+=============================
+test data 78
+['i', 'taught', 'him', ',', 'dammit', ',', 'and', "i'll", 'teach', 'you', '.']
+Prob: 0.0
+result: []
+=============================
+test data 79
+['out', '.']
+Prob: 8.072323907970022e-06
+result: ['rp', '.']
+accuracy 1.0
+=============================
+test data 80
+['you', 'want', 'me', 'to', 'drop', 'my', 'pot', "''", '?', '?']
+Prob: 5.984910523001289e-23
+result: ['ppss', 'vb', 'ppo', 'to', 'vb', 'pp$', 'nn', "''", '.', '.']
+accuracy 1.0
+=============================
+test data 81
+['he', 'was', 'about', 'to', 'get', 'up', 'so', 'i', 'got', 'out', ',', 'slamming', 'the', 'door', '.']
+Prob: 0.0
+result: []
+=============================
+test data 82
+['he', 'was', 'beginning', 'to', 'see', 'he', 'was', 'too', 'mad', 'to', 'sleep', '.']
+Prob: 3.5253731479708825e-25
+result: ['pps', 'bedz', 'vbg', 'to', 'vb', 'pps', 'bedz', 'ql', 'jj', 'to','vb', '.']
+accuracy 1.0
+=============================
+test data 83
+['then', 'he', 'threw', 'things', '.']
+Prob: 1.671685331981552e-13
+result: ['rb', 'pps', 'vbd', 'nns', '.']
+accuracy 1.0
+=============================
+test data 84
+['once', 'he', 'went', 'after', 'hans', 'and', 'dumped', 'his', 'pot', 'over', 'the', 'banister', '.']
+Prob: 0.0
+result: []
+=============================
+test data 85
+["pa'd", 'been', 'shit-sick', 'in', 'that', 'pot', '.']
+Prob: 0.0
+result: []
+=============================
+test data 86
+['hans', 'got', 'an', 'axe', '.']
+Prob: 0.0
+result: []
+=============================
+test data 87
+['he', "didn't", 'even', 'bother', 'to', 'wipe', 'himself', 'off', 'and', 'he', 'chopped', 'part', 'of', "pa's", 'door', 'down', 'before', 'he', 'stopped', '.']
+Prob: 0.0
+result: []
+=============================
+test data 88
+['he', 'might', 'not', 'have', 'gone', 'that', 'far', 'if', 'pa', "hadn't",'been', 'locked', 'in', 'laughing', 'fit', 'to', 'shake', 'the', 'house', '.']
+Prob: 0.0
+result: []
+=============================
+test data 89
+['that', 'pot', 'put', 'pa', 'in', 'an', 'awful', 'good', 'humor', 'whenever', 'he', 'thought', 'of', 'it', '.']
+Prob: 0.0
+result: []
+=============================
+test data 90
+['i', 'always', 'felt', 'the', 'memory', 'was', 'present', 'in', 'both', 'of', 'them', ',', 'stirring', 'in', 'their', 'chests', 'like', 'a', 'laugh', 'or', 'a', 'growl', ',', 'as', 'eager', 'as', 'an', 'animal', 'to', 'be', 'out', '.']
+Prob: 0.0
+result: []
+=============================
+test data 91
+['i', 'heard', 'pa', 'cursing', 'all', 'the', 'way', 'downstairs', '.']
+Prob: 0.0
+result: []
+=============================
+test data 92
+['hans', 'had', 'laid', 'steaming', 'towels', 'over', 'the', "kid's", 'chest', 'and', 'stomach', '.']
+Prob: 0.0
+result: []
+=============================
+test data 93
+['he', 'was', 'rubbing', 'snow', 'on', 'the', "kid's", 'legs', 'and', 'feet', '.']
+Prob: 1.7020240685275277e-28
+result: ['pps', 'bedz', 'vbg', 'nn', 'in', 'at', 'nn$', 'nns', 'cc', 'nns','.']
+accuracy 1.0
+=============================
+test data 94
+['water', 'from', 'the', 'snow', 'and', 'water', 'from', 'the', 'towels', 'had', 'run', 'off', 'the', 'kid', 'to', 'the', 'table', 'where', 'the', 'dough', 'was', ',', 'and', 'the', 'dough', 'was', 'turning', 'pasty', ',', 'sticking', 'to', 'the', "kid's", 'back', 'and', 'behind', '.']
+Prob: 0.0
+result: []
+=============================
+test data 95
+['``', "ain't", 'he', 'going', 'to', 'wake', 'up', "''", '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 96
+['``', 'what', 'about', 'your', 'pa', "''", '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 97
+['``', 'he', 'was', 'awake', 'when', 'i', 'left', "''", '.']
+Prob: 6.02267282028838e-19
+result: ['``', 'pps', 'bedz', 'rb', 'wrb', 'ppss', 'vbd', "''", '.']
+accuracy 0.8888888888888888
+=============================
+test data 98
+['``', "what'd", 'he', 'say', '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 99
+['did', 'you', 'get', 'the', 'whisky', "''", '?', '?']
+Prob: 2.2053748561088078e-18
+result: ['dod', 'ppss', 'vb', 'at', 'nn', "''", '.', '.']
+accuracy 0.875
+=============================
+test data 100
+['``', 'he', 'said', 'a', 'fat', 'hell', 'on', 'big', 'hans', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 101
+['``', "don't", 'be', 'smart', '.']
+Prob: 0.0
+result: []
+=============================
+test data 102
+['did', 'you', 'ask', 'him', 'about', 'the', 'whisky', "''", '?', '?']
+Prob: 2.83772795957153e-23
+result: ['dod', 'ppss', 'vb', 'ppo', 'in', 'at', 'nn', "''", '.', '.']
+accuracy 0.9
+=============================
+test data 103
+['``', 'yeah', "''", '.']
+Prob: 3.4235220524879533e-09
+result: ['``', 'rb', "''", '.']
+accuracy 1.0
+=============================
+test data 104
+['``', 'well', "''", '?', '?']
+Prob: 3.238643615526048e-07
+result: ['``', 'uh', "''", '.', '.']
+accuracy 1.0
+=============================
+test data 105
+['``', 'he', 'said', 'a', 'fat', 'hell', 'on', 'big', 'hans', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 106
+['``', "don't", 'be', 'smart', '.']
+Prob: 0.0
+result: []
+=============================
+test data 107
+["what's", 'he', 'going', 'to', 'do', "''", '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 108
+['``', 'go', 'back', 'to', 'sleep', 'most', 'likely', "''", '.']
+Prob: 3.050614930528817e-21
+result: ['``', 'vb', 'rb', 'to', 'vb', 'ql', 'jj', "''", '.']
+accuracy 0.8888888888888888
+=============================
+test data 109
+['``', "you'd", 'best', 'get', 'that', 'whisky', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 110
+['``', 'you', 'go', '.']
+Prob: 2.0696777640886713e-07
+result: ['``', 'ppss', 'vb', '.']
+accuracy 1.0
+=============================
+test data 111
+['take', 'the', 'axe', '.']
+Prob: 1.4017689778535207e-10
+result: ['vb', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 112
+["pa's", 'scared', 'to', 'hell', 'of', 'axes', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 113
+['``', 'listen', 'to', 'me', ',', 'jorge', ',', "i've", 'had', 'enough', 'to', 'your', 'sassing', '.']
+Prob: 0.0
+result: []
+=============================
+test data 114
+['this', "kid's", 'froze', 'bad', '.']
+Prob: 0.0
+result: []
+=============================
+test data 115
+['if', 'i', "don't", 'get', 'some', 'whisky', 'down', 'him', 'he', 'might','die', '.']
+Prob: 6.58629713781125e-30
+result: ['cs', 'ppss', 'do*', 'vb', 'dti', 'nn', 'in', 'ppo', 'pps', 'md', 'vb', '.']
+accuracy 1.0
+=============================
+test data 116
+['you', 'want', 'the', 'kid', 'to', 'die', '?', '?']
+Prob: 9.382402753201085e-19
+result: ['ppss', 'vb', 'at', 'nn', 'to', 'vb', '.', '.']
+accuracy 1.0
+=============================
+test data 117
+['do', 'you', '?', '?']
+Prob: 1.1592580215212207e-08
+result: ['do', 'ppo', '.', '.']
+accuracy 1.0
+=============================
+test data 118
+['well', ',', 'get', 'your', 'pa', 'and', 'get', 'that', 'whisky', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 119
+['``', 'pa', "don't", 'care', 'about', 'the', 'kid', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 120
+['``', 'jorge', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 121
+['``', 'well', 'he', "don't", '.']
+Prob: 1.3293442710119017e-12
+result: ['``', 'rb', 'pps', 'do*', '.']
+accuracy 0.8
+=============================
+test data 122
+['he', "don't", 'care', 'at', 'all', ',', 'and', 'i', "don't", 'care', 'to', 'get', 'my', 'head', 'busted', 'neither', '.']
+Prob: 6.114650685316261e-44
+result: ['pps', 'do*', 'vb', 'in', 'abn', ',', 'cc', 'ppss', 'do*', 'vb', 'to', 'vb', 'pp$', 'nn', 'vbn', 'cc', '.']
+accuracy 0.9411764705882353
+=============================
+test data 123
+['he', "don't", 'care', ',', 'and', 'i', "don't", 'care', 'to', 'have', 'his', 'shit', 'flung', 'on', 'me', '.']
+Prob: 0.0
+result: []
+=============================
+test data 124
+['he', "don't", 'care', 'about', 'anybody', '.']
+Prob: 5.83960226021563e-17
+result: ['pps', 'do*', 'vb', 'in', 'pn', '.']
+accuracy 1.0
+=============================
+test data 125
+['all', 'he', 'cares', 'about', 'is', 'his', 'whisky', 'and', 'that', 'dry', 'crack', 'in', 'his', 'face', '.']
+Prob: 6.118218342939244e-41
+result: ['abn', 'pps', 'vbz', 'rb', 'bez', 'pp$', 'nn', 'cc', 'dt', 'jj', 'nn', 'in', 'pp$', 'nn', '.']
+accuracy 0.9333333333333333
+=============================
+test data 126
+['get', 'pig-drunk', '--', "that's", 'what', 'he', 'wants', '.']
+Prob: 0.0
+result: []
+=============================
+test data 127
+['he', "don't", 'care', 'about', 'nothing', 'else', 'at', 'all', '.']
+Prob: 1.2087643245593527e-23
+result: ['pps', 'do*', 'vb', 'in', 'pn', 'rb', 'in', 'abn', '.']
+accuracy 1.0
+=============================
+test data 128
+['nothing', '.']
+Prob: 4.064539294929353e-05
+result: ['pn', '.']
+accuracy 1.0
+=============================
+test data 129
+['not', "pedersen's", 'kid', 'neither', '.']
+Prob: 0.0
+result: []
+=============================
+test data 130
+['that', 'cock', '.']
+Prob: 1.5423986536809104e-08
+result: ['dt', 'nn', '.']
+accuracy 1.0
+=============================
+test data 131
+['not', 'the', 'kid', 'neither', "''", '.']
+Prob: 3.9326695891530953e-16
+result: ['*', 'at', 'nn', 'cc', "''", '.']
+accuracy 0.8333333333333334
+=============================
+test data 132
+['``', "i'll", 'get', 'the', 'spirits', "''", ',', 'ma', 'said', '.']
+Prob: 4.105699514145236e-23
+result: ['``', 'ppss+md', 'vb', 'at', 'nns', "''", ',', 'nn-tl', 'vbd', '.']
+accuracy 1.0
+=============================
+test data 133
+["i'd", 'wound', 'big', 'hans', 'up', 'tight', '.']
+Prob: 0.0
+result: []
+=============================
+test data 134
+['i', 'was', 'ready', 'to', 'jump', 'but', 'when', 'ma', 'said', "she'd", 'get', 'the', 'whisky', 'it', 'surprised', 'him', 'like', 'it', 'surprised', 'me', ',', 'and', 'he', 'ran', 'down', '.']
+Prob: 3.212026509147914e-66
+result: ['ppss', 'bedz', 'jj', 'to', 'vb', 'cc', 'wrb', 'nn-tl', 'vbd', 'pps+md', 'vb', 'at', 'nn', 'pps', 'vbd', 'ppo', 'cs', 'pps', 'vbd', 'ppo', ',', 'cc', 'pps', 'vbd', 'rp', '.']
+accuracy 1.0
+=============================
+test data 135
+['ma', 'never', 'went', 'near', 'the', 'old', 'man', 'when', 'he', 'was', 'sleeping', 'it', 'off', '.']
+Prob: 2.2996209267983606e-36
+result: ['nn-tl', 'rb', 'vbd', 'in', 'at', 'jj', 'nn', 'wrb', 'pps', 'bedz', 'vbg', 'ppo', 'rp', '.']
+accuracy 1.0
+=============================
+test data 136
+['not', 'any', 'more', '.']
+Prob: 3.050994958807735e-10
+result: ['*', 'dti', 'rbr', '.']
+accuracy 1.0
+=============================
+test data 137
+['not', 'for', 'years', '.']
+Prob: 1.292181128643042e-09
+result: ['*', 'in', 'nns', '.']
+accuracy 1.0
+=============================
+test data 138
+['the', 'first', 'thing', 'every', 'morning', 'when', 'she', 'washed', 'her', 'face', 'she', 'could', 'see', 'the', 'scar', 'on', 'her', 'chin', 'where', "he'd", 'cut', 'her', 'with', 'a', 'boot', 'cleat', ',', 'and', 'maybe', 'she', 'saw', 'him', 'heaving', 'it', 'again', ',', 'the', 'dirty', 'sock', 'popping', 'out', 'as', 'it', 'flew', '.']
+Prob: 0.0
+result: []
+=============================
+test data 139
+['it', 'should', 'have', 'been', 'nearly', 'as', 'easy', 'for', 'her', 'to', 'remember', 'that', 'as', 'it', 'was', 'for', 'big', 'hans', 'to', 'remember', 'going', 'after', 'the', 'axe', 'while', 'he', 'was', 'still', 'spattered', 'with', "pa's", 'yellow', 'sick', 'insides', '.']
+Prob: 0.0
+result: []
+=============================
+test data 140
+['``', 'no', 'you', "won't", "''", ',', 'big', 'hans', 'said', '.']
+Prob: 0.0
+result: []
+=============================
+test data 141
+['``', 'yes', ',', 'hans', ',', 'if', "they're", 'needed', "''", ',', 'ma','said', '.']
+Prob: 0.0
+result: []
+=============================
+test data 142
+['hans', 'shook', 'his', 'head', 'but', 'neither', 'of', 'us', 'tried', 'to', 'stop', 'her', '.']
+Prob: 0.0
+result: []
+=============================
+test data 143
+['if', 'we', 'had', ',', 'then', 'one', 'of', 'us', 'would', 'have', 'had','to', 'go', 'instead', '.']
+Prob: 7.096912058172139e-31
+result: ['cs', 'ppss', 'hvd', ',', 'rb', 'cd', 'in', 'ppo', 'md', 'hv', 'hvn', 'to', 'vb', 'rb', '.']
+accuracy 1.0
+=============================
+test data 144
+['hans', 'rubbed', 'the', 'kid', 'with', 'more', 'snow', 'rubbed', 'rubbed', '.']
+Prob: 0.0
+result: []
+=============================
+test data 145
+['``', "i'll", 'get', 'more', 'snow', "''", ',', 'i', 'said', '.']
+Prob: 1.10850412550839e-20
+result: ['``', 'ppss+md', 'vb', 'ap', 'nn', "''", ',', 'ppss', 'vbd', '.']
+accuracy 1.0
+=============================
+test data 146
+['i', 'took', 'the', 'pail', 'and', 'shovel', 'and', 'went', 'out', 'on', 'the', 'porch', '.']
+Prob: 6.475716379666757e-31
+result: ['ppss', 'vbd', 'at', 'nn', 'cc', 'nn', 'cc', 'vbd', 'rp', 'in', 'at', 'nn', '.']
+accuracy 1.0
+=============================
+test data 147
+['i', "don't", 'know', 'where', 'ma', 'went', '.']
+Prob: 7.920351070949223e-19
+result: ['ppss', 'do*', 'vb', 'wrb', 'nn-tl', 'vbd', '.']
+accuracy 1.0
+=============================
+test data 148
+['i', 'thought', "she'd", 'gone', 'upstairs', 'and', 'expected', 'to', 'hear', 'she', 'had', '.']
+Prob: 4.675042690685962e-37
+result: ['ppss', 'nn', 'pps+hvd', 'vbn', 'rb', 'cc', 'vbn', 'to', 'vb', 'pps', 'hvd', '.']
+accuracy 0.8333333333333334
+=============================
+test data 149
+['she', 'had', 'surprised', 'hans', 'like', 'she', 'had', 'surprised', 'me', 'when', 'she', 'said', "she'd", 'go', ',', 'and', 'then', 'she', 'surprised', 'him', 'again', 'when', 'she', 'came', 'back', 'so', 'quick', 'like', 'she', 'must', 'have', ',', 'because', 'when', 'i', 'came', 'in', 'with', 'the', 'snow', 'she', 'was', 'there', 'with', 'a', 'bottle', 'with', 'three', 'white', 'feathers', 'on', 'its', 'label', 'and', 'hans', 'was', 'holding', 'it', 'angrily', 'by', 'the', 'throat', '.']
+Prob: 0.0
+result: []
+=============================
+test data 150
+['oh', ',', 'he', 'was', 'being', 'queer', 'and', 'careful', ',', 'pawing','about', 'in', 'the', 'drawer', 'and', 'holding', 'the', 'bottle', 'like', 'a', 'snake', 'at', 'the', 'length', 'of', 'his', 'arm', '.']
+Prob: 0.0
+result: []
+=============================
+test data 151
+['he', 'was', 'awful', 'angry', 'because', "he'd", 'thought', 'ma', 'was', 'going', 'to', 'do', 'something', 'big', ',', 'something', 'heroic', 'even',',', 'especially', 'for', 'her', 'i', 'know', 'him', 'i', 'know', 'him', 'we', 'felt', 'the', 'same', 'sometimes', 'while', 'ma', "wasn't", 'thinking','about', 'that', 'at', 'all', ',', 'not', 'anything', 'like', 'that', '.']
+Prob: 0.0
+result: []
+=============================
+test data 152
+['there', 'was', 'no', 'way', 'of', 'getting', 'even', '.']
+Prob: 5.234218299292246e-17
+result: ['ex', 'bedz', 'at', 'nn', 'in', 'vbg', 'rb', '.']
+accuracy 0.875
+=============================
+test data 153
+['it', "wasn't", 'like', 'getting', 'cheated', 'at', 'the', 'fair', '.']
+Prob: 0.0
+result: []
+=============================
+test data 154
+['they', 'were', 'always', 'trying', 'so', 'you', 'got', 'to', 'expect', 'it', '.']
+Prob: 1.9007626919993226e-24
+result: ['ppss', 'bed', 'rb', 'vbg', 'cs', 'ppss', 'vbd', 'to', 'vb', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 155
+['now', 'hans', 'had', 'given', 'ma', 'something', 'of', 'his', '--', 'we','both', 'had', 'when', 'we', 'thought', 'she', 'was', 'going', 'straight', 'to', 'pa', '--', 'something', 'valuable', ';', ';']
+Prob: 0.0
+result: []
+=============================
+test data 156
+['but', 'since', 'she', "didn't", 'know', "we'd", 'given', 'it', 'to', 'her', ',', 'there', 'was', 'no', 'easy', 'way', 'of', 'getting', 'it', 'back', '.']
+Prob: 2.1424247870704877e-48
+result: ['cc', 'cs', 'pps', 'dod*', 'vb', 'ppss+hvd', 'vbn', 'ppo', 'in', 'ppo', ',', 'ex', 'bedz', 'at', 'jj', 'nn', 'in', 'vbg', 'ppo', 'rb', '.']
+accuracy 1.0
+=============================
+test data 157
+['hans', 'cut', 'the', 'foil', 'off', 'finally', 'and', 'unscrewed', 'the','cap', '.']
+Prob: 0.0
+result: []
+=============================
+test data 158
+['he', 'was', 'put', 'out', 'too', 'because', 'there', 'was', 'only', 'one', 'way', 'of', 'understanding', 'what', "she'd", 'done', '.']
+Prob: 1.5483510842153313e-39
+result: ['pps', 'bedz', 'vbn', 'rp', 'rb', 'cs', 'ex', 'bedz', 'rb', 'cd', 'nn', 'in', 'nn', 'wdt', 'pps+hvd', 'vbn', '.']
+accuracy 0.9411764705882353
+=============================
+test data 159
+['ma', 'had', 'found', 'one', 'of', "pa's", 'hiding', 'places', '.']
+Prob: 0.0
+result: []
+=============================
+test data 160
+["she'd", 'found', 'one', 'and', 'she', "hadn't", 'said', 'a', 'word', 'while', 'big', 'hans', 'and', 'i', 'had', 'hunted', 'and', 'hunted', 'as', 'we', 'always', 'did', 'all', 'winter', ',', 'every', 'winter', 'since', 'the', 'spring', 'that', 'hans', 'had', 'come', 'and', 'i', 'had', 'looked', 'in', 'the', 'privy', 'and', 'found', 'the', 'first', 'one', '.']
+Prob: 0.0
+result: []
+=============================
+test data 161
+['pa', 'had', 'a', 'knack', 'for', 'hiding', '.']
+Prob: 0.0
+result: []
+=============================
+test data 162
+['he', 'knew', 'we', 'were', 'looking', 'and', 'he', 'enjoyed', 'it', '.']
+Prob: 4.240824502276974e-21
+result: ['pps', 'vbd', 'ppss', 'bed', 'vbg', 'cc', 'pps', 'vbd', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 163
+['but', 'now', 'ma', '.']
+Prob: 1.857366323476381e-13
+result: ['cc', 'rb', 'nn-tl', '.']
+accuracy 1.0
+=============================
+test data 164
+["she'd", 'found', 'it', 'by', 'luck', 'most', 'likely', 'but', 'she', "hadn't", 'said', 'anything', 'and', 'we', "didn't", 'know', 'how', 'long', 'ago', "it'd", 'been', 'or', 'how', 'many', 'other', 'ones', "she'd", 'found', ',', 'saying', 'nothing', '.']
+Prob: 0.0
+result: []
+=============================
+test data 165
+['pa', 'was', 'sure', 'to', 'find', 'out', '.']
+Prob: 0.0
+result: []
+=============================
+test data 166
+['sometimes', 'he', "didn't", 'seem', 'to', 'because', 'he', 'hid', 'them','so', 'well', 'he', "couldn't", 'find', 'them', 'himself', 'or', 'because','he', 'looked', 'and', "didn't", 'find', 'anything', 'and', 'figured', 'he', "hadn't", 'hid', 'one', 'after', 'all', 'or', 'had', 'drunk', 'it', 'up', '.']
+Prob: 0.0
+result: []
+=============================
+test data 167
+['but', "he'd", 'find', 'out', 'about', 'this', 'one', 'because', 'we', 'were', 'using', 'it', '.']
+Prob: 5.006241590935465e-31
+result: ['cc', 'pps+md', 'vb', 'rp', 'in', 'dt', 'pn', 'cs', 'ppss', 'bed','vbg', 'ppo', '.']
+accuracy 0.9230769230769231
+=============================
+test data 168
+['a', 'fool', 'could', 'see', 'what', 'was', 'going', 'on', '.']
+Prob: 6.508702121897503e-22
+result: ['at', 'nn', 'md', 'vb', 'wdt', 'bedz', 'vbg', 'rp', '.']
+accuracy 1.0
+=============================
+test data 169
+['if', 'he', 'found', 'out', 'ma', 'found', 'it', '--', "that'd", 'be', 'bad', '.']
+Prob: 0.0
+result: []
+=============================
+test data 170
+['he', 'took', 'pride', 'in', 'his', 'hiding', '.']
+Prob: 2.404819217632895e-18
+result: ['pps', 'vbd', 'nn', 'in', 'pp$', 'vbg', '.']
+accuracy 0.8571428571428571
+=============================
+test data 171
+['it', 'was', 'all', 'the', 'pride', 'he', 'had', '.']
+Prob: 1.8040482060465952e-16
+result: ['pps', 'bedz', 'abn', 'at', 'nn', 'pps', 'hvd', '.']
+accuracy 1.0
+=============================
+test data 172
+['i', 'guess', 'fooling', 'hans', 'and', 'me', 'took', 'doing', '.']
+Prob: 0.0
+result: []
+=============================
+test data 173
+['but', 'he', "didn't", 'figure', 'ma', 'for', 'much', '.']
+Prob: 4.077058179850293e-23
+result: ['cc', 'pps', 'dod*', 'vb', 'nn-tl', 'in', 'ap', '.']
+accuracy 1.0
+=============================
+test data 174
+['he', "didn't", 'figure', 'her', 'at', 'all', ',', 'and', 'if', 'he', 'found', 'out', 'a', 'woman', "it'd", 'be', 'bad', '.']
+Prob: 0.0
+result: []
+=============================
+test data 175
+['hans', 'poured', 'some', 'in', 'a', 'tumbler', '.']
+Prob: 0.0
+result: []
+=============================
+test data 176
+['``', 'you', 'going', 'to', 'put', 'more', 'towels', 'on', 'him', "''", '?', '?']
+Prob: 1.9632670753949094e-26
+result: ['``', 'ppss', 'vbg', 'to', 'vb', 'ap', 'nns', 'in', 'ppo', "''", '.', '.']
+accuracy 1.0
+=============================
+test data 177
+['``', 'no', "''", '.']
+Prob: 1.1297622773210243e-07
+result: ['``', 'rb', "''", '.']
+accuracy 1.0
+=============================
+test data 178
+['``', 'why', 'not', '?', '?']
+Prob: 3.6001653704271444e-11
+result: ['``', 'wrb', '*', '.', '.']
+accuracy 1.0
+=============================
+test data 179
+["that's", 'what', 'he', 'needs', ',', 'something', 'warm', 'to', 'his', 'skin', ',', "don't", 'he', "''", '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 180
+['``', 'not', 'where', "he's", 'froze', 'good', '.']
+Prob: 0.0
+result: []
+=============================
+test data 181
+["heat's", 'bad', 'for', 'frostbite', '.']
+Prob: 0.0
+result: []
+=============================
+test data 182
+["that's", 'why', 'i', 'only', 'put', 'towels', 'on', 'his', 'chest', 'and', 'belly', '.']
+Prob: 2.9713413265663236e-33
+result: ['dt+bez', 'wrb', 'ppss', 'rb', 'vbn', 'nns', 'in', 'pp$', 'nn', 'cc', 'nn', '.']
+accuracy 0.9166666666666666
+=============================
+test data 183
+["he's", 'got', 'to', 'thaw', 'slow', '.']
+Prob: 1.0783730617260217e-18
+result: ['pps+hvz', 'vbn', 'to', 'vb', 'jj', '.']
+accuracy 0.8333333333333334
+=============================
+test data 184
+['you', 'ought', 'to', 'know', 'that', "''", '.']
+Prob: 2.2439243082649772e-14
+result: ['ppss', 'md', 'to', 'vb', 'dt', "''", '.']
+accuracy 1.0
+=============================
+test data 185
+['colors', 'on', 'the', 'towels', 'had', 'run', '.']
+Prob: 2.4877559130600347e-19
+result: ['nns', 'in', 'at', 'nns', 'hvd', 'vbn', '.']
+accuracy 1.0
+=============================
+test data 186
+['ma', 'poked', 'her', 'toe', 'in', 'the', "kid's", 'clothes', '.']
+Prob: 0.0
+result: []
+=============================
+test data 187
+['``', 'what', 'are', 'we', 'going', 'to', 'do', 'with', 'these', "''", '?', '?']
+Prob: 0.0
+result: []
+=============================
+test data 188
+['big', 'hans', 'began', 'pouring', 'whisky', 'in', 'the', "kid's", 'mouth', 'but', 'his', 'mouth', 'filled', 'without', 'any', 'getting', 'down', 'his', 'throat', 'and', 'in', 'a', 'second', 'it', 'was', 'dripping', 'from', 'his', 'chin', '.']
+Prob: 0.0
+result: []
+=============================
+test data 189
+['``', 'here', ',', 'help', 'me', 'prop', 'him', 'up', '.']
+Prob: 4.346817184329866e-26
+result: ['``', 'rb', ',', 'vb', 'ppo', 'nn', 'ppo', 'rp', '.']
+accuracy 0.8888888888888888
+=============================
+test data 190
+['i', 'got', 'hold', 'his', 'mouth', 'open', "''", '.']
+Prob: 1.162992216453783e-22
+result: ['ppss', 'vbd', 'vb', 'pp$', 'nn', 'rb', "''", '.']
+accuracy 0.875
+=============================
+test data 191
+['i', "didn't", 'want', 'to', 'touch', 'him', 'and', 'i', 'hoped', 'ma', 'would', 'do', 'it', 'but', 'she', 'kept', 'looking', 'at', 'the', "kid's", 'clothes', 'piled', 'on', 'the', 'floor', 'and', 'the', 'pool', 'of', 'water','by', 'them', 'and', "didn't", 'make', 'any', 'move', 'to', '.']
+Prob: 3.5113590768928603e-97
+result: ['ppss', 'dod*', 'vb', 'to', 'vb', 'ppo', 'cc', 'ppss', 'vbd', 'nn-tl', 'md', 'do', 'ppo', 'cc', 'pps', 'vbd', 'vbg', 'in', 'at', 'nn$', 'nns','vbn', 'in', 'at', 'nn', 'cc', 'at', 'nn', 'in', 'nn', 'in', 'ppo', 'cc', 'dod*', 'vb', 'dti', 'nn', 'in', '.']
+accuracy 0.9743589743589743
+=============================
+test data 192
+['``', 'come', 'on', ',', 'jorge', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 193
+['``', 'all', 'right', "''", '.']
+Prob: 8.262206125723435e-10
+result: ['``', 'abn', 'jj', "''", '.']
+accuracy 0.6
+=============================
+test data 194
+['``', 'lift', ',', "don't", 'shove', 'lift', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 195
+['``', 'o.k.', ',', "i'm", 'lifting', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 196
+['i', 'took', 'him', 'by', 'the', 'shoulders', '.']
+Prob: 1.4112749611680308e-14
+result: ['ppss', 'vbd', 'ppo', 'in', 'at', 'nns', '.']
+accuracy 1.0
+=============================
+test data 197
+['his', 'head', 'flopped', 'back', '.']
+Prob: 3.727482712199212e-15
+result: ['pp$', 'nn', 'vbd', 'rb', '.']
+accuracy 1.0
+=============================
+test data 198
+['his', 'mouth', 'fell', 'open', '.']
+Prob: 5.833592687373172e-16
+result: ['pp$', 'nn', 'vbd', 'rb', '.']
+accuracy 0.8
+=============================
+test data 199
+['the', 'skin', 'on', 'his', 'neck', 'was', 'tight', '.']
+Prob: 3.5367307765221534e-20
+result: ['at', 'nn', 'in', 'pp$', 'nn', 'bedz', 'rb', '.']
+accuracy 0.875
+=============================
+test data 200
+['he', 'was', 'cold', 'all', 'right', '.']
+Prob: 5.2454294263498383e-14
+result: ['pps', 'bedz', 'jj', 'abn', 'nn', '.']
+accuracy 0.6666666666666666
+=============================
+test data 201
+['``', 'hold', 'his', 'head', 'up', '.']
+Prob: 1.7772224082992645e-14
+result: ['``', 'vb', 'pp$', 'nn', 'rp', '.']
+accuracy 1.0
+=============================
+test data 202
+["he'll", 'choke', "''", '.']
+Prob: 3.21545933025245e-11
+result: ['pps+md', 'vb', "''", '.']
+accuracy 1.0
+=============================
+test data 203
+['``', 'his', 'mouth', 'is', 'open', "''", '.']
+Prob: 3.170328798659106e-15
+result: ['``', 'pp$', 'nn', 'bez', 'jj', "''", '.']
+accuracy 1.0
+=============================
+test data 204
+['``', 'his', "throat's", 'shut', '.']
+Prob: 6.9054486686781386e-15
+result: ['``', 'pp$', 'nn$-tl', 'vbn', '.']
+accuracy 0.8
+=============================
+test data 205
+["he'll", 'choke', "''", '.']
+Prob: 3.21545933025245e-11
+result: ['pps+md', 'vb', "''", '.']
+accuracy 1.0
+=============================
+test data 206
+['``', "he'll", 'choke', 'anyway', "''", '.']
+Prob: 1.0169468696672694e-15
+result: ['``', 'pps+md', 'vb', 'rb', "''", '.']
+accuracy 1.0
+=============================
+test data 207
+['``', 'hold', 'his', 'head', 'up', "''", '.']
+Prob: 1.6959529059533664e-15
+result: ['``', 'vb', 'pp$', 'nn', 'rp', "''", '.']
+accuracy 1.0
+=============================
+test data 208
+['``', 'i', "can't", "''", '.']
+Prob: 2.5487994683865858e-08
+result: ['``', 'ppss', 'md*', "''", '.']
+accuracy 1.0
+=============================
+test data 209
+['``', "don't", 'hold', 'him', 'like', 'that', '.']
+Prob: 4.762308912714702e-15
+result: ['``', 'do*', 'vb', 'ppo', 'cs', 'dt', '.']
+accuracy 1.0
+=============================
+test data 210
+['put', 'your', 'arms', 'around', 'him', "''", '.']
+Prob: 1.499296847097339e-17
+result: ['vb', 'pp$', 'nns', 'in', 'ppo', "''", '.']
+accuracy 1.0
+=============================
+test data 211
+['``', 'well', 'jesus', "''", '.']
+Prob: 1.569310558801013e-10
+result: ['``', 'uh', 'np', "''", '.']
+accuracy 0.8
+=============================
+test data 212
+['he', 'was', 'cold', 'all', 'right', '.']
+Prob: 5.2454294263498383e-14
+result: ['pps', 'bedz', 'jj', 'abn', 'nn', '.']
+accuracy 0.6666666666666666
+=============================
+test data 213
+['i', 'put', 'my', 'arm', 'carefully', 'around', 'him', '.']
+Prob: 2.852127297891981e-22
+result: ['ppss', 'vb', 'pp$', 'nn', 'rb', 'in', 'ppo', '.']
+accuracy 1.0
+=============================
+test data 214
+['hans', 'had', 'his', 'fingers', 'in', 'the', "kid's", 'mouth', '.']
+Prob: 0.0
+result: []
+=============================
+test data 215
+['``', 'now', "he'll", 'choke', 'for', 'sure', "''", '.']
+Prob: 0.0
+result: []
+=============================
+test data 216
+['``', 'shut', 'up', '.']
+Prob: 1.446860680775452e-09
+result: ['``', 'vbn', 'rp', '.']
+accuracy 0.75
+=============================
+test data 217
+['just', 'hold', 'him', 'like', 'i', 'told', 'you', "''", '.']
+Prob: 7.307592911915726e-20
+result: ['rb', 'vb', 'ppo', 'cs', 'ppss', 'vbd', 'ppo', "''", '.']
+accuracy 1.0
+=============================
+test data 218
+['he', 'was', 'cold', 'all', 'right', ',', 'and', 'wet', '.']
+Prob: 1.2509797352270186e-20
+result: ['pps', 'bedz', 'jj', 'abn', 'jj', ',', 'cc', 'jj', '.']
+accuracy 0.7777777777777778
+=============================
+test data 219
+['i', 'had', 'my', 'arm', 'behind', 'his', 'back', '.']
+Prob: 9.972526762870923e-20
+result: ['ppss', 'hvd', 'pp$', 'nn', 'in', 'pp$', 'nn', '.']
+accuracy 1.0
+=============================
+Total test time: 284.17150259017944 s
+Total accuracy: 0.9526881720430107
+Total null: 107

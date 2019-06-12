@@ -1,0 +1,6 @@
+[select operation]
+1. train
+2. test
+3. train and test
+4. check the model
+otherwise. exit

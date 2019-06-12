@@ -97,9 +97,9 @@ def train(sequences, delta=0.0001, smoothing=0):
             old_likelihood += log(eval_result)
 
     old_likelihood /= length
-    return model
     print("old_likelihood", old_likelihood)
-    
+    return model
+
     itercount = 1
     while True:
         new_likelihood = 0
